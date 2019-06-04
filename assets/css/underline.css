@@ -1,0 +1,56 @@
+
+/*
+code referenced from below URL
+https://stackoverflow.com/questions/45164065/thick-underline-when-hover-and-when-active*/
+
+
+
+ .navbar ul {
+  list-style-type:none;
+}
+
+ .navbar a {
+  position: relative;
+  color: #f05f40;
+  text-decoration: none;
+}
+
+.navbar a:visited {
+  color: #f05f40;
+  text-decoration:none;
+}
+ .navbar a:hover {
+  color: #f05f40;
+  text-decoration:none;
+}
+
+ .navbar a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: -2px;
+  left: 0;
+  background-color: #f05f40;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.5s ease-in-out 0s;
+  transition: all 0.5s ease-in-out 0s;
+}
+
+ .navbar a:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(.9);
+  transform: scaleX(.9);
+}
+
+
+ .navbar .active a:before,
+ .navbar a:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(.9);
+  transform: scaleX(.9);
+}
+
+

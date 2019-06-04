@@ -1,0 +1,100 @@
+/*--------------------BODY TEXT----------------------------------------------------------------*/
+
+body {
+    font-family: 'Abel', sans-serif;
+    position: relative;
+}
+
+.wrapper {
+    height: 100VH;
+    width: 100%;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('../images/homepage1.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+/*--------------------- NAVBAR ------------------------------------------*/
+
+.navbar {
+   background: transparent;
+   border: none !important; 
+}
+
+footer {
+    background-color: #4e3317;
+    min-height: 60px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    position: relative;
+
+}
+
+
+.social-header {
+    padding-right: 10px;
+    padding-top: 20px;
+
+}
+
+
+
+.social-links {
+    float: right;
+}
+
+/* footer media links - aligns teh footer media buttons to float left on small devices
+as this is more visually appealing*/
+
+@media (max-width: 470px) {
+    .social-links {
+        float: none;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+/*end of media code  */
+
+.social-text {
+    color: #F8F8F8;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.social-links li i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 8px;
+    text-align: center;
+    color: #fafafa;
+    border: 1px solid #CDCDCD;
+    background: transparent;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+
+
+.social-links li i:hover {
+    background-color: #f05f40;
+}
