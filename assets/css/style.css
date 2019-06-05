@@ -104,11 +104,14 @@ section {
 #portfolio1:hover {opacity: 0.7;}
 */
 
+.row {
+  display: flex;
+}
+
 
 .vividworknav {
       width: 100%;
       height: auto;
-      float: left;
       padding: 0;
       position: relative;
       background-color: black;
