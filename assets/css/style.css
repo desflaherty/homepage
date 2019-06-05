@@ -28,7 +28,8 @@ html,body {
   -moz-transition:padding 0.2s ease-out;  
   -o-transition:padding 0.2s ease-out;         
   transition:padding 0.2s ease-out;
-
+  background-color: #353333;
+  border-color: #353333;
 }
 
 .affix-top {
@@ -79,8 +80,40 @@ section {
     justify-content: center;
 }
 
+.portfolio-header {
+    color:#000;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.portfolio-text {
+    color:#000;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+@media (min-width: 767px) {
+#portfolio .portfolio-item {
+    margin: 0;
+}
+
+#portfolio .portfolio-item {
+    margin: 0;
+    right: 0;
+}
+
+#portfolio  {
+    z-index: 2;
+}
+
+
+
+
 
 /*--------------------- NAVBAR ------------------------------------------*/
+
+
+
 
 .navbar-default .navbar-collapse {
     border-color: transparent;
@@ -108,7 +141,11 @@ section {
 
 .navbar .navbar-brand {
     padding-top: 15px;
+    color:#FFF
 }
+
+
+
 
 .navbar-default .navbar-nav>li>a {
     color: white;
