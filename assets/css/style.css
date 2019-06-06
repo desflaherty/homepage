@@ -88,7 +88,7 @@ section {
 
 .portfolio-text {
     color:#000;
-    font-size: 20px;
+    font-size: 22px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -149,6 +149,23 @@ section {
     padding: 30px;
 }
 
+
+.about-header {
+    color:#000;
+    font-size: 50px;
+    padding-top: 100px;
+    padding-bottom:20px;
+}
+ 
+ .about-text {
+    color:#000;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ 
+ 
+ 
 /*--------------------- NAVBAR ------------------------------------------*/
 
 
