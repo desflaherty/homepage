@@ -94,19 +94,6 @@ section {
 }
 
 
-/*
-#portfolio1 {
-  border-radius: 5px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-#portfolio1:hover {opacity: 0.7;}
-*/
-
-
-
-
 .portfolio{
       width: 100%;
       height: auto;
@@ -154,8 +141,8 @@ section {
       opacity: 0;
     }
 
-.more-content {
-    color: black;
+.portfolio-wrapper {
+    padding: 20px;
 }
 
 
