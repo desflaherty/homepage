@@ -15,7 +15,7 @@ html,body {
 
 
 .first {
-  padding-top:140px;
+  padding-top:160px;
   height:100vh;
   min-height:400px;
   background-size:cover;
@@ -59,16 +59,16 @@ section {
 
 
 .hi {
-    font-size:2rem;
+    font-size:2em;
 }
 
 .name {
-    font-size: 6rem;
+    font-size: 6em;
 }
 
 
 .description {
-    font-size: 2.5rem;
+    font-size: 2.5em;
 }
 
 .enquire-container {
@@ -202,7 +202,7 @@ section {
 
 .navbar-default .navbar-nav a {
     font-weight: bold;
-    font-size: 1.2em;
+    font-size: 1.5em;
 }
 
 .navbar-default .navbar-nav>.active>a,
@@ -233,6 +233,10 @@ section {
     color: white;
     background-color: #f05f40;
     border-color: #f05f40;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    font-size: 24px;
 }
 
 .btn-red:hover,
