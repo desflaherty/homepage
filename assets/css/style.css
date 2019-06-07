@@ -150,12 +150,16 @@ section {
     padding: 30px;
 }
 
+.contact-colour {
+    background-color: #525252;
+}
+
 
 .about-header {
     color:#000;
     font-size: 50px;
-    padding-top: 100px;
-    padding-bottom:20px;
+    padding-top: 140px;
+    padding-bottom:50px;
 }
  
  .about-text {
@@ -275,7 +279,7 @@ footer {
     color: #fafafa;
     min-height: 120px;
     margin: 0;
-    margin-top: 250px;
+    margin-top: 380px;
 }
 
 footer .cv-pdf i {
@@ -293,16 +297,28 @@ footer .cv-pdf i:hover {
     -o-transition: all 0.35s ease-in-out;
 }
 
+.fcontact {
+    font-size:18px;
+}
+
+.fcontactpadding {
+    padding-left: 30px;
+}
+
+.fsocialpadding {
+    padding-left:180px;
+}
+
 .social-links {
     padding-bottom: 15px;
 }
 
 .social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
+    width: 42px;
+    height: 42px;
+    padding: 16px 0;
     border-radius: 50%;
-    font-size: 13px;
+    font-size: 20px;
     line-height: 7px;
     text-align: center;
     color: #fafafa;
@@ -331,6 +347,12 @@ h1 {
 
 label {
     color: #333;
+    font-size:18px;
+}
+
+.form-control{
+    font-size: 16px;
+    height: 54px;
 }
 
 .btn-send {
