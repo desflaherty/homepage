@@ -88,9 +88,10 @@ section {
 
 .portfolio-text {
     color:#000;
-    font-size: 22px;
+    font-size: 24px;
     padding-top: 10px;
     padding-bottom: 10px;
+   
 }
 
 
@@ -159,7 +160,7 @@ section {
  
  .about-text {
     color:#000;
-    font-size: 20px;
+    font-size: 21px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -274,6 +275,7 @@ footer {
     color: #fafafa;
     min-height: 120px;
     margin: 0;
+    margin-top: 250px;
 }
 
 footer .cv-pdf i {
