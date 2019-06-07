@@ -83,7 +83,7 @@ section {
 .portfolio-header {
     color:#000;
     font-size: 50px;
-    padding-top: 50px;
+    padding-top: 100px;
 }
 
 .portfolio-text {
@@ -320,3 +320,25 @@ footer .cv-pdf i:hover {
 }
 
 
+/**********************CONTACT FORM **********************************************************************/
+
+
+h1 {
+    margin-bottom: 40px;
+}
+
+label {
+    color: #333;
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin-bottom: 20px;
+}
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+}

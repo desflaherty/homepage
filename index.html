@@ -9,9 +9,10 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Abel" type="text/css" />
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/underline.css">
 	</head>
 	
-<body>
+<body data-spy="scroll" data-target="#navbar">
 	
 <div class="navbar navbar-default navbar-fixed-top" data-spy="affix" data-offset-top="150">
   <div class="container">
@@ -21,12 +22,26 @@
         <i class="fa fa-bars"></i>
       </a>
     </div>
-    <div class="navbar-collapse collapse">
+    <div class="navbar-collapse collapse" id="navbar">
       <ul class="nav navbar-right navbar-nav">
-        <li><a href="#">PORTFOLIO</a></li>
-        <li><a href="#">ABOUT</a></li>
-        <li><a href="#">CONTACT</a></li>
+        <li><a href="#portfolio">PORTFOLIO</a></li>
+        <li><a href="#about">ABOUT</a></li>
+        <li><a href="#contact">CONTACT</a></li>
       </ul>
+      <script>
+                    /* global $*/
+                    (".nav li").on("click", function() {
+                        $(".nav li").removeClass("active");
+                        $(this).addClass("active");
+                    });
+
+                    //https://v4-alpha.getbootstrap.com/components/scrollspy/#mdo.
+                    //Scroll spy used to update navbar links on scroll so they will be on the relevant section
+
+                    $('body').scrollspy({ target: '#navbar' })
+                </script>
+      
+      
     </div>		
   </div>
 </div><!-- /.navbar -->
@@ -48,7 +63,7 @@
 
 <section>
   <div class="container"> 
-    <p class="text-center portfolio-header">MY PORTFOLIO</p>
+    <p class="text-center portfolio-header" id="portfolio">MY PORTFOLIO</p>
   </div>
   <div>
     <p class="text-center portfolio-text">The projects shown below were developed using Full Stack 
@@ -111,10 +126,10 @@
 </section>
 
 <section>
-  <div class="container"> 
+  <div class="container" > 
   <div class="row">
   <div class="col-xs-12">
-  <p class="text-center about-header">ABOUT ME</p>
+  <p class="text-center about-header" id="about">ABOUT ME</p>
   </div>
   </div>
   
@@ -139,7 +154,7 @@
   <div class="container"> 
   <div class="row">
   <div class="col-xs-12">
-  <p class="text-center about-header">CONTACT</p>
+  <p class="text-center about-header" id="contact">CONTACT</p>
   
   
  
@@ -217,6 +232,7 @@
   </div>
 </section>
 		
+	<section>
 		 <footer class="container-fluid">
             <div class="row">
                 <div class="col-sm-4">
@@ -245,13 +261,20 @@
                 </div>
             </div>
         </footer>
-		
-		
+	
+		</section>
 		
 		
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   
+   <script>
+        $(document).on('click', '.navbar-collapse.in', function(e) {
+            if ($(e.target).is('a')) {
+                $(this).collapse('hide');
+            }
+        });
+    </script>
   
 		
 		
