@@ -369,9 +369,49 @@ label {
 
 /************************** MEDIA QUERIES *****************************************************************************************/
 
-
 @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
-   .name {
+   .hi {
+    font-size: 1.2em;
+}
+.name {
     font-size: 2em;
 }
+.description {
+    font-size: 1.5em;
 }
+.btn-cta {
+    font-weight: bold;
+    border-radius: 23px;
+    width: 100px;
+    text-align: center;
+
+}
+}
+
+
+@media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
+.affix-top {
+  /* navbar style at top */
+  background-color: #353333;
+  border-color:#353333;
+  padding: 15px;
+  -webkit-transition:all 0.5s ease;
+  -moz-transition:all 0.5s ease; 
+  -o-transition:all 0.5s ease;         
+  transition:all 0.5s ease;  
+}
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
+   .portfolio-header  {
+    font-size: 30px;
+}
+.about-header  {
+    font-size: 30px;
+}
+}
+
+
+
+
+
