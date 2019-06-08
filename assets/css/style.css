@@ -384,7 +384,18 @@ label {
     border-radius: 23px;
     width: 100px;
     text-align: center;
-
+}
+.portfolio-text {
+    font-size:12px;
+}
+.portfolio-media-h {
+    font-size:12px;
+}
+.portfolio-media-s {
+font-size:10px;
+}
+.about-text {
+    font-size: 12px;
 }
 }
 
