@@ -422,7 +422,7 @@ footer {
 }
 
 .fsocialpadding {
-    padding-left:60px;
+    padding-left:10px;
 }
 .social-links li a i {
     width: 32px;
@@ -464,7 +464,11 @@ footer {
 }
 }
 
-
+@media screen and (min-device-width: 768px) {
+    .fsocialpadding {
+    padding-left:40px;
+}
+}
 
 
 
