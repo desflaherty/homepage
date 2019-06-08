@@ -377,7 +377,7 @@ label {
     font-size: 2em;
 }
 .description {
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 .btn-cta {
     font-weight: bold;
@@ -439,6 +439,7 @@ footer {
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
 }
+
 }
 
 
@@ -447,11 +448,18 @@ footer {
   /* navbar style at top */
   background-color: #353333;
   border-color:#353333;
-  padding: 15px;
+  padding-top:15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 5px;
   -webkit-transition:all 0.5s ease;
   -moz-transition:all 0.5s ease; 
   -o-transition:all 0.5s ease;         
   transition:all 0.5s ease;  
+}
+.navbar-header
+{
+    padding-bottom: 40px;
 }
 }
 
