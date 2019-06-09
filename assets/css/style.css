@@ -152,13 +152,7 @@ section {
       opacity: 0;
     }
 
-.portfolio-wrapper {
-    padding: 20px;
-}
 
-.portfolio-wrapper2 {
-    padding: 30px;
-}
 
 .contact-colour {
     background-color: #525252;
@@ -403,18 +397,10 @@ label {
     text-align: center;
 }
 .portfolio-text {
-    font-size:16px;
+    font-size:18px;
 }
 
-  
-    
-}
-.portfolio-media-h {
-    font-size:12px;
-}
-.portfolio-media-s {
-font-size:10px;
-}
+
 .about-text {
     font-size: 18px;
 }
