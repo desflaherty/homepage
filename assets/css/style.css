@@ -395,15 +395,18 @@ label  {
 /************************** MEDIA QUERIES MOBILE *****************************************************************************************/
 
 @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
+  
    .hi {
-    font-size: 1.2em;
-}
-.name {
     font-size: 2em;
 }
-.description {
-    font-size: 1.2em;
+.name {
+    font-size: 4em;
 }
+.description {
+    font-size: 2em;
+}
+
+
 .btn-cta {
     font-weight: bold;
     border-radius: 23px;
