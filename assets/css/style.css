@@ -461,9 +461,15 @@ label {
 .navbar-header{
     padding-bottom: 40px;
 }
+
+.contact-m {
+    padding-left: 40px;
 }
 
-@media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
+.fsocialpadding {
+    padding-left:100px;
+}
+
    .portfolio-header  {
     font-size: 30px;
     padding-top: 50px;
