@@ -19,15 +19,15 @@ html,body {
   height: 100VH;
   width: 100%;
   min-height:400px;
- background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    background-position: center;
-    background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url('../images/homepage1.jpg');
+ url('../images/homepage1.jpg');
 }
 
 .affix {
@@ -151,13 +151,7 @@ section {
       opacity: 0;
     }
 
-.portfolio-wrapper {
-    padding: 20px;
-}
 
-.portfolio-wrapper2 {
-    padding: 30px;
-}
 
 .contact-colour {
     background-color: #525252;
