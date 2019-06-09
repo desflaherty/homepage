@@ -8,7 +8,11 @@ body {
 
 /* CSS used here will be applied after bootstrap.css */
 html,body {
-  height:100%;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
     
 }
 
@@ -158,6 +162,13 @@ section {
 
 
 .about-header {
+    color:#000;
+    font-size: 50px;
+    padding-top: 140px;
+    padding-bottom:50px;
+}
+
+.contact-header {
     color:#000;
     font-size: 50px;
     padding-top: 140px;
@@ -388,7 +399,17 @@ label {
     text-align: center;
 }
 .portfolio-text {
-    font-size:10px;
+    font-size:16px;
+}
+
+   .portfolio-wrapper {
+    padding: 5px;
+}
+
+.portfolio-wrapper2 {
+    padding: 5px;
+}
+    
 }
 .portfolio-media-h {
     font-size:12px;
@@ -397,14 +418,14 @@ label {
 font-size:10px;
 }
 .about-text {
-    font-size: 14px;
+    font-size: 18px;
 }
 .form-control{
-    font-size: 12px;
-    height: 24px;
+    font-size: 16px;
+    height: 32px;
 }
 label {
-    font-size:12px;
+    font-size:16px;
 }
 footer {
     background-color: #525252;
@@ -442,7 +463,7 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
-}
+
 
 
 @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
@@ -450,14 +471,7 @@ footer {
   /* navbar style at top */
   background-color: #353333;
   border-color:#353333;
-  padding-top:15px;
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-bottom: 5px;
-  -webkit-transition:all 0.5s ease;
-  -moz-transition:all 0.5s ease; 
-  -o-transition:all 0.5s ease;         
-  transition:all 0.5s ease;  
+    
 }
 
 .navbar-header
@@ -469,10 +483,23 @@ footer {
 @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
    .portfolio-header  {
     font-size: 30px;
+    padding-top: 50px;
 }
 .about-header  {
     font-size: 30px;
+     padding-top: 80px;
 }
+
+.contact-header  {
+    font-size: 30px;
+     padding-top: 50px;
+}
+
+.dogpic {
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+
 }
 
 @media screen and (min-device-width: 768px) {
