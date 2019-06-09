@@ -163,11 +163,11 @@ section {
     color:#000;
     font-size: 50px;
     padding-top: 100px;
-    padding-bottom:20px;
+    padding-bottom:10px;
 }
 
 .contact-header {
-    color:#000;
+    color:#FFF;
     font-size: 50px;
     padding-top: 100px;
     padding-bottom:50px;
@@ -175,11 +175,14 @@ section {
  
  .about-text {
     color:#000;
-    font-size: 21px;
+    font-size: 18px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
  
+ .fa-download:before {
+     color:#f05f40;
+ }
  
  
 /*--------------------- NAVBAR ------------------------------------------*/
@@ -286,11 +289,11 @@ section {
 
 
 footer {
-    background-color: #525252;
+    background-color: #FFF;
     color: #fafafa;
-    min-height: 120px;
+    min-height: 90px;
     margin: 0;
-    margin-top: 300px;
+    margin-top: 10px;
 }
 
 footer .cv-pdf i {
@@ -318,6 +321,7 @@ footer .cv-pdf i:hover {
 
 .fsocialpadding {
     padding-left:120px;
+    padding-top: 20px;
 }
 
 .social-links {
@@ -356,9 +360,13 @@ h1 {
     margin-bottom: 40px;
 }
 
-label {
-    color: #333;
+label  {
+    color: #FFF;
     font-size:18px;
+}
+
+.text-muted {
+    color: #FFF;
 }
 
 .form-control{
@@ -376,6 +384,12 @@ label {
 .help-block.with-errors {
     color: #ff5050;
     margin-top: 5px;
+}
+
+.contact-m
+{
+    color:#000;
+    padding-top: 20px;
 }
 
 /************************** MEDIA QUERIES MOBILE *****************************************************************************************/
@@ -416,9 +430,7 @@ label {
     padding-left: 10px;
 }
 
-.fsocialpadding {
-    padding-left:10px;
-}
+
 .social-links li a i {
     width: 32px;
     height: 32px;
@@ -436,7 +448,7 @@ label {
 }
 
 
-
+}
 
 @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
 .affix-top {
@@ -446,8 +458,7 @@ label {
     
 }
 
-.navbar-header
-{
+.navbar-header{
     padding-bottom: 40px;
 }
 }
@@ -474,12 +485,9 @@ label {
 
 }
 
-@media screen and (min-device-width: 768px) {
-    .fsocialpadding {
-    padding-left:40px;
+
+
+.contact-section {
+    background-color: #525252;
 }
-}
-
-
-
 
