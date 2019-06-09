@@ -16,9 +16,16 @@ html,body {
 
 .first {
   padding-top:160px;
-  height:100vh;
+  height: 100VH;
+  width: 100%;
   min-height:400px;
-  background-size:cover;
+ background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url('../images/homepage1.jpg');
 }
