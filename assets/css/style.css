@@ -20,7 +20,7 @@ html,body {
   width: 100%;
   min-height:400px;
   background-size: cover;
-  display: flex;
+ 
   align-items: center;
   justify-content: center;
   position: relative;
