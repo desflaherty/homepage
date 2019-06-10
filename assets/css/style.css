@@ -3,7 +3,7 @@
 body {
     font-family: 'Abel', sans-serif;
     position: relative;
-    color: #FFF;
+   
 }
 
 /* CSS used here will be applied after bootstrap.css */
@@ -12,8 +12,9 @@ html,body {
     
 }
 
- .contactsection {
+ .contactbg{
     background-color: #525252;
+    
 }
 
 
