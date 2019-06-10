@@ -519,4 +519,26 @@ label {
 .navbar-header{
     padding-bottom: 40px;
 }
+
+.contact-m {
+    text-align:center;
 }
+
+.fsocialpadding {
+    padding-left:200px;
+}
+
+
+
+}
+
+
+@media screen and (min-device-width: 992px) { 
+    .contact-m {
+    text-align:left;
+}
+
+}
+
+
+    
