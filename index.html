@@ -47,18 +47,7 @@
         <li><a href="#aboutme">ABOUT</a></li>
         <li><a href="#contact">CONTACT</a></li>
       </ul>
-      <script>
-                    /* global $*/
-                    (".nav li").on("click", function() {
-                        $(".nav li").removeClass("active");
-                        $(this).addClass("active");
-                    });
-
-                    //https://v4-alpha.getbootstrap.com/components/scrollspy/#mdo.
-                    //Scroll spy used to update navbar links on scroll so they will be on the relevant section
-
-                    $('body').scrollspy({ target: '#navbar' })
-                </script>
+      
       
       
     </div>		
@@ -271,9 +260,10 @@
 	
 	
 		
-		
-	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+   <script type="text/javascript" src="assets/js/javascript.js"></script>
   
    <script>
         $(document).on('click', '.navbar-collapse.in', function(e) {
