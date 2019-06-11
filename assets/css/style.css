@@ -184,7 +184,8 @@ section {
     padding-top: 10px;
     padding-bottom: 10px;
 }
- 
+
+
  .fa-download:before {
      color:#f05f40;
  }
@@ -527,9 +528,6 @@ label {
 .fsocialpadding {
     padding-left: 200px;
 }
-
-
-
 }
 
 
@@ -537,8 +535,8 @@ label {
     .contact-m {
     text-align:left;
 }
-
 }
+
 
 
 
