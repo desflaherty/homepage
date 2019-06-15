@@ -253,6 +253,12 @@ section {
     text-align: center;
 }
 
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: #FFF;
+    background-color: transparent;
+}
+
+
 .btn-cta {
     font-weight: bold;
     border-radius: 23px;
