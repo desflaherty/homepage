@@ -18,6 +18,14 @@ html,body {
     
 }
 
+.modal-header {
+  background-color: #7a7575;
+ 
+}
+
+.modal-body {
+    background-color: #8e8b8b;
+}
 
 .first {
   padding-top:160px;
@@ -64,6 +72,8 @@ html,body {
    box-shadow:initial;
 }
 
+
+
 /*
 section {
   height:calc(90% - 50px);
@@ -100,6 +110,12 @@ section {
     padding-top: 100px;
 }
 
+.portfolio-headergraphic  {
+     color:#000;
+    font-size: 50px;
+    padding-top: 150px;
+}
+
 .portfolio-text {
     color:#000;
     font-size: 24px;
@@ -124,6 +140,11 @@ section {
       position: relative;
       background-color: black;
     }
+    
+    
+.portfolio-padding {
+    padding-bottom: 50px;
+}    
 
 
     .portfolio:hover img {
@@ -224,6 +245,18 @@ section {
 }
 
 
+.navbar-default-dark {
+     background-color: #353333;
+  border-color: #353333;
+    box-shadow: none;
+}
+
+
+
+
+
+
+
 .pointer {
     cursor: pointer;
 }
@@ -273,6 +306,12 @@ section {
     width: 180px;
     text-align: center;
 
+}
+
+
+.xbutton {
+    color:white;
+    
 }
 
 .btn-red {
@@ -499,10 +538,12 @@ label {
     padding-left:100px;
 }
 
-   .portfolio-header  {
-    font-size: 30px;
-    padding-top: 100px;
-}
+ 
+
+
+
+
+
 .about-header  {
     font-size: 30px;
      padding-top: 100px;
