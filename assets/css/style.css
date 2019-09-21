@@ -407,6 +407,23 @@ footer .cv-pdf i:hover {
     -o-transition: all 0.35s ease-in-out;
 }
 
+.social-links-white li a i {
+    width: 42px;
+    height: 42px;
+    padding: 16px 0;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 7px;
+    text-align: center;
+    color: #353333;
+    background: #FFF;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+
 .social-links li a i:hover {
     background: #e84610;
 }
@@ -518,6 +535,8 @@ label {
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
 }
+
+
 
 
 }
