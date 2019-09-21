@@ -309,10 +309,11 @@ section {
 }
 
 
-.xbutton {
-    color:white;
-    
+.close {
+    color: #FFF;
+    opacity:.9;
 }
+
 
 .btn-red {
     color: white;
@@ -346,6 +347,9 @@ section {
 }
 
 
+.dark {
+    background-color: #353333;
+}
 
 footer {
     background-color: #FFF;
@@ -448,6 +452,12 @@ label  {
 .contact-m
 {
     color:#000;
+    padding-top: 20px;
+}
+
+.contact-w
+{
+    color:#FFF;
     padding-top: 20px;
 }
 
