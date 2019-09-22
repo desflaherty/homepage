@@ -695,8 +695,9 @@ label {
 .competitor-group > .row {
   overflow-x: auto;
   white-space: nowrap;
+  padding-top: 20px;
 }
-.competitor-group > .row > .col-xs-4 {
+.competitor-group > .row > .col-xs-6 {
   display: inline-block;
   float: none;
 }
