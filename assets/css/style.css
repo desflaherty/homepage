@@ -120,7 +120,7 @@ section {
     color:#000;
     font-size: 24px;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
    
 }
 
@@ -150,9 +150,14 @@ section {
       background-color: black;
       text-align: center;
       padding: 10px ;
-      border: 5px solid grey ;
+      border: 3px solid grey ;
+      border-radius: 5px;
 }    
     
+ 
+ .portfolio-home-padding {
+     padding-bottom:10px;
+ }
     
 .portfolio-padding {
     padding-bottom: 50px;
@@ -319,7 +324,7 @@ section {
 
 .btn-cta {
     font-weight: bold;
-    border-radius: 23px;
+    border-radius: 5px;
     width: 180px;
     text-align: center;
 
@@ -346,7 +351,7 @@ section {
 .btn-dark:active:focus {
     background-color: #000;
     border-color:#000;
-    color: red;
+    color: #f05f40;
 }
 
 .btn-red {
@@ -529,7 +534,7 @@ label  {
 
 .btn-cta {
     font-weight: bold;
-    border-radius: 23px;
+    border-radius: 5px;
     width: 120px;
     text-align: center;
 }
@@ -656,7 +661,23 @@ label {
 }
 
 
+/****************UX*************************************/
 
+.grey-bg {
+    background-color: grey;
+}
 
+.portfolio-text-w {
+    color:#FFF;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
 
+.portfolio-ux-heading {
+    color:#000;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
     
