@@ -688,7 +688,20 @@ label {
 .portfolio-ux-body {
     color:#000;
     font-size: 24px;
-   
-   
 }
+    
+    
+/* The heart of the matter */
+.competitor-group > .row {
+  overflow-x: auto;
+  white-space: nowrap;
+}
+.competitor-group > .row > .col-xs-4 {
+  display: inline-block;
+  float: none;
+}
+
+
+
+
     
