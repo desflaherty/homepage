@@ -706,7 +706,15 @@ label {
   float: none;
 }
 
-
+.flow-group > .row {
+  overflow-x: auto;
+  white-space: nowrap;
+  padding-top: 20px;
+}
+.flow-group > .row > .col-xs-10 {
+  display: inline-block;
+  float: none;
+}
 
 
     
