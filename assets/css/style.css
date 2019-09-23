@@ -716,5 +716,27 @@ label {
   float: none;
 }
 
+.nav-group > .row {
+  overflow-x: auto;
+  white-space: nowrap;
+  padding-top: 20px;
+}
+.nav-group > .row > .col-xs-6 {
+  display: inline-block;
+  float: none;
+}
+
+.interaction-group > .row {
+  overflow-x: auto;
+  white-space: nowrap;
+  padding-top: 20px;
+}
+.interaction-group > .row > .col-xs-4 {
+  display: inline-block;
+  float: none;
+}
+
+
+
 
     
