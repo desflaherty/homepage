@@ -678,7 +678,7 @@ label {
 .portfolio-text-w {
     color:#FFF;
     font-size: 24px;
-    padding-top: 10px;
+    padding-top: 20px;
     padding-bottom: 20px;
     margin-bottom: 20px;
 }
@@ -704,17 +704,30 @@ label {
   white-space: nowrap;
   padding-top: 20px;
 }
-.competitor-group > .row > .col-xs-6 {
+.competitor-group > .row > .col-xs-10 {
   display: inline-block;
   float: none;
 }
+
+.test-group > .row {
+  overflow-x: auto;
+  white-space: nowrap;
+  padding-top: 20px;
+}
+.test-group > .row > .col-xs-10 {
+  display: inline-block;
+  float: none;
+}
+
+
+
 
 .flow-group > .row {
   overflow-x: auto;
   white-space: nowrap;
   padding-top: 20px;
 }
-.flow-group > .row > .col-xs-10 {
+.flow-group > .row > .col-xs-12 {
   display: inline-block;
   float: none;
 }
@@ -748,6 +761,7 @@ label {
     height: 500px;
     overflow: hidden;
 }
+
 
 
 .wireframes-group > .row {
