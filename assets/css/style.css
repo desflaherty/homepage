@@ -768,7 +768,6 @@ label {
 }
 
 
-
 .wireframes-group > .row {
   overflow-x: auto;
   white-space: nowrap;
@@ -783,5 +782,8 @@ label {
     background-color: rgb(255,255,255);
 }
 
-
+.embed-responsive-16by9 {
+    padding-bottom:46%;
+    
+    }
 
