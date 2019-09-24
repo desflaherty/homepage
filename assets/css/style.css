@@ -680,13 +680,15 @@ label {
     font-size: 24px;
     padding-top: 10px;
     padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .portfolio-ux-heading {
     color:#000;
     font-size: 24px;
-    padding-top: 10px;
+    padding-top: 50px;
     padding-bottom: 20px;
+   
 }
 
 .portfolio-ux-body {
@@ -732,7 +734,7 @@ label {
   white-space: nowrap;
   padding-top: 20px;
 }
-.interaction-group > .row > .col-xs-4 {
+.interaction-group > .row > .col-xs-12 {
   display: inline-block;
   float: none;
 }
@@ -744,6 +746,22 @@ label {
 
 .imginteraction {
     height: 500px;
+    overflow: hidden;
+}
+
+
+.wireframes-group > .row {
+  overflow-x: auto;
+  white-space: nowrap;
+  padding-top: 20px;
+}
+.wireframes-group > .row > .col-xs-12 {
+  display: inline-block;
+  float: none;
+}
+
+.imgwireframes {
+    height: 1500px;
     overflow: hidden;
 }
 
