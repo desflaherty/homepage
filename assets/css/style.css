@@ -4,13 +4,17 @@ body {
     font-family: 'Abel', sans-serif;
     position: relative;
     color:#FFF;
-   
+  
 }
+
+
+
+
 
 /* CSS used here will be applied after bootstrap.css */
 html,body {
   height:100%;
-    
+   
 }
 
  .contactbg{
@@ -678,9 +682,10 @@ label {
 .portfolio-text-w {
     color:#FFF;
     font-size: 24px;
-    padding-top: 20px;
+    padding-top: 10px;
     padding-bottom: 20px;
     margin-bottom: 20px;
+    margin-top:20px;
 }
 
 .portfolio-ux-heading {
@@ -774,6 +779,9 @@ label {
   float: none;
 }
 
+.video-container:-webkit-full-page-media {
+    background-color: rgb(255,255,255);
+}
 
 
 
