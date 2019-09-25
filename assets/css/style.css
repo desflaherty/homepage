@@ -583,6 +583,22 @@ label {
     -o-transition: all 0.35s ease-in-out;
 }
 
+.social-links-white li a i {
+    width: 32px;
+    height: 32px;
+    padding: 14px 0;
+    border-radius: 50%;
+    font-size: 16px;
+    line-height: 7px;
+    text-align: center;
+    color: #353333;
+    background:#fafafa;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
 
 
 
