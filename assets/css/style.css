@@ -140,7 +140,7 @@ section {
 .portfolio{
       width: 100%;
       height: auto;
-      padding: 0;
+      padding: 0px;
       position: relative;
       background-color: black;
       text-align: center;
@@ -799,7 +799,7 @@ label {
 
 
 .embed-responsive-16by9 {
-    padding-bottom:45.1%;
+    padding-bottom:45.25%;
     
     }
 
@@ -816,6 +816,13 @@ label {
   min-height: 100%;
   border-radius: 0;
   font-size: 20px;
+}
+
+
+.no-gutter {
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0!important;
 }
 
 
