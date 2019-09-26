@@ -3,12 +3,14 @@
 body {
     font-family: 'Abel', sans-serif;
     position: relative;
-    color:#FFF;
+    color:white;
   
 }
 
 
-
+.portfolio-bg {
+  background-color:#FAFAFA;   
+}
 
 
 /* CSS used here will be applied after bootstrap.css */
@@ -819,10 +821,28 @@ label {
 }
 
 
-.no-gutter {
-  margin-left: 0;
-  margin-right: 0;
-  padding: 0!important;
+
+
+
+.portfolio_thumb_h {
+    color:  #525252;
+     font-size:22px;
+    
+    padding-top: 10px;
+    background-color: white;
+}
+
+.portfolio_thumb_c {
+    background-color: white;
+     color:  #525252;
 }
 
 
+
+.thumb-padding {
+color:  #525252;
+    border: 0.5px solid grey;
+  box-shadow: 0px 1px 3px 0px;
+  border-radius: 3px;
+  background-color: white;
+}
