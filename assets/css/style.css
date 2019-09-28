@@ -90,15 +90,18 @@ section {
 
 .hi {
     font-size:2em;
+    color:white;
 }
 
 .name {
     font-size: 6em;
+    color:white;
 }
 
 
 .description {
     font-size: 2.5em;
+    color:white;
 }
 
 .enquire-container {
@@ -861,7 +864,11 @@ color:  #525252;
 }
 
 .falcon-image {
-    padding-left: 20px;
+    margin-left: 50px;
+}
+
+.equinox-image {
+   margin-left: 50px;
 }
 
 
