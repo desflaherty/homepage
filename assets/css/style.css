@@ -872,11 +872,13 @@ color:  #525252;
 }
 
 .equinox_dev {
-    margin-top:20px;
+    margin-top:50px;
+    margin-bottom: 50px;
 }
 
 .equinox_dev2 {
-    margin-top: 50px;
+    margin-top: 100px;
+    margin-bottom: 50px;
 }
 
 .portfolio-detail-heading {
