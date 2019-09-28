@@ -3,7 +3,7 @@
 body {
     font-family: 'Abel', sans-serif;
     position: relative;
-    color:white;
+    color:#525252;
   
 }
 
@@ -239,7 +239,7 @@ section {
  
  .about-text {
     color:#000;
-    font-size: 18px;
+    font-size: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -779,6 +779,7 @@ label {
 
 .imgnav{
     height: 500px;
+    width:360px;
     overflow: hidden;
 }
 
@@ -852,4 +853,27 @@ color:  #525252;
   margin-left: 0;
   margin-right: 0;
   padding: 0!important;
+}
+
+
+.falcon {
+    padding-top: 150px;
+}
+
+.falcon-image {
+    padding-left: 20px;
+}
+
+
+.portfolio-detail-heading {
+    font-size:60px;
+}
+
+
+.portfolio-sub-heading {
+    font-size:40px;
+}
+
+.portfolio-detail-body {
+    font-size: 20px;
 }
