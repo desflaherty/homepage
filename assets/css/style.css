@@ -33,6 +33,9 @@ html,body {
     background-color: #8e8b8b;
 }
 
+
+
+
 .first {
   padding-top:220px;
   height: 100VH;
@@ -45,8 +48,10 @@ html,body {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
+ 
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
  url('../images/homepage1.jpg');
+ 
 }
 
 .affix {
@@ -902,3 +907,13 @@ color:  #525252;
 .nounderline {
   text-decoration: none !important
 }
+
+
+ .image_off, #home:hover .image_on{
+   display:none
+}
+.image_on, #home:hover .image_off{
+   display:block
+}    
+        
+
