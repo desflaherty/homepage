@@ -786,21 +786,12 @@ label {
   white-space: nowrap;
   padding-top: 20px;
 }
-.interaction-group > .row > .col-xs-12 {
+.interaction-group > .row > .col-xs-6 {
   display: inline-block;
   float: none;
 }
 
-.imgnav{
-    overflow: hidden;
-}
 
-
-
-
-.imginteraction {
-    overflow: hidden;
-}
 
 
 .wireframes-group > .row {
