@@ -20,8 +20,10 @@ html,body {
 }
 
 html {
-     scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
+
+
 
  .contactbg{
     background-color: #525252;
@@ -790,12 +792,15 @@ label {
 }
 
 .imgnav{
-   height:600px;
+   
     overflow: hidden;
 }
 
+
+
+
 .imginteraction {
-    height: 500px;
+   
     overflow: hidden;
 }
 

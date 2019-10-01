@@ -8,5 +8,6 @@ $(document).ready(function () {
                     //Scroll spy used to update navbar links on scroll so they will be on the relevant section
 
                     $('body').scrollspy({ target: '#navbar' });
+                    
 });
  
