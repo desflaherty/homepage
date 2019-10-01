@@ -16,7 +16,11 @@ body {
 /* CSS used here will be applied after bootstrap.css */
 html,body {
   height:100%;
-   
+    
+}
+
+html {
+     scroll-behavior: smooth;
 }
 
  .contactbg{
@@ -25,12 +29,12 @@ html,body {
 }
 
 .modal-header {
-  background-color: #7a7575;
+  background-color: #fff;
  
 }
 
 .modal-body {
-    background-color: #8e8b8b;
+    background-color: #fff;
 }
 
 
@@ -905,6 +909,10 @@ color:  #525252;
 
 .nounderline {
   text-decoration: none !important
+}
+
+.logo {
+    opacity :1;
 }
 
 
