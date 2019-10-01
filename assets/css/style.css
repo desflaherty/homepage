@@ -16,7 +16,7 @@ body {
 /* CSS used here will be applied after bootstrap.css */
 html,body {
   height:100%;
-    
+  overflow-x: hidden;
 }
 
 html {
