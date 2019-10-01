@@ -786,8 +786,7 @@ label {
 }
 
 .imgnav{
-    height: 500px;
-    width:360px;
+   height:600px;
     overflow: hidden;
 }
 
@@ -909,15 +908,13 @@ color:  #525252;
 }
 
 
-.image_off, #home:hover .image_on{
-   display:none;
-   
-}
-.image_on, #home:hover .image_off{
-   display:block;
-   opacity:.5;
-   
-}    
+.logo:hover {
+  opacity: 0.5;
+  -webkit-transition:all 0.5s ease;
+  -moz-transition:all 0.5s ease; 
+  -o-transition:all 0.5s ease;         
+  transition:all 0.5s ease;
+}  
         
         
 
