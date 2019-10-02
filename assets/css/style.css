@@ -41,9 +41,8 @@ html {
 
 
 
-
 .first {
-  padding-top:220px;
+  padding-top:180px;
   height: 100VH;
   width: 100%;
   min-height:400px;
@@ -122,6 +121,7 @@ section {
     position: relative;
     align-items: center;
     justify-content: center;
+    padding-top: 50px;
 }
 
 .portfolio-header {
@@ -420,6 +420,7 @@ footer {
     min-height: 90px;
     margin: 0;
     margin-top: 10px;
+    text-align:center;
 }
 
 footer .cv-pdf i {
@@ -446,7 +447,7 @@ footer .cv-pdf i:hover {
 }
 
 .fsocialpadding {
-    padding-left:120px;
+   
     padding-top: 20px;
 }
 
@@ -643,7 +644,7 @@ label {
 }
 
 .fsocialpadding {
-    padding-left:100px;
+    padding-left:85px;
 }
 
  
@@ -689,7 +690,7 @@ label {
 }
 
 .fsocialpadding {
-    padding-left: 200px;
+    padding-left: 300px;
 }
 }
 
@@ -865,13 +866,9 @@ color:  #525252;
     padding-top: 150px;
 }
 
-.falcon-image {
-    margin-left: 50px;
-}
 
-.equinox-image {
-   margin-left: 50px;
-}
+
+
 
 .equinox_dev {
     margin-top:50px;
