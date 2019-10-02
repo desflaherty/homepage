@@ -16,7 +16,7 @@ body {
 /* CSS used here will be applied after bootstrap.css */
 html,body {
   height:100%;
-  overflow-x: hidden;
+ 
 }
 
 html {
@@ -73,7 +73,7 @@ html {
   /* navbar style at top */
   background:transparent;
   border-color:transparent;
-  padding: 15px;
+ padding: 15px;
   -webkit-transition:all 0.5s ease;
   -moz-transition:all 0.5s ease; 
   -o-transition:all 0.5s ease;         
@@ -905,9 +905,7 @@ color:  #525252;
   text-decoration: none !important
 }
 
-.logo {
-    opacity :1;
-}
+
 
 
 .logo:hover {
