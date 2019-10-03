@@ -8,6 +8,7 @@ body {
 }
 
 
+
 .portfolio-bg {
   background-color:#FAFAFA;   
 }
@@ -710,7 +711,9 @@ label {
     background-color: grey;
 }
 
-
+.light-grey-bg {
+    background-color: #F7F7F7;
+}
 
 
 
@@ -913,5 +916,17 @@ color:  #525252;
   transition:all 0.5s ease;
 }  
         
-        
 
+.portfolio-move {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size:20px;
+}
+
+.myStyledLink{
+    color: #525252 !important;
+}
+
+.myStyledLink:hover {
+    color: #8e8c8c!important; 
+}
