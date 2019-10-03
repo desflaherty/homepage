@@ -944,7 +944,7 @@ color:  #525252;
    position: fixed;
    background-color: grey;
    right: 30px;
-   bottom: 30px;
+   bottom: 50px;
    z-index: 2;
    border-radius: 5px;
 }
