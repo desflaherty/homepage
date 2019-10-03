@@ -305,7 +305,8 @@ section {
 }
 
 .navbar-default .navbar-nav .active {
-  color:grey;
+color: grey;
+ 
 }
 
 .navbar .navbar-brand {
