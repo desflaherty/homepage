@@ -458,10 +458,12 @@ footer .cv-pdf i:hover {
     padding-bottom: 15px;
 }
 
+
+
 .social-links li a i {
     width: 42px;
     height: 42px;
-    padding: 16px 0;
+    padding: 18px 0px;
     border-radius: 50%;
     font-size: 20px;
     line-height: 7px;
@@ -477,7 +479,7 @@ footer .cv-pdf i:hover {
 .social-links-white li a i {
     width: 42px;
     height: 42px;
-    padding: 16px 0;
+    padding: 18px 0;
     border-radius: 50%;
     font-size: 20px;
     line-height: 7px;
