@@ -492,6 +492,8 @@ footer .cv-pdf i:hover {
 
 .grey-footer {
     background-color: #353333;
+    margin-top: 0;
+    padding-top: 10px;
 }
 
 .social-links li a i:hover {
@@ -713,6 +715,7 @@ label {
 
 .light-grey-bg {
     background-color: #F7F7F7;
+  
 }
 
 
@@ -920,7 +923,7 @@ color:  #525252;
 .portfolio-move {
     padding-top: 20px;
     padding-bottom: 20px;
-    font-size:20px;
+    font-size:18px;
 }
 
 .myStyledLink{
