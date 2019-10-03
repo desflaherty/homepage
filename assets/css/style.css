@@ -447,7 +447,6 @@ footer .cv-pdf i:hover {
 }
 
 .fsocialpadding {
-   
     padding-top: 20px;
 }
 
@@ -639,13 +638,8 @@ label {
     padding-bottom: 40px;
 }
 
-.contact-m {
-    padding-left: 40px;
-}
 
-.fsocialpadding {
-    padding-left:85px;
-}
+
 
  
 
@@ -689,9 +683,7 @@ label {
     text-align:center;
 }
 
-.fsocialpadding {
-    padding-left: 300px;
-}
+
 }
 
 
@@ -699,7 +691,7 @@ label {
 
 @media screen and (min-device-width: 992px) { 
     .contact-m {
-    text-align:left;
+    text-align:center;
 }
 }
 
