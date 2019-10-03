@@ -930,3 +930,29 @@ color:  #525252;
 .myStyledLink:hover {
     color: #8e8c8c!important; 
 }
+
+.scrollToTop{
+   color: #FFF;
+   text-decoration: none;
+   font-weight: bold;
+   opacity: .8;
+   display: inline-block;
+   padding: 5px 10px;
+   position: fixed;
+   background-color: grey;
+   right: 30px;
+   bottom: 30px;
+   z-index: 2;
+   border-radius: 5px;
+}
+
+.scrollToTop:focus {
+   text-decoration: none;
+   color: grey;
+}
+.scrollToTop:hover{
+   background-color: #8e8c8c;
+   opacity: 1;
+   color: #fff;
+   text-decoration: none;
+}
