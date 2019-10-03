@@ -300,17 +300,18 @@ section {
 
 
 
-
 .pointer {
     cursor: pointer;
 }
 
-.navbar .navbar-brand {
-    padding-top: 15px;
-    color:#FFF
+.navbar-default .navbar-nav .active {
+  color:grey;
 }
 
-
+.navbar .navbar-brand {
+    padding-top: 15px;
+    color:#FFF;
+}
 
 
 .navbar-default .navbar-nav>li>a {
@@ -326,12 +327,12 @@ section {
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
     background-color: transparent;
-    color: #FFF;
+    color: grey;
 }
 
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
-    color: white;
+    color: grey;
 }
 
 .navbar-collapse {
@@ -339,9 +340,10 @@ section {
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
-    color: #FFF;
+    color: grey;
     background-color: transparent;
 }
+
 
 
 .btn-cta {
@@ -479,13 +481,16 @@ footer .cv-pdf i:hover {
     line-height: 7px;
     text-align: center;
     color: #353333;
-    background: #FFF;
+    background: #fafafa;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
 }
 
+.grey-footer {
+    background-color: #353333;
+}
 
 .social-links li a i:hover {
     background: #e84610;
@@ -534,6 +539,8 @@ label  {
     color:#000;
     padding-top: 20px;
 }
+
+
 
 .contact-w
 {
