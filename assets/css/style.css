@@ -898,8 +898,13 @@ color:  #525252;
 }
 
 .portfolio-detail-body {
-    font-size: 20px;
+    font-size: 16px;
 }
+
+.green-hex {
+color: #53722F;
+}
+
 
 .linktosite {
     font-size:2em;
