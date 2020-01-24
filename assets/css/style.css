@@ -944,8 +944,31 @@ color:  #525252;
 color: #53722F;
 }
 
-.overview {
-    font-size:60px;
+
+
+#competitivetable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#competitivetable td, #competitivetable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#competitivetable tr
+{
+    background-color: #f2f2f2;
+    font-size: 16px;
+}
+
+#competitivetable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #53722F;
+  color: white;
+  font-size: 20px;
 }
 
 
