@@ -153,6 +153,15 @@ section {
    
 }
 
+.healthy_banner {
+    filter: brightness(40%);
+    padding-bottom: 80px;
+}
+
+ 
+
+
+
 
 .portfolio{
       width: 100%;
@@ -217,7 +226,37 @@ section {
       transition: opacity 0.5s ease-out;
     }
     
+    .healthy-banner-heading{
+        font-size: 45px;
+    }
     
+    .healthy-banner-subheading {
+        color: #e6e2e2;
+        font-weight: bold;
+        font-size: 30px;
+    }
+    
+    .healthy-banner-smalltext {
+        font-size:20px;
+        padding-top: 20px;
+    }
+    
+    .number-heading {
+        font-size: 60px;
+    }
+    
+    
+    .healthy-text-content {
+      position: absolute;
+      color: white;
+      left: 0;
+      top: 25%;
+      right: 0;
+      bottom: 0;
+      font-size: 24px;
+      text-align: center;
+      opacity: 1;
+    }
 
     .work-text-content {
       position: absolute;
@@ -903,6 +942,10 @@ color:  #525252;
 
 .green-hex {
 color: #53722F;
+}
+
+.overview {
+    font-size:60px;
 }
 
 
