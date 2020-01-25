@@ -1015,7 +1015,7 @@ color: #53722F;
    display: inline-block;
    padding: 5px 10px;
    position: fixed;
-   background-color: grey;
+   background-color:  #53722F;
    right: 30px;
    bottom: 50px;
    z-index: 2;
@@ -1024,10 +1024,10 @@ color: #53722F;
 
 .scrollToTop:focus {
    text-decoration: none;
-   color: grey;
+   color:  #fff;
 }
 .scrollToTop:hover{
-   background-color: #8e8c8c;
+   background-color: #577931;
    opacity: 1;
    color: #fff;
    text-decoration: none;
