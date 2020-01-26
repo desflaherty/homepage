@@ -245,6 +245,13 @@ section {
         font-size: 60px;
     }
     
+    .image-padding {
+        padding-bottom: 50px;}
+    
+    .number-header-padding
+    {
+        padding-top: 50px;
+    }
     
     .healthy-text-content {
       position: absolute;
