@@ -158,10 +158,30 @@ section {
     padding-bottom: 80px;
 }
 
- 
+.fullbanner-gig {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/4screens_crop.png');
+    background-repeat: repeat;
+    background-size: cover;
+    width: 100%;
+   
+}
 
+.banner-text, .banner-text-grey {
+    padding: 80px 0;
+    text-align: center;
+}
 
-
+.banner-text h3 {
+    font-size: 30px;
+    
+    color: #e6e2e2;
+    text-transform: none;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 30px;
+    width: 85%;
+    margin: 20px auto 20px!important;
+}
 
 .portfolio{
       width: 100%;
@@ -228,22 +248,37 @@ section {
     
     .healthy-banner-heading{
         font-size: 45px;
+        color: #fff;
+        padding-top:50px;
     }
     
     .healthy-banner-subheading {
         color: #e6e2e2;
-        font-weight: bold;
         font-size: 30px;
     }
     
     .healthy-banner-smalltext {
         font-size:20px;
         padding-top: 20px;
+          color: #fff;
     }
     
     .number-heading {
         font-size: 60px;
     }
+    
+    
+    @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
+      .number-heading {
+        font-size: 40px;
+    }
+      
+    }
+    
+    
+    
+    
+    
     
     .image-padding {
         padding-bottom: 50px;}
@@ -920,7 +955,9 @@ color:  #525252;
     padding-top: 150px;
 }
 
-
+.healthymove {
+    padding-top: 50px;
+}
 
 
 
@@ -955,12 +992,12 @@ color: #53722F;
 
 #competitivetable {
   border-collapse: collapse;
-  width: 100%;
+
 }
 
 #competitivetable td, #competitivetable th {
   border: 1px solid #ddd;
-  padding: 8px;
+
 }
 
 #competitivetable tr
@@ -975,7 +1012,7 @@ color: #53722F;
   text-align: center;
   background-color: #53722F;
   color: white;
-  font-size: 20px;
+ 
 }
 
 
