@@ -159,7 +159,7 @@ section {
 }
 
 .fullbanner-gig {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/4screens_crop.png');
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/4screens_crop.png');
     background-repeat: repeat;
     background-size: cover;
     width: 100%;
@@ -277,7 +277,13 @@ section {
     
     
     
+    .table-padding {
+        padding-bottom: 20px;
+    }
     
+    .table-top-padding {
+        padding-top: 20px;
+    }
     
     
     .image-padding {
@@ -1003,7 +1009,7 @@ color: #53722F;
 #competitivetable tr
 {
     background-color: #f2f2f2;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 #competitivetable th {
@@ -1012,8 +1018,27 @@ color: #53722F;
   text-align: center;
   background-color: #53722F;
   color: white;
+   font-size: 20px;
  
 }
+
+ @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
+     #competitivetable th {
+        font-size: 15px;
+        
+    }
+    
+     #competitivetable tr {
+        font-size: 15px;
+        
+    }
+    
+    
+    
+    }
+
+
+
 
 
 .linktosite {
