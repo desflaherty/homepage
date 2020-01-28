@@ -326,8 +326,8 @@ section {
 
 
 .about-header {
-    color:#000;
-    font-size: 50px;
+    color:#222;
+    font-size: 40px;
     padding-top: 100px;
     padding-bottom:10px;
 }
@@ -340,10 +340,14 @@ section {
 }
  
  .about-text {
-    color:#000;
-    font-size: 20px;
+    color:#575757;
+    font-size: 16px;
     padding-top: 10px;
     padding-bottom: 10px;
+    font-family: proxima-nova;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 1.8em;
 }
 
 
