@@ -996,46 +996,6 @@ color: #53722F;
 
 
 
-#competitivetable {
-  border-collapse: collapse;
-
-}
-
-#competitivetable td, #competitivetable th {
-  border: 1px solid #ddd;
-
-}
-
-#competitivetable tr
-{
-    background-color: #f2f2f2;
-    font-size: 17px;
-}
-
-#competitivetable th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-  background-color: #53722F;
-  color: white;
-   font-size: 20px;
- 
-}
-
- @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
-     #competitivetable th {
-        font-size: 15px;
-        
-    }
-    
-     #competitivetable tr {
-        font-size: 15px;
-        
-    }
-    
-    
-    
-    }
 
 
 
