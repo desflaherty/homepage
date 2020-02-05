@@ -1079,7 +1079,7 @@ color: #FDA02F;
    display: inline-block;
    padding: 5px 10px;
    position: fixed;
-   background-color:  #53722F;
+   background-color:  #484848;
    right: 30px;
    bottom: 50px;
    z-index: 2;
@@ -1091,7 +1091,7 @@ color: #FDA02F;
    color:  #fff;
 }
 .scrollToTop:hover{
-   background-color: #577931;
+   background-color: #48484d;
    opacity: 1;
    color: #fff;
    text-decoration: none;
