@@ -185,6 +185,13 @@ section {
     width: 100%;
 }
 
+.fullbanner-jiggle {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/jiggle3screens_small.png');
+    background-repeat: repeat;
+    background-size: cover;
+    width: 100%;
+}
+
 
 
 .banner-text, .banner-text-grey {
@@ -1044,6 +1051,11 @@ color: #53722F;
 
 .orange-hex {
 color: #FDA02F;
+}
+
+
+.brown-hex {
+color: #D2925B;
 }
 
 
