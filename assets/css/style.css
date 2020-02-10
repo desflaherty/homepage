@@ -1,7 +1,8 @@
 /*--------------------BODY TEXT----------------------------------------------------------------*/
 
 body {
-    font-family: 'Abel', sans-serif;
+    font-family: 'Abel', sans-serif; 
+   
     position: relative;
     color:#525252;
   
@@ -386,7 +387,7 @@ section {
  
  .about-text {
     color:#575757;
-    font-size: 16px;
+    font-size: 18px;
     padding-top: 10px;
     padding-bottom: 10px;
     font-family: proxima-nova;
@@ -876,9 +877,17 @@ label {
 }
 
 .portfolio-ux-body {
-    color:#000;
-    font-size: 24px;
-   padding-bottom: 20px;
+  
+   
+   font-size: 18px;
+    color:#575757;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*font-family: proxima-nova;*/
+   
+    font-weight: 300;
+    font-style: normal;
+    line-height: 1.8em;
 }
     
     
@@ -1036,11 +1045,12 @@ color:  #525252;
 }
 
 .portfolio-detail-body {
-    font-size: 17px;
+    font-size: 18px;
     color:#575757;
     padding-top: 10px;
     padding-bottom: 10px;
-    font-family: proxima-nova;
+    /*font-family: proxima-nova;*/
+   
     font-weight: 300;
     font-style: normal;
     line-height: 1.8em;
