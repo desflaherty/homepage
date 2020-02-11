@@ -365,8 +365,9 @@ section {
     color:#FFF;
     font-size: 60px;
     padding-top: 20px;
-    padding-bottom:50px;
+    padding-bottom:100px;
 }
+
 
 
 
@@ -802,10 +803,7 @@ label {
      font-family: proxima-nova;
 }
 
-.contact-header  {
-    font-size: 30px;
-     padding-top: 100px;
-}
+
 
 .dogpic {
     padding-left: 40px;
@@ -1139,4 +1137,13 @@ color: #D2925B;
    opacity: 1;
    color: #fff;
    text-decoration: none;
+}
+
+
+.border-brown {
+ border:1px solid #D2925B;
+}
+
+.border-blue {
+   border:1px solid #00ABE9;  
 }
