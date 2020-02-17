@@ -400,11 +400,26 @@ section {
     font-size: 18px;
     padding-top: 10px;
     padding-bottom: 10px;
-    font-family: proxima-nova;
+    /*font-family: proxima-nova;*/
     font-weight: 300;
     font-style: normal;
     line-height: 1.8em;
 }
+
+.about-text-heading {
+    color:#575757;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*font-family: proxima-nova;*/
+    font-weight: 300;
+    font-style: normal;
+    line-height: 1.8em;
+}
+
+
+
+
 
 
  .fa-download:before {
@@ -809,7 +824,7 @@ label {
 .about-header  {
     font-size: 30px;
      padding-top: 100px;
-     font-family: proxima-nova;
+    /* font-family: proxima-nova;*/
 }
 
 
