@@ -370,10 +370,13 @@ section {
 .contact-header {
     color:#FFF;
     font-size: 60px;
-    padding-top: 20px;
+    padding-top: 100px;
     padding-bottom:100px;
 }
 
+.contact-footer {
+    padding-bottom:100px;
+}
 
 
 
