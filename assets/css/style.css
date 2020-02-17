@@ -193,6 +193,12 @@ section {
     width: 100%;
 }
 
+.fullbanner-flyux {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/Homepage_SEATS_small.png');
+    background-repeat: repeat;
+    background-size: cover;
+    width: 100%;
+}
 
 
 .banner-text, .banner-text-grey {
@@ -1069,6 +1075,11 @@ color: #53722F;
 .orange-hex {
 color: #FDA02F;
 }
+
+.blue-hex {
+color:#0091FF;
+}
+
 
 
 .brown-hex {
