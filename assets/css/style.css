@@ -79,8 +79,12 @@ html {
   -moz-transition:padding 0.2s ease-out;  
   -o-transition:padding 0.2s ease-out;         
   transition:padding 0.2s ease-out;
-  background-color: #353333;
-  border-color: #353333;
+  /*background-color: #353333;*/
+  /*border-color: #353333;*/
+  
+  background-color: #53809E;
+  border-color:#53809E;
+  
 }
 
 .affix-top {
@@ -424,7 +428,8 @@ section {
 
 
  .fa-download:before {
-     color:#f05f40;
+     /*color:#f05f40;*/
+     color:#53809E;
  }
  
  
@@ -454,9 +459,12 @@ section {
 
 
 .navbar-default-dark {
-     background-color: #353333;
-  border-color: #353333;
-    box-shadow: none;
+  /*   background-color: #353333;*/
+  /* border-color: #353333;*/
+  
+  background-color: #53809E;
+  border-color:#53809E;
+ box-shadow: none;
 }
 
 
@@ -469,7 +477,7 @@ section {
 }
 
 .navbar-default .navbar-nav .active {
-color: grey;
+color: #ccc;
  
 }
 
@@ -492,12 +500,12 @@ color: grey;
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
     background-color: transparent;
-    color: grey;
+    color: #ccc;
 }
 
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
-    color: grey;
+    color: #ccc;
 }
 
 .navbar-collapse {
@@ -505,7 +513,7 @@ color: grey;
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
-    color: grey;
+    color: #ccc;
     background-color: transparent;
 }
 
@@ -551,8 +559,24 @@ color: grey;
     border-color: #f05f40;
 }
 
+
+.btn-blue {
+    color: white;
+    background-color: #53809E;
+   border-color:  #53809E;
+}
+
 .btn-group-lg>.btn, .btn-lg {
     font-size: 24px;
+}
+
+.btn-blue:hover,
+.btn-blue:active,
+.btn-blue:focus,
+.btn-blue:active:focus {
+    background-color: #608CA5;
+    border-color: #608CA5;
+    color: white;
 }
 
 .btn-red:hover,
@@ -562,6 +586,10 @@ color: grey;
     background-color: #df4929;
     border-color: #df4929;
     color: white;
+}
+
+.blue-brand {
+    color:#53809E;
 }
 
 /*--------------------------------------------Footer*/
@@ -662,7 +690,8 @@ footer .cv-pdf i:hover {
 }
 
 .social-links li a i:hover {
-    background: #e84610;
+    /*background: #e84610;*/
+    background:#53809E;
 }
 
 #footer-details {
@@ -1087,26 +1116,29 @@ color:  #525252;
 }
 
 .green-hex {
-color: #53722F;
+/*color: #53722F;*/
+color:#53809E;
 }
 
 
 .orange-hex {
-color: #FDA02F;
+/*color: #FDA02F;*/
+color:#53809E;
 }
 
 .blue-hex {
-color:#0091FF;
+/*color:#0091FF;*/
+color:#53809E;
 }
 
-
-
 .brown-hex {
-color: #D2925B;
+/*color: #D2925B;*/
+color:#53809E;
 }
 
 .light-brown-hex {
-    color:#4e3317;
+  /*  color:#4e3317;*/
+color:#53809E;
 }
 
 
@@ -1153,7 +1185,8 @@ color: #D2925B;
    display: inline-block;
    padding: 5px 10px;
    position: fixed;
-   background-color:  #484848;
+  /* background-color:  #484848;*/
+     background-color:#53809E;
    right: 30px;
    bottom: 50px;
    z-index: 2;
@@ -1165,7 +1198,8 @@ color: #D2925B;
    color:  #fff;
 }
 .scrollToTop:hover{
-   background-color: #48484d;
+  /* background-color: #48484d;*/
+    background-color: #608CA5;
    opacity: 1;
    color: #fff;
    text-decoration: none;
@@ -1178,4 +1212,8 @@ color: #D2925B;
 
 .border-blue {
    border:1px solid #00ABE9;  
+}
+
+.border-brand {
+   border:1px solid #53809E;
 }
