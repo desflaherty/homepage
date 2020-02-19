@@ -837,9 +837,12 @@ label {
 @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
 .affix-top {
   /* navbar style at top */
-  background-color: #353333;
-  border-color:#353333;
+  /*background-color: #353333;*/
+  /*border-color:#353333;*/
     
+    
+   background-color:#53809E;
+   border-color:#53809E;
 }
 
 .navbar-header{
