@@ -684,7 +684,8 @@ footer .cv-pdf i:hover {
 }
 
 .grey-footer {
-    background-color: #353333;
+    /*background-color: #353333;*/
+    background-color:#fafafa;
     margin-top: 0;
     padding-top: 10px;
 }
@@ -905,7 +906,8 @@ label {
 }
 
 .light-grey-bg {
-    background-color: #F7F7F7;
+    /*background-color: #F7F7F7;*/
+    background-color:#53809E;
   
 }
 
@@ -1170,11 +1172,13 @@ color:#53809E;
 }
 
 .myStyledLink{
-    color: #525252 !important;
+   /* color: #525252 !important;*/
+    color:#FFF !important;
 }
 
 .myStyledLink:hover {
-    color: #8e8c8c!important; 
+   /* color: #8e8c8c!important; */
+    color:#CCC !important;
 }
 
 .scrollToTop{
