@@ -55,7 +55,9 @@ html {
   background-position: center;
   background-repeat: no-repeat;
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
- url('../images/homepage1_edit.jpg');
+ /*url('../images/homepage1_edit.jpg');*/
+  url('../images/mouse_lightblue.jpeg');
+   
 }
 
 
