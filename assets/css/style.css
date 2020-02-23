@@ -864,8 +864,6 @@ label {
 
 
 
-
-
 .dogpic {
     padding-left: 40px;
     padding-bottom: 20px;
@@ -891,6 +889,9 @@ label {
 .contact-m {
     text-align:center;
 }
+
+
+
 
 
 }
@@ -1198,7 +1199,7 @@ color:#53809E;
   /* background-color:  #484848;*/
      background-color:#53809E;
    right: 30px;
-   bottom: 50px;
+   bottom: 40px;
    z-index: 2;
    border-radius: 5px;
 }
