@@ -5,7 +5,9 @@ body {
     font-family: 'Open Sans', sans-serif;
     position: relative;
     color:#525252;
-  
+   font-weight: 300;
+    font-style: normal;
+    line-height: 1.8em;
 }
 
 
