@@ -1237,7 +1237,8 @@ color:#53809E;
 }
 
 .border-blue {
-   border:1px solid #00ABE9;  
+   border-right:1px solid #00ABE9;  
+    border-left:1px solid #00ABE9;  
 }
 
 .border-brand {
