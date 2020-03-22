@@ -339,6 +339,15 @@ section {
      }
     
     
+     @media screen and (min-device-width: 1024px) and (max-device-width: 1366px) { 
+      .retro-heading {
+        font-size: 35px;
+    }
+     }
+    
+    
+    
+    
     @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
       .number-heading {
         font-size: 30px;
