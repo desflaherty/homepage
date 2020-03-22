@@ -320,6 +320,10 @@ section {
         font-size:45px;
     }
     
+    .portfolio-sub-heading {
+    font-size:35px;
+}
+    
      @media screen and (min-device-width: 768px) and (max-device-width: 1023px) { 
       .number-heading {
         font-size: 45px;
@@ -328,6 +332,8 @@ section {
     .retro-heading {
         font-size:35px;
     }
+    
+    
     
     
      }
@@ -342,7 +348,9 @@ section {
         font-size:20px;
     }
       
-      
+      .portfolio-sub-heading {
+    font-size:20px;
+}
       
     }
     
@@ -1131,9 +1139,7 @@ color:  #525252;
 }
 
 
-.portfolio-sub-heading {
-    font-size:35px;
-}
+
 
 .portfolio-detail-body {
     font-size: 18px;
@@ -1266,4 +1272,6 @@ color:#53809E;
 
 .border-brand {
    border:1px solid #53809E;
+   padding:0px;
+   margin-bottom:50px;
 }
