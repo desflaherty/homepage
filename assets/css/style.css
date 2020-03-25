@@ -320,6 +320,9 @@ section {
         font-size:40px;
     }
     
+    
+    
+    
     .portfolio-sub-heading {
     font-size:35px;
 }
@@ -377,7 +380,8 @@ section {
     .image-padding {
         padding-bottom: 50px;}
         
-        .side-image-padding
+    
+    .side-image-padding
         {
             padding-left: 100px;
          
@@ -1192,6 +1196,10 @@ color:#53809E;
 .orange-hex {
 /*color: #FDA02F;*/
 color:#53809E;
+}
+
+.orange-link {
+    color:#FE8C00;
 }
 
 .blue-hex {
