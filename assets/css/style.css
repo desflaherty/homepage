@@ -376,6 +376,12 @@ section {
     
     .image-padding {
         padding-bottom: 50px;}
+        
+        .side-image-padding
+        {
+            padding-left: 100px;
+         
+        }
     
     .number-header-padding
     {
