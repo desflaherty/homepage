@@ -44,8 +44,8 @@ html {
 
 
 .first {
-  padding-top:180px;
-  height: 100VH;
+  padding-top:150px;
+  height: 100%;
   width: 100%;
   min-height:400px;
   background-size: cover;
@@ -54,11 +54,13 @@ html {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
+    display: flex;
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
  /*url('../images/homepage1_edit.jpg');*/
   url('../images/mouse_lightblue.jpeg');
    
 }
+
 
 
 
