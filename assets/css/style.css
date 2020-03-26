@@ -314,15 +314,17 @@ section {
     }
     
     .number-heading {
-        font-size: 55px;
+        font-size: 50px;
     }
     
     
     .retro-heading {
-        font-size:40px;
+        font-size:35px;
     }
     
-    
+    .retro-sub-heading {
+        font-size:30px;
+    }
     
     
     .portfolio-sub-heading {
@@ -338,6 +340,10 @@ section {
         font-size:25px;
     }
     
+    .retro-sub-heading {
+        font-size:20px;
+    }
+    
     
     
     
@@ -348,6 +354,14 @@ section {
       .retro-heading {
         font-size: 30px;
     }
+    
+    .retro-sub-heading {
+        font-size:25px;
+    }
+    
+    
+    
+    
      }
     
     
@@ -355,16 +369,23 @@ section {
     
     @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
       .number-heading {
-        font-size: 25px;
+        font-size: 30px;
     }
       
       .retro-heading {
-        font-size:15px;
+        font-size:25px;
     }
       
       .portfolio-sub-heading {
     font-size:20px;
 }
+      
+      .retro-sub-heading {
+        font-size:20px;
+    } 
+      
+      
+      
       
     }
     
@@ -383,9 +404,9 @@ section {
         padding-bottom: 50px;}
         
     
-    .side-image-padding
+    .divider-image-padding
         {
-            padding-left: 100px;
+            padding-bottom: 100px;
          
         }
     
