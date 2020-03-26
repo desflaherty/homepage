@@ -409,6 +409,18 @@ section {
             padding-left: 100px;
          
         }
+        
+        
+        
+        .txtimg{
+    display: inline-block;
+    text-align: center;
+}
+.txtimg > img{
+    display: block;
+}
+        
+        
     
     .divider-image-padding
         {
