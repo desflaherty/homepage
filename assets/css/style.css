@@ -333,7 +333,7 @@ section {
     }
     
     .retro-heading {
-        font-size:30px;
+        font-size:25px;
     }
     
     
@@ -344,7 +344,7 @@ section {
     
      @media screen and (min-device-width: 1024px) and (max-device-width: 1366px) { 
       .retro-heading {
-        font-size: 35px;
+        font-size: 30px;
     }
      }
     
@@ -357,7 +357,7 @@ section {
     }
       
       .retro-heading {
-        font-size:20px;
+        font-size:15px;
     }
       
       .portfolio-sub-heading {
@@ -643,6 +643,32 @@ color: #ccc;
     color: white;
 }
 
+.btn-orange {
+    color: white;
+    background-color: #FE8C00;;
+   border-color:  #FE8C00;;
+}
+
+
+
+.btn-orange:hover,
+.btn-orange:active,
+.btn-orange:focus,
+.btn-orange:active:focus {
+    background-color: #FE8C00;;
+    border-color: #FE8C00;;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
 .btn-red:hover,
 .btn-red:active,
 .btn-red:focus,
@@ -830,8 +856,17 @@ label  {
     font-weight: bold;
     border-radius: 5px;
     width: 120px;
-    text-align: center;
+    text-align:center;
 }
+
+.btn-invision {
+    font-weight: bold;
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px 32px;
+ display: inline-block;
+}
+
 
 
 
@@ -1207,6 +1242,11 @@ color:#53809E;
 }
 
 
+.orange-link:active,
+.orange-link:focus,
+.orange-link:active:focus {
+   color:#FE8C00;
+}
 
 
 
