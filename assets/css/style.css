@@ -689,18 +689,25 @@ color: #ccc;
 
 .btn-orange {
     color: white;
-    background-color: #FE8C00;;
-   border-color:  #FE8C00;;
+    background-color: #FE8C00;
+   border-color:  #FE8C00;
 }
 
 
 
-.btn-orange:hover,
+.btn-orange:hover {
+    color: white;
+    background-color: #d67c0e;
+       border-color: #d67c0e;
+}
+
+
+
 .btn-orange:active,
 .btn-orange:focus,
 .btn-orange:active:focus {
-    background-color: #FE8C00;;
-    border-color: #FE8C00;;
+    background-color: #FE8C00;
+    border-color: #FE8C00;
     color: white;
 }
 
