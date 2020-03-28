@@ -369,11 +369,11 @@ section {
     
     @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
       .number-heading {
-        font-size: 30px;
+        font-size: 25px;
     }
       
       .retro-heading {
-        font-size:25px;
+        font-size:20px;
     }
       
       .portfolio-sub-heading {
@@ -381,7 +381,7 @@ section {
 }
       
       .retro-sub-heading {
-        font-size:20px;
+        font-size:18px;
     } 
       
       
