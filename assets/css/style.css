@@ -137,6 +137,11 @@ section {
     color:white;
 }
 
+.script {
+    font-size: 1.5em;
+     color:white;
+}
+
 .enquire-container {
     height: 40%;
     width: 100%;
@@ -904,6 +909,10 @@ label  {
     font-size: 1.5em;
 }
 
+.script {
+    font-size: 1em;
+}
+
 
 .btn-cta {
     font-weight: bold;
@@ -1390,7 +1399,8 @@ color:#53809E;
 }
 
 .border-blue {
-   border-right:1px solid #00ABE9;  
+   border-left:1px solid #00ABE9;  
+    border-right:1px solid #00ABE9;  
   border-bottom:1px solid #00ABE9;  
 }
 
