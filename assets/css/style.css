@@ -32,20 +32,33 @@ table {
 }
 
 td, th {
-  border: 1px solid #53809E;
+ 
   text-align: center;
   padding: 12px;
 }
 
-th {
-    background-color: #53809E;
+th:nth-child(even) {
+    background-color: #6DD400;
+     border: 1px solid #6DD400;  
     color:white;
-      border: 1px solid white;
 }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
+th:nth-child(odd) {
+    background-color: #E02020;
+    border: 1px solid #E02020;  
+    color:white;
 }
+
+td:nth-child(even)  {
+ border: 1px solid #6DD400;    
+}
+
+td:nth-child(odd)  {
+ border: 1px solid #E02020;    
+}
+
+
+
 
  .contactbg{
     background-color: #525252;
