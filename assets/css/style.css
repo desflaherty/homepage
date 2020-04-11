@@ -1431,6 +1431,12 @@ color:#53809E;
  border:1px solid #D2925B;
 }
 
+.border-lightbrown {
+     border-left:1px solid #CEB499;  
+    border-right:1px solid #CEB499;  
+  border-bottom:1px solid #CEB499; 
+}
+
 .border-blue {
    border-left:1px solid #00ABE9;  
     border-right:1px solid #00ABE9;  
