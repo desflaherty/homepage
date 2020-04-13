@@ -25,6 +25,28 @@ html {
   scroll-behavior: smooth;
 }
 
+
+/* unvisited link */
+.email:link {
+  color: white;
+}
+
+.email:hover {
+   color:#000000;
+ transition: color .9s ease-in;
+}
+
+.email:not(:hover) {
+   color:white;
+ transition: color 1.2s ease-out;
+}
+
+
+
+
+
+
+
 table {
 
   border-collapse: collapse;
