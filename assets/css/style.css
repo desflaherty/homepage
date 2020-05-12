@@ -181,6 +181,16 @@ section {
     color:white;
 }
 
+.logo {
+  
+    color:white;
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+     font-size:2em;
+    line-height: 20px;
+}
+
 .name {
     font-size: 6em;
     color:white;
@@ -540,7 +550,7 @@ section {
     color:#FFF;
     font-size: 50px;
     padding-top: 150px;
- padding-bottom: 130px;
+ padding-bottom: 165px;
 }
 
 .contact-footer {
@@ -610,7 +620,7 @@ section {
 
 .navbar-default .navbar-collapse {
     border-color: transparent;
-    padding-top: 45px;
+    padding-top: 20px;
     box-shadow: none;
 }
 
@@ -652,7 +662,7 @@ color: #ccc;
 }
 
 .navbar .navbar-brand {
-    padding-top: 15px;
+    padding-top: 20px;
     color:#FFF;
 }
 
@@ -679,7 +689,7 @@ color: #ccc;
 }
 
 .navbar-collapse {
-    text-align: center;
+  /*  text-align: center;*/
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
@@ -962,6 +972,10 @@ label  {
 }
 .description {
     font-size: 1.2em;
+}
+
+.logo {
+    font-size: 1.5em;
 }
 
 .script {
