@@ -963,6 +963,15 @@ label  {
 
 /************************** MEDIA QUERIES MOBILE *****************************************************************************************/
 
+@media screen and (min-device-width: 320px) and (max-device-width: 1024px) { 
+.navbar-default .navbar-collapse {
+    padding-bottom: 1px;
+   
+}
+}
+
+
+
 @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
   
    .hi {
