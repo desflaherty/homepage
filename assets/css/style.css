@@ -264,6 +264,16 @@ section {
     width: 100%;
 }
 
+
+.fullbanner-righttrack {
+    background-image:
+    linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
+    url('../images/Header_Mockup.png');
+    background-repeat: repeat;
+    background-size: cover;
+    width: 100%;
+}
+
 .fullbanner-oneday {
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/Perspective.jpg');
     background-repeat: repeat;
@@ -384,7 +394,7 @@ section {
     }
     
     .number-heading {
-        font-size: 50px;
+        font-size: 40px;
     }
     
     
@@ -1338,7 +1348,10 @@ color:  #525252;
 
 .portfolio-detail-body {
     font-size: 18px;
-    color:#575757;
+    /*color:#575757;*/
+     color:#6d6a6a;
+    
+    
     padding-top: 10px;
     padding-bottom: 10px;
     /*font-family: proxima-nova;*/
@@ -1400,6 +1413,8 @@ color:#53809E;
 /*color: #D2925B;*/
 color:#53809E;
 }
+
+
 
 .light-brown-hex {
   /*  color:#4e3317;*/
