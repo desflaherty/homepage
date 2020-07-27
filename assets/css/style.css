@@ -251,14 +251,14 @@ section {
 }
 
 .fullbanner-health {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/4screens_crop.png');
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/4screens_crop.png');
     background-repeat: repeat;
     background-size: cover;
     width: 100%;
 }
 
 .fullbanner-savewell {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/savewell_crop_small.png');
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/savewell_crop_small.png');
     background-repeat: repeat;
     background-size: cover;
     width: 100%;
@@ -267,7 +267,7 @@ section {
 
 .fullbanner-righttrack {
     background-image:
-    linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
+    linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
     url('../images/Header_Mockup.png');
     background-repeat: repeat;
     background-size: cover;
@@ -275,21 +275,21 @@ section {
 }
 
 .fullbanner-oneday {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/Perspective.jpg');
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/Perspective.jpg');
     background-repeat: repeat;
     background-size: cover;
     width: 100%;
 }
 
 .fullbanner-jiggle {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/jiggle3screens_small.png');
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/jiggle3screens_small.png');
     background-repeat: repeat;
     background-size: cover;
     width: 100%;
 }
 
 .fullbanner-flyux {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/Homepage_SEATS_small.png');
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/Homepage_SEATS_small.png');
     background-repeat: repeat;
     background-size: cover;
     width: 100%;
