@@ -251,14 +251,14 @@ section {
 }
 
 .fullbanner-health {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/4screens_crop.png');
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/4_screens-min.png');
     background-repeat: repeat;
     background-size: cover;
     width: 100%;
 }
 
 .fullbanner-savewell {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/savewell_crop_small.png');
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/savewell_crop_small-min.png');
     background-repeat: repeat;
     background-size: cover;
     width: 100%;
