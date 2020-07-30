@@ -414,6 +414,10 @@ section {
     .portfolio-sub-heading {
     font-size:35px;
 }
+
+
+
+
     
      @media screen and (min-device-width: 768px) and (max-device-width: 1023px) { 
       .number-heading {
@@ -760,6 +764,23 @@ color: #ccc;
     background-color: #53809E;
    border-color:  #53809E;
 }
+
+.btn-white {
+    color:#53809E;
+    background-color: #fff;
+   border-color:  #53809E;
+}
+
+.btn-white:hover,
+.btn-white:active,
+.btn-white:focus
+ {
+    background-color: #FAFAFA;
+    border-color: #53809E;
+    color: #53809E;
+}
+
+
 
 .btn-group-lg>.btn, .btn-lg {
     font-size: 24px;
