@@ -591,9 +591,20 @@ section {
     }
  
  
+ .usability-border {
+     border-color: #FE8C00;
+     border-style:solid;
+     border-width: thin;
+ }
  
  
- 
+ .usability-text {
+      color: #53809E;
+        font-size: 28px;
+        text-transform: uppercase;
+        padding-top: 20px;
+        
+ }
  
  
  
