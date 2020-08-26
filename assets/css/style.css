@@ -1559,10 +1559,10 @@ color:#53809E;
    margin-bottom:50px;
 }
 
-
+/* RIGHT TRACK IMAGE CAROUSEL */
 
 .carousel-control{
-width:5%;
+ width:5%;
  color:#FFF;
  opacity: .9;
 }
@@ -1571,3 +1571,7 @@ width:5%;
   background-image: linear-gradient(to right,rgba(0,0,0,0) 0,rgba(0,0,0,0) 100%);
   color:#53809E;
 }
+
+
+
+
