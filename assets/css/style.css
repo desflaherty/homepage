@@ -395,7 +395,10 @@ section {
     }
     
     
-    
+      .process-number-heading {
+        font-size: 50px;
+    } 
+         
     
     
     
@@ -428,13 +431,13 @@ section {
      @media screen and (min-device-width: 768px) and (max-device-width: 1023px) { 
          
         .process-number-heading {
-        font-size: 50px;
+        font-size: 40px;
     } 
          
          
          
       .number-heading {
-        font-size: 40px;
+        font-size: 30px;
     }
     
     .retro-heading {
@@ -452,6 +455,20 @@ section {
     
     
      @media screen and (min-device-width: 1024px) and (max-device-width: 1366px) { 
+         
+           .process-number-heading {
+        font-size: 45px;
+    } 
+         
+         
+         
+      .number-heading {
+        font-size: 35px;
+    }
+         
+         
+         
+         
       .retro-heading {
         font-size: 30px;
     }
