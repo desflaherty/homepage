@@ -1572,6 +1572,9 @@ color:#53809E;
   color:#53809E;
 }
 
-
+.carousel-control.left {
+  background-image: linear-gradient(to right,rgba(0,0,0,0) 0,rgba(0,0,0,0) 100%);
+  color:#53809E;
+}
 
 
