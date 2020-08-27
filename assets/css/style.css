@@ -395,9 +395,7 @@ section {
     }
     
     
-    .process-number-heading {
-        font-size: 50px;
-    }
+    
     
     
     
@@ -428,6 +426,13 @@ section {
 
     
      @media screen and (min-device-width: 768px) and (max-device-width: 1023px) { 
+         
+        .process-number-heading {
+        font-size: 50px;
+    } 
+         
+         
+         
       .number-heading {
         font-size: 40px;
     }
@@ -464,6 +469,13 @@ section {
     
     
     @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
+        
+        .process-number-heading {
+        font-size: 35px;
+    }
+        
+        
+        
       .number-heading {
         font-size: 25px;
     }
