@@ -1567,6 +1567,7 @@ color:#53809E;
  opacity: .9;
 }
 
+
 .carousel-control.right {
   background-image: linear-gradient(to right,rgba(0,0,0,0) 0,rgba(0,0,0,0) 100%);
   color:#53809E;
@@ -1577,4 +1578,14 @@ color:#53809E;
   color:#53809E;
 }
 
+.carousel-indicators {
+  
+}
 
+.carousel-indicators .active {
+    background-color: #53809E;
+}
+
+.carousel-indicators li {
+    border: 1px solid #53809E;
+}
