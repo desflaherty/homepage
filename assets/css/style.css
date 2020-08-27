@@ -394,6 +394,13 @@ section {
           color: #fff;
     }
     
+    
+    .process-number-heading {
+        font-size: 50px;
+    }
+    
+    
+    
     .number-heading {
         font-size: 40px;
     }
@@ -1578,9 +1585,8 @@ color:#53809E;
   color:#53809E;
 }
 
-.carousel-indicators {
-  
-}
+
+/*
 
 .carousel-indicators .active {
     background-color: #53809E;
@@ -1589,3 +1595,6 @@ color:#53809E;
 .carousel-indicators li {
     border: 1px solid #53809E;
 }
+
+*/
+
