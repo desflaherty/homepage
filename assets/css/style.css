@@ -604,8 +604,16 @@ section {
 .contact-header {
     color:#FFF;
     font-size: 50px;
-    padding-top: 150px;
- padding-bottom: 165px;
+
+}
+
+
+.profile-text-padding {
+    padding-top:50px;
+}
+
+.footer {
+     padding-top: 150px;
 }
 
 .contact-footer {
@@ -1470,6 +1478,10 @@ color:#53809E;
 .orange-hex {
 /*color: #FDA02F;*/
 color:#53809E;
+}
+
+.grey-link {
+    color:#575757;
 }
 
 .orange-link {
