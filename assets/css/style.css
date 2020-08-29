@@ -100,7 +100,7 @@ td:nth-child(odd)  {
 
 .first {
   padding-top:150px;
-  height: 100%;
+  height: 80%;
   width: 100%;
   min-height:400px;
   background-size: cover;
@@ -110,9 +110,9 @@ td:nth-child(odd)  {
   background-position: center;
   background-repeat: no-repeat;
     display: flex;
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
- /*url('../images/homepage1_edit.jpg');*/
-  url('../images/mouse_lightblue.jpeg');
+  background-image: 
+ url('../images/dribbble_shots.png');
+ 
   
 }
 
@@ -141,8 +141,8 @@ td:nth-child(odd)  {
   /*background-color: #353333;*/
   /*border-color: #353333;*/
   
-  background-color: #53809E;
-  border-color:#53809E;
+  background-color: #fafafa;
+ 
   
 }
 
@@ -178,33 +178,33 @@ section {
 
 .hi {
     font-size:2em;
-    color:white;
+    color:#525252;
 }
 
 .logo {
   
-    color:white;
+    color:#525252;
     float: left;
     height: 50px;
     padding: 15px 15px;
-     font-size:2em;
+     font-size:1.5em;
     line-height: 20px;
 }
 
 .name {
-    font-size: 6em;
-    color:white;
+    font-size: 4em;
+    color:#525252;
 }
 
 
 .description {
     font-size: 2.5em;
-    color:white;
+    color:#525252;
 }
 
 .script {
     font-size: 1.5em;
-     color:white;
+     color:#525252;
      font-weight: bold;
 }
 
@@ -221,7 +221,7 @@ section {
 .portfolio-header {
     color:#000;
     font-size: 50px;
-    padding-top: 150px;
+    padding-top: 100px;
 }
 
 .portfolio-headergraphic  {
@@ -717,8 +717,8 @@ section {
   /*   background-color: #353333;*/
   /* border-color: #353333;*/
   
-  background-color: #53809E;
-  border-color:#53809E;
+  background-color: #fafafa;
+  
  box-shadow: none;
 }
 
@@ -732,7 +732,7 @@ section {
 }
 
 .navbar-default .navbar-nav .active {
-color: #ccc;
+color: #53809E;
  
 }
 
@@ -743,7 +743,7 @@ color: #ccc;
 
 
 .navbar-default .navbar-nav>li>a {
-    color: white;
+    color: #525252;
 }
 
 .navbar-default .navbar-nav a {
@@ -755,12 +755,12 @@ color: #ccc;
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
     background-color: transparent;
-    color: #ccc;
+    color: #53809E;
 }
 
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
-    color: #ccc;
+    color: #53809E;
 }
 
 .navbar-collapse {
@@ -768,7 +768,7 @@ color: #ccc;
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
-    color: #ccc;
+    color: #53809E;
     background-color: transparent;
 }
 
@@ -1087,7 +1087,7 @@ label  {
 }
 
 .logo {
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 .script {
@@ -1182,8 +1182,8 @@ label {
   /*border-color:#353333;*/
     
     
-   background-color:#53809E;
-   border-color:#53809E;
+   background-color:#fafafa;
+ 
 }
 
 .navbar-header{
@@ -1213,8 +1213,8 @@ label {
 @media screen and (min-device-width: 415px) and (max-device-width: 768px) { 
 .affix-top {
   /* navbar style at top */
-  background-color: #353333;
-  border-color:#353333;
+  background-color: #fafafa;
+
     
 }
 
@@ -1553,7 +1553,7 @@ color:#53809E;
 
 .myStyledLink:hover {
    /* color: #8e8c8c!important; */
-    color:#CCC !important;
+    color:#53809E !important;
 }
 
 .scrollToTop{
