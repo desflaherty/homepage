@@ -722,8 +722,10 @@ section {
  box-shadow: none;
 }
 
-
-
+.navbar-default .navbar-toggle {
+ 
+    border-color: #fafafa;
+}
 
 
 
