@@ -60,13 +60,13 @@ td, th {
 }
 
 th:nth-child(even) {
-   background-color: #333;
+   background-color: #53809E;
      border: 1px solid  ;
     color:white;
 }
 
 th:nth-child(odd) {
-  background-color: #333;
+  background-color: #53809E;
     border: 1px solid ; 
     color:white;
 }
