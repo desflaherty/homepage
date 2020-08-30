@@ -97,8 +97,14 @@ td:nth-child(odd)  {
 }
 
 
+.first_new {
+    padding-top:150px;
+    margin-bottom:50px;
+    min-height:400px;
+    height: 80%;
+}
 
-.first {
+.first_lg {
   padding-top:150px;
   height: 80%;
   width: 100%;
@@ -112,9 +118,25 @@ td:nth-child(odd)  {
     display: flex;
   background-image: 
  url('../images/dribbble_shots.png');
- 
-  
 }
+
+.first_xs {
+  padding-top:150px;
+  height: 80%;
+  width: 100%;
+  min-height:400px;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+    display: flex;
+  background-image: 
+ url('../images/dribbble_shots_xs.png');
+}
+
+
 
 
 
@@ -323,6 +345,46 @@ section {
       text-align: center;
     }
     
+  .righttrack {
+       width: 100%;
+      height: auto;
+      padding: 0px;
+      position: relative;
+      background-color: white;
+      text-align: center;
+  }  
+    
+   
+    .righttrack:hover img {
+      opacity: 0.2;
+    }
+
+    .righttrack:hover .righttrack-text-content {
+      opacity: 1; 
+    }
+
+
+    .righttrack img {
+      padding: 0;
+      width: 100%;
+      display: block;
+      opacity: 1;
+    }
+
+
+    .righttrack img,
+    .righttrack-text-content {
+      -webkit-transition: opacity 0.5s ease-out;
+      -moz-transition: opacity 0.5s ease-out;
+      -o-transition: opacity 0.5s ease-out;
+      transition: opacity 0.5s ease-out;
+    }
+   
+   
+   
+   
+   
+   
    
     
 .portfolio-home {
@@ -353,7 +415,7 @@ section {
 
 
     .portfolio:hover img {
-      opacity: 0.3;
+      opacity: 0.5;
     }
 
     .portfolio:hover .work-text-content {
@@ -587,7 +649,17 @@ section {
       opacity: 0;
     }
 
-
+    .righttrack-text-content {
+        position: absolute;
+      color: #525252;
+      left: 0;
+      top: 25%;
+      right: 0;
+      bottom: 0;
+      font-size: 24px;
+      text-align: center;
+      opacity: 0;
+    }
 
 .contact-colour {
     background-color: #525252;
