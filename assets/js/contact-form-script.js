@@ -1,15 +1,12 @@
-$("#contactForm").validator().on("submit", function (event) {
-    if (event.isDefaultPrevented()) {
-        // handle the invalid form...
-        formError();
-        submitMSG(false, "Did you fill in the form properly?");
-    } else {
-        // everything looks good!
-        event.preventDefault();
-        submitForm();
-    }
-});
 
+
+
+
+$("#contactForm").submit(function(event){
+    // cancels the form submission
+    event.preventDefault();
+    submitForm();
+});
 
 function submitForm(){
     // Initiate Variables With Form Content
@@ -21,7 +18,7 @@ function submitForm(){
 
     $.ajax({
         type: "POST",
-        url: "../php/form-process.php",
+        url: "/assets/php/form-process.php",
         data: "name=" + name + "&email=" + email + "&msg_subject=" + msg_subject + "&message=" + message,
         success : function(text){
             if (text == "success"){
@@ -53,3 +50,4 @@ function submitMSG(valid, msg){
     }
     $("#msgSubmit").removeClass().addClass(msgClasses).text(msg);
 }
+

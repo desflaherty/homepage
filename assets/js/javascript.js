@@ -7,7 +7,7 @@ $(document).ready(function () {
                     //https://v4-alpha.getbootstrap.com/components/scrollspy/#mdo.
                     //Scroll spy used to update navbar links on scroll so they will be on the relevant section
 
-                    $('body').scrollspy({ target: '#navbar' });
+                 //   $('body').scrollspy({ target: '#navbar' });//
                     
                     
                     //Check to see if the window is top if not then display button
