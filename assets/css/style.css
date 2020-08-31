@@ -204,12 +204,7 @@ section {
 }
 
 .logo {
-  
-    color:#525252;
     float: left;
-    height: 50px;
-    padding: 15px 15px;
-     font-size:1.5em;
     line-height: 20px;
 }
 
@@ -905,9 +900,10 @@ color: #53809E;
 .btn-blue:active,
 .btn-blue:focus,
 .btn-blue:active:focus{
-    color: white;
-    background-color: #53809E;
+    color:  #53809E;
+    background-color: #fff;
    border-color:  #53809E;
+  border-radius: 10px;
 }
 
 .btn-white{
@@ -1110,8 +1106,10 @@ h1 {
 }
 
 label  {
-    color: #FFF;
-    font-size:18px;
+    color: #525252;
+    font-size:14px;
+    font-weight: 700;
+    
 }
 
 .text-muted {
@@ -1174,6 +1172,7 @@ label  {
 
 .logo {
     font-size: 1em;
+    
 }
 
 .script {
@@ -1500,6 +1499,17 @@ color:  #525252;
 
 .falcon {
     padding-top: 150px;
+}
+
+.formcontainer {
+     padding-top: 250px;
+      padding-bottom: 100px;
+    
+}
+
+.email:not(:hover) {
+    color: #525252;
+    transition: color 1.2s ease-out;
 }
 
 .healthymove {
