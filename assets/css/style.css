@@ -1319,10 +1319,11 @@ label {
 
 
 
-
 @media screen and (min-device-width: 992px) { 
     .contact-m {
     text-align:center;
+    
+  
 }
 }
 
