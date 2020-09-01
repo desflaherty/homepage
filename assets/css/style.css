@@ -2,7 +2,9 @@
 
 body {
    /* font-family: 'Abel', sans-serif; */
-    font-family: 'Open Sans', sans-serif;
+   /* font-family: 'Open Sans', sans-serif;*/
+     font-family: 'Avenir', sans-serif;
+     letter-spacing: 1px;
     position: relative;
     color:#525252;
    
@@ -222,7 +224,7 @@ section {
 .script {
     font-size: 1.5em;
      color:#525252;
-     font-weight: bold;
+     font-weight: normal;
 }
 
 .enquire-container {
