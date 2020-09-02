@@ -1062,7 +1062,7 @@ footer .cv-pdf i:hover {
     line-height: 7px;
     text-align: center;
     color: #fafafa;
-    background: #353333;
+    background: #525252;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -1582,7 +1582,7 @@ color:#53809E;
 }
 
 .grey-link {
-    color:#575757;
+    color:#525252;
 }
 
 .orange-link {
