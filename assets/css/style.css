@@ -694,6 +694,7 @@ section {
     font-size: 50px;
     padding-top: 150px;
     padding-bottom:10px;
+    font-weight: bold;
 }
 
 .contact-header {
@@ -750,7 +751,7 @@ section {
  
  .about-text {
     color:#575757;
-    font-size: 18px;
+    font-size:20px;
     padding-top: 10px;
     padding-bottom: 10px;
 
@@ -1004,6 +1005,7 @@ color: #53809E;
 
 .blue-brand {
     color:#53809E;
+    font-weight: bold;
 }
 
 /*--------------------------------------------Footer*/
@@ -1523,6 +1525,15 @@ color:  #525252;
       padding-bottom:170px;
     
 }
+
+.aboutcontainer {
+     padding-top: 20px;
+      padding-bottom:150px;
+      padding-left:100px;
+      padding-right:100px;
+}
+
+
 
 .email:not(:hover) {
     color: #525252;
