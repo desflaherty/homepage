@@ -213,13 +213,23 @@ section {
 .name {
     font-size: 4em;
     color:#525252;
+    font-weight: bold;
 }
 
 
 .description {
     font-size: 2.5em;
     color:#525252;
+      font-weight: bold;
 }
+
+.script_l {
+    font-size: 1.7em;
+     color:#525252;
+     font-weight: normal;
+}
+
+
 
 .script {
     font-size: 1.5em;
