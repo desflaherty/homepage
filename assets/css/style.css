@@ -706,6 +706,14 @@ section {
     font-weight: bold;
 }
 
+.work-header {
+     color:#222;
+    font-size: 50px;
+    padding-top: 80px;
+    padding-bottom:10px;
+    font-weight: bold;
+}
+
 .contact-header {
     color:#FFF;
     font-size: 50px;
@@ -1541,6 +1549,20 @@ color:  #525252;
       padding-left:100px;
       padding-right:100px;
 }
+
+@media screen and (min-device-width: 320px) and (max-device-width: 667px) { 
+    
+    .aboutcontainer {
+     padding-top: 20px;
+padding-left: 10px;
+padding-right:10px;
+}
+
+
+
+}
+
+
 
 
 
