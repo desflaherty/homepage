@@ -399,8 +399,8 @@ section {
    
    
    .righttrack_xs {
-       padding-top:100px;
-       padding-bottom:50px;
+       padding-top:50px;
+       padding-bottom:150px;
    }
    
    
@@ -616,6 +616,9 @@ section {
     
     .image-padding {
         padding-bottom: 50px;}
+        
+          .aboutimage-padding {
+        padding-bottom: 150px;}
         
         
         .left-image-padding
