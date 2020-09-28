@@ -507,6 +507,14 @@ section {
 }
 
 
+@media screen and (min-device-width: 375px) and (max-device-width: 812px) { 
+.formcontainer {
+     padding-top: 175px;
+      padding-bottom:175px;
+    
+}
+}
+
 
 
     
@@ -1333,6 +1341,12 @@ label {
 
 }
 
+
+
+
+
+
+
 @media screen and (min-device-width: 415px) and (max-device-width: 768px) { 
 .affix-top {
   /* navbar style at top */
@@ -1541,11 +1555,18 @@ color:  #525252;
     padding-top: 150px;
 }
 
+
+ @media screen and (min-device-width: 768px)  { 
+
 .formcontainer {
      padding-top: 275px;
       padding-bottom:175px;
     
 }
+
+}
+
+
 
 .aboutcontainer {
      padding-top: 20px;
