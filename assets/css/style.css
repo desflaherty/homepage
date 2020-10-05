@@ -101,9 +101,9 @@ td:nth-child(odd)  {
 
 .first_new {
     padding-top:150px;
-    margin-bottom:50px;
+    
     min-height:400px;
-    height: 80%;
+
 }
 
 .first_lg {
@@ -398,10 +398,7 @@ section {
    }
    
    
-   .righttrack_xs {
-       padding-top:50px;
-       padding-bottom:50px;
-   }
+  
    
    
    
