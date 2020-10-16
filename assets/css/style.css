@@ -219,8 +219,8 @@ section {
 
 .description {
     font-size: 2.5em;
-    color:#525252;
-    
+    color:#FFCC7F;
+
 }
 
 .script_l {
@@ -1220,6 +1220,8 @@ label  {
 }
 .description {
     font-size: 2em;
+      color:#FFCC7F;
+    
 }
 
 .logo {
