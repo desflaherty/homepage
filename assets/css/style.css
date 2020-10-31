@@ -3,7 +3,10 @@
 body {
    /* font-family: 'Abel', sans-serif; */
    /* font-family: 'Open Sans', sans-serif;*/
-     font-family: 'Avenir', sans-serif;
+    font-family: 'Avenir', sans-serif;
+   
+    
+
      letter-spacing: 1px;
     position: relative;
     color:#525252;
@@ -475,11 +478,33 @@ section {
     
     
       .process-number-heading {
-        font-size: 50px;
+        font-size: 40px;
     } 
          
+    .framework-h {
+         font-size: 40px;
+         font-weight:bold;
+    
+    }
+    
+    .framework-b {
+        color:#868181;
+        font-weight: bold;
+    }
     
     
+    .framemwork-body {
+        font-weight: bold;
+            font-size: 20px;
+       text-align: center;
+ 
+    }
+    
+    .number {
+        font-size: 40px;
+       text-align: center;
+       font-weight:bold;
+    }
     
     .number-heading {
         font-size: 40px;
@@ -1594,6 +1619,7 @@ color:  #525252;
 
 .healthymove {
     padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 
@@ -1647,7 +1673,7 @@ color:  #525252;
 
 .green-hex {
 /*color: #53722F;*/
-color:#53809E;
+color:#55ACEE;
 }
 
 
@@ -1803,15 +1829,17 @@ color:#53809E;
 }
 
 
-/*
+/* NEW PORTFOLIO QUERIES */
 
-.carousel-indicators .active {
-    background-color: #53809E;
+.problem-statement {
+    font-size:30px;
+    color:#fff;
 }
 
-.carousel-indicators li {
-    border: 1px solid #53809E;
+.div-color {
+    background-color: #55ACEE;
 }
 
-*/
-
+.white-font {
+    color:#fff;
+}
