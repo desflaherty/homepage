@@ -1888,6 +1888,10 @@ color:#53809E;
     padding-bottom:100px;
 }
 
+.story-padding {
+    padding-top:150px;
+    padding-bottom:150px;
+}
 
 .top-padding {
     padding-top:50px;
@@ -1898,4 +1902,7 @@ color:#53809E;
     font-size: 60px;
 }
 
-.piechart img{border:0;}
+.piechart 
+
+
+img{border:0;}
