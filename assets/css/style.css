@@ -487,6 +487,12 @@ section {
     
     }
     
+    .framework-s {
+         font-size: 35px;
+         font-weight:bold;
+    
+    }
+    
     .framework-b {
         color:#868181;
         font-weight: bold;
@@ -495,7 +501,7 @@ section {
     
     .framemwork-body {
         font-weight: bold;
-            font-size: 20px;
+        font-size: 20px;
        text-align: center;
  
     }
@@ -596,6 +602,11 @@ section {
     
     
     
+    
+    
+    
+    
+    
      }
     
     
@@ -624,6 +635,34 @@ section {
       .retro-sub-heading {
         font-size:18px;
     } 
+      
+      
+     .framework-h {
+         font-size: 30px;
+         font-weight:bold;
+    
+    }
+    
+    .framework-s {
+         font-size: 25px;
+         font-weight:bold;
+    
+    }
+    
+    
+    
+    .framemwork-body {
+        font-weight: bold;
+        font-size: 18px;
+       text-align: center;
+ 
+    }
+    
+    .number {
+        font-size: 30px;
+       text-align: center;
+       font-weight:bold;
+    }  
       
       
       
@@ -1832,8 +1871,7 @@ color:#53809E;
 /* NEW PORTFOLIO QUERIES */
 
 .problem-statement {
-    font-size:30px;
-    color:#fff;
+    font-size: 26px;
 }
 
 .div-color {
@@ -1842,4 +1880,15 @@ color:#53809E;
 
 .white-font {
     color:#fff;
+}
+
+
+.problem-padding {
+    padding-top:100px;
+    padding-bottom:100px;
+}
+
+
+.top-padding {
+    padding-top:50px;
 }
