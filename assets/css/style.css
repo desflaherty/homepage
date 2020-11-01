@@ -527,7 +527,7 @@ section {
     
      .retro-sub-heading2 {
         font-size:20px;
-         color: #53809E;;
+       
     }
     
     .portfolio-sub-heading {
@@ -1892,3 +1892,10 @@ color:#53809E;
 .top-padding {
     padding-top:50px;
 }
+
+
+.large-number {
+    font-size: 60px;
+}
+
+.piechart img{border:0;}
