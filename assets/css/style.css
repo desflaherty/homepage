@@ -926,7 +926,7 @@ section {
 }
 
 .navbar-default .navbar-nav .active {
-color: #53809E;
+color: #55ACEE;
  
 }
 
@@ -949,12 +949,12 @@ color: #53809E;
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
     background-color: transparent;
-    color: #53809E;
+    color: #55ACEE;
 }
 
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
-    color: #53809E;
+    color: #55ACEE;
 }
 
 .navbar-collapse {
@@ -962,7 +962,7 @@ color: #53809E;
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
-    color: #53809E;
+    color: #55ACEE;
     background-color: transparent;
 }
 
@@ -1102,7 +1102,7 @@ color: #53809E;
 }
 
 .blue-brand {
-    color:#53809E;
+    color:#55ACEE;;
     
 }
 
