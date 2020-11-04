@@ -66,22 +66,22 @@ td, th {
 
 th:nth-child(even) {
    background-color: #55ACEE;
-     border: 1px solid  ;
+     border: 1px solid #ccc;
     color:white;
 }
 
 th:nth-child(odd) {
   background-color: #55ACEE;
-    border: 1px solid ; 
+    border: 1px solid #ccc; 
     color:white;
 }
 
 td:nth-child(even)  {
- border: 1px solid ;   
+ border: 1px solid #ccc;   
 }
 
 td:nth-child(odd)  {
- border: 1px solid ;
+ border: 1px solid #ccc;
 }
 
 
@@ -1904,4 +1904,11 @@ color:#55ACEE;
 
 
 
+
+
 img{border:0;}
+
+.grey-border {
+border: 1px solid #ccc;
+    
+}
