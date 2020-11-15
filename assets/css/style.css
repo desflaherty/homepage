@@ -5,12 +5,12 @@ body {
    /* font-family: 'Open Sans', sans-serif;*/
     font-family: 'Avenir', sans-serif;
    
-    
 
+ 
      letter-spacing: 1px;
     position: relative;
     color:#525252;
-   
+    overflow-x:hidden ;
 }
 
 
@@ -24,10 +24,12 @@ body {
 html,body {
   height:100%;
  
+ 
 }
 
 html {
   scroll-behavior: smooth;
+ 
 }
 
 
@@ -1915,4 +1917,8 @@ border: 1px solid #ccc;
     
 }
 
+
+.container {
+    overflow-x: hidden;
+}
 

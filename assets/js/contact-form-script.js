@@ -51,3 +51,6 @@ function submitMSG(valid, msg){
     $("#msgSubmit").removeClass().addClass(msgClasses).text(msg);
 }
 
+
+	
+	
