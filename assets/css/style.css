@@ -1820,13 +1820,18 @@ color:#55ACEE;
 .scrollToTop:focus {
    text-decoration: none;
    color:  #fff;
+  
 }
 .scrollToTop:hover{
-  /* background-color: #48484d;*/
-    background-color: #608CA5;
+
+     background-color:#4d9ad4;
    opacity: 1;
    color: #fff;
    text-decoration: none;
+   transition: all .7s ease-in-out;
+    -moz-transition: all .7s ease-in-out;
+    -webkit-transition: all .7s ease-in-out;
+    -o-transition: all .7s ease-in-out;
 }
 
 
