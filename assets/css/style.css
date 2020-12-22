@@ -489,6 +489,10 @@ section {
     
     }
     
+    .framework-center {
+        text-align: center;
+    }
+    
     .framework-s {
          font-size: 35px;
          font-weight:bold;
@@ -498,6 +502,18 @@ section {
     .framework-b {
         color:#868181;
         font-weight: bold;
+    }
+    
+    .framework-padding {
+        padding-bottom:200px;
+    }
+    
+    .framework-small-padding {
+        padding-bottom: 100px;
+    }
+    
+    .framework-grey{
+        background-color: #FAFAFA;
     }
     
     
@@ -1719,6 +1735,11 @@ color:  #525252;
 color:#55ACEE;
 }
 
+.white-hex {
+/*color: #53722F;*/
+color:#FFFFFF;
+}
+
 
 .orange-hex {
 /*color: #FDA02F;*/
@@ -1893,9 +1914,12 @@ color:#55ACEE;
 
 
 .problem-padding {
-    padding-top:100px;
-    padding-bottom:100px;
+    padding-top:200px;
+    padding-bottom:200px;
 }
+
+
+
 
 .story-padding {
     padding-top:150px;
