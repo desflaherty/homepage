@@ -22,7 +22,7 @@
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Abel" type="text/css" />
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     
 
 
@@ -38,9 +38,9 @@
 
   <div class="container">
     <div class="navbar-header">
-         <span class="navbar-brand pointer navbar-left" onclick="location='../index.html'">
+         <span class="navbar-brand pointer navbar-left" onclick="location='index.html'">
                     <div class="logo">
-<img src="../assets/images/Portfolio_Logo.png"  class="img-responsive" alt="Logo">
+<img src="assets/images/Portfolio_Logo.png"  class="img-responsive" alt="Logo">
 </div>
                  </span>
         
@@ -58,9 +58,9 @@
     </div>
     <div class="navbar-collapse collapse" id="navbar">
       <ul class="nav navbar-right navbar-nav">
-        <li><a  href="../index.html#portfolio">PORTFOLIO</a></li>
-        <li><a href="../portfolio/about.html#aboutme">ABOUT</a></li>
-        <li><a class="active" <a href="#contact">CONTACT</a></li>
+        <li><a  href="index.html">PORTFOLIO</a></li>
+        <li><a class="active" <a href="about.html">ABOUT</a></li>
+        <li><a href="contactForm.html">CONTACT</a></li>
       </ul>
      
       
@@ -69,61 +69,85 @@
 </div><!-- /.navbar -->
 
 
-<div id="contact"></div>
-	 <div class="container formcontainer">
-            <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" id="form_container">
-                    <h3 class="number-heading blue-brand">Say hello and let's work together!</h3>
-                    <br>
-                   <p class="portfolio-detail-body">
-You can email me on des@desflaherty.com
-or fill out the form below.</p>
-<br>
-	 <!-- Start Contact Form -->
-<form role="form" id="contactForm" class="contact-form" data-toggle="validator" class="shake">
-  <div class="form-group">
-    <div class="controls">
-      <input type="text" id="name" class="form-control" placeholder="Name" required data-error="Please enter your name">
-      <div class="help-block with-errors"></div>
-    </div>
+<section id="aboutme">
+  <div class="container aboutcontainer"> 
+ 
+ 
+  
+  
+  
+   <div class="row">
+       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ">
+         <p class=" text-center about-header process-number-heading table-padding blue-brand">About Des</p>
+ </div>
+ </div>
+ 
+    
+    
+    
+    <div class="row">
+        
+     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+  <img src="assets/images/dog_pic-min.png" style="background-color:#FFF;" class="img-responsive " alt="profile_pic">
   </div>
-  <div class="form-group">
-    <div class="controls">
-      <input type="email" class="email form-control" id="email" placeholder="Email" required data-error="Please enter your email">
-      <div class="help-block with-errors"></div>
-    </div>
-  </div>
-  <div class="form-group">
-    <div class="controls">
-      <input type="text" id="msg_subject" class="form-control" placeholder="Subject" required data-error="Please enter your message subject">
-      <div class="help-block with-errors"></div>
-    </div>
-  </div>
-  <div class="form-group">
-    <div class="controls">
-      <textarea id="message" rows="7" placeholder="Message" class="form-control" required data-error="Write your message"></textarea>
-      <div class="help-block with-errors"></div>
-    </div>  
-  </div>
+ 
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 ">
+
+    <p class="portfolio-detail-body ">
+    Hey there! I'm Des, a certified UX & UI Designer from Dublin, Ireland.
+    I've always had a passion and interest in design, completing a BSc in Multimedia Computing initially 
+    in Swansea, Wales. My career path then focused on customer analytics, 
+    where
+    I worked for some of the world's largest multinational companies 
+      using data to understand customer behaviours and communicating my findings
+     using different visual tools.
+    
+   </p>
+    
+    
+  
+   
+  
+  <p class="portfolio-detail-body ">
+UX appeals to me on many levels. It combines my interest in understanding 
+people with my problem solving skills, curious nature and love for technology.
+UI allows me to explore my creative side and my visual design ability.
+ Having knowledge in both areas allows me to add value to a company while also 
+ advocating for the user at all times. 
+ Creating products that positively impact on people's lives and the world around me.
+  </P>
+  
+    
+ <p class="portfolio-detail-body">
+    I have a very informal and friendly manner 
+    and this helps me to work well in teams or when carrying out usability tests or user interviews.
+    I'm always seeking out adventure! I enjoy travelling, nature,
+  scuba diving, and keeping fit and healthy.</p>
+   
+            </div>
+  </div> <!-- close row -->
+  
+  
+  
+  
+  
+   <!--**********BACK TO TOP BUTTON*********************** -->
+ 		<a href="#" class="scrollToTop">Scroll To Top</a>   
+          
+          
+          
+
+          
   
   
 
-  <button type="submit" id="submit" class="btn btn-effect btn-blue"><i class="fa fa-check"></i> Send Message</button>
-  <div id="msgSubmit" class="h3 text-center hidden"></div> 
-  <div class="clearfix"></div>   
 
-</form>     
-<!-- End Contact Form -->
-
-
-</DIV>
 
 
 
  
-
-</div> <!-- close row -->
-</div>
+  </div> <!-- close container -->
+</section>
 
 	   
 	    
@@ -163,7 +187,7 @@ or fill out the form below.</p>
 
 <!--  jquery script  -->
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <!--  validation script  -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
 
@@ -171,12 +195,12 @@ or fill out the form below.</p>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   
 
-  <script type="text/javascript" src="../assets/js/javascript.js"></script>
- <script type="text/javascript" src="../assets/js/contact-form-script.js"></script>
+  <script type="text/javascript" src="assets/js/javascript.js"></script>
+ <script type="text/javascript" src="assets/js/contact-form-script.js"></script>
   
 
-
-   
+ 
+  
    <script>
         $(document).on('click', '.navbar-collapse.in', function(e) {
             if ($(e.target).is('a')) {
