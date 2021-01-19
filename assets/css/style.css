@@ -28,8 +28,7 @@ html,body {
 }
 
 html {
-  scroll-behavior: smooth;
- 
+   scroll-behavior: smooth;
 }
 
 
@@ -1869,9 +1868,7 @@ color:#55ACEE;
    opacity: .8;
    display: inline-block;
    padding: 5px 10px;
-  
- 
-     background-color:#F29E1E;
+     background-color:#55ACEE;
 
    border-radius: 5px;
 }
@@ -1883,7 +1880,7 @@ color:#55ACEE;
 }
 .scrollToPortfolio:hover{
 
-     background-color:#F4C378;
+     background-color:#4d9ad8;
    opacity: 1;
    color: #fff;
    text-decoration: none;
