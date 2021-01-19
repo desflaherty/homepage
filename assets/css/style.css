@@ -105,7 +105,7 @@ td:nth-child(odd)  {
 
 
 .first_new {
-    padding-top:150px;
+    padding-top:250px;
     
     min-height:400px;
 
@@ -224,12 +224,12 @@ section {
 
 .description {
     font-size: 2.5em;
-    color:#27594D;
+    color:#525252;
 
 }
 
-.script_l {
-    font-size: 1.6em;
+.script_analytics {
+    font-size: 1.8em;
      color:#525252;
      font-weight: normal;
 }
@@ -237,7 +237,7 @@ section {
 
 
 .script {
-    font-size: 1.5em;
+    font-size: 1.4em;
      color:#525252;
      font-weight: normal;
 }
@@ -366,6 +366,14 @@ section {
       text-align: center;
   }  
     
+   
+   .rightpadding {
+       padding-top: 150px;
+   }
+   
+   
+   
+   
    
     .righttrack:hover img {
       opacity: 0.2;
@@ -1853,6 +1861,45 @@ color:#55ACEE;
     -webkit-transition: all .7s ease-in-out;
     -o-transition: all .7s ease-in-out;
 }
+
+.scrollToPortfolio{
+   color: #FFF;
+   text-decoration: none;
+   font-weight: bold;
+   opacity: .8;
+   display: inline-block;
+   padding: 5px 10px;
+  
+ 
+     background-color:#F29E1E;
+
+   border-radius: 5px;
+}
+
+.scrollToPortfolio:focus {
+   text-decoration: none;
+   color:  #fff;
+  
+}
+.scrollToPortfolio:hover{
+
+     background-color:#F4C378;
+   opacity: 1;
+   color: #fff;
+   text-decoration: none;
+   transition: all .7s ease-in-out;
+    -moz-transition: all .7s ease-in-out;
+    -webkit-transition: all .7s ease-in-out;
+    -o-transition: all .7s ease-in-out;
+}
+
+
+
+
+
+
+
+
 
 
 .border-brown {
