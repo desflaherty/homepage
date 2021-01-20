@@ -1046,10 +1046,10 @@ color: #55ACEE;
 .btn-blue:active,
 .btn-blue:focus,
 .btn-blue:active:focus{
-    color:  #55ACEE;
-    background-color: #fff;
+    color:  #FFF;
+    background-color: #55ACEE;
    border-color:  #55ACEE;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .btn-white{
@@ -1085,9 +1085,14 @@ color: #55ACEE;
 }
 
 .btn-blue:hover {
-    background-color: #608CA5;
-    border-color: #608CA5;
-    color: white;
+    background-color: #4d9ad4;
+    border-color: #4d9ad4;
+    color: #FFF;
+    transition: all .7s ease-in-out;
+    -moz-transition: all .7s ease-in-out;
+    -webkit-transition: all .7s ease-in-out;
+    -o-transition: all .7s ease-in-out;
+    
 }
 
 .btn-orange {
