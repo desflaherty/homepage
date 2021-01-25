@@ -241,6 +241,11 @@ section {
      font-weight: normal;
 }
 
+
+
+
+
+
 .enquire-container {
     height: 40%;
     width: 100%;
@@ -1341,6 +1346,7 @@ label  {
 }
 
 
+
 .btn-cta {
     font-weight: bold;
     border-radius: 5px;
@@ -1884,7 +1890,6 @@ color:#0373A2;
    display: inline-block;
    padding: 10px 10px;
      background-color:#0373A2;
-
    border-radius: 5px;
 }
 
