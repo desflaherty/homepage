@@ -315,7 +315,7 @@ section {
 
 .fullbanner-solace {
     background-image:
-    linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
+    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
     url('../images/sea.jpg');
     background-repeat: repeat;
     background-size: cover;
@@ -512,7 +512,7 @@ section {
          
     .framework-h {
          font-size: 40px;
-         font-weight:bold;
+     
     
     }
     
