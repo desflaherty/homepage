@@ -326,7 +326,6 @@ section {
 
 
 
-
 .fullbanner-oneday {
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/Perspective.jpg');
     background-repeat: repeat;
@@ -721,6 +720,20 @@ section {
     
     .portfolio-image {
          padding-top:30px;
+    }
+    
+    
+    .solace-padding {
+          padding-top:50px;
+    }
+    
+    .solace-brand-framework {
+        color:#3D9AE2;
+        font-size: 18px;
+    }
+    
+    .solace-brand {
+          color:#3D9AE2;
     }
     
     
@@ -1989,7 +2002,11 @@ color:#0373A2;
 }
 
 .div-color {
-    background-color: #0373A2;
+    background-color:#0373A2;
+}
+
+.solace-div-color{
+    background-color:#3D9AE2;
 }
 
 .white-font {
