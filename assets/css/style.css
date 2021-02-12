@@ -385,7 +385,7 @@ section {
     
    
    .rightpadding {
-       padding-top: 100px;
+       padding-top: 20px;
    }
    
    
@@ -1897,6 +1897,11 @@ color:#0373A2;
    bottom: 30px;
    z-index: 2;
    border-radius: 5px;
+}
+
+
+.portfolio_scroll {
+    padding-top: 100px;
 }
 
 .scrollToTop:focus {
