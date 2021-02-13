@@ -86,7 +86,8 @@ td:nth-child(odd)  {
 }
 
 
-
+ 
+    
 
  .contactbg{
     background-color: #525252;
@@ -732,11 +733,31 @@ section {
         font-size: 18px;
     }
     
+    .solace-div-color{
+    background-color:#3D9AE2;
+}
+
+     .righttrack-div-color{
+    background-color:#2C5353;
+}
+    
+    
+    .righttrack-brand-framework {
+        color:#2C5353;
+        font-size: 18px;
+    }
+    
+    .righttrack-brand {
+        color:#2C5353;
+    }
+    
+    
+    
     .solace-brand {
           color:#3D9AE2;
     }
     
-    
+   
     .research-padding {
         padding-top:100px;
     }
@@ -2010,9 +2031,10 @@ color:#0373A2;
     background-color:#0373A2;
 }
 
-.solace-div-color{
-    background-color:#3D9AE2;
-}
+
+
+
+
 
 .white-font {
     color:#fff;
