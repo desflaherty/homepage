@@ -323,7 +323,14 @@ section {
     width: 100%;
 }
 
-
+.fullbanner-bikelab {
+    background-image:
+    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
+    url('../images/bike.png');
+    background-repeat: repeat;
+    /*background-size: cover;*/
+    width: 100%;
+}
 
 
 
