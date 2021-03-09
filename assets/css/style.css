@@ -747,7 +747,9 @@ section {
   
 
     
-    
+    .bikelab-div-color {
+         background-color:#000000;
+    }
     
     .solace-div-color{
     background-color:#3D9AE2;
@@ -767,7 +769,9 @@ section {
         color:#2C5353;
     }
     
-    
+    .bikelab-brand {
+        color:#FF0000;
+    }
     
     .solace-brand {
           color:#3D9AE2;
