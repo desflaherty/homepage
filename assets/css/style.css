@@ -106,7 +106,6 @@ td:nth-child(odd)  {
 
 .first_new {
     padding-top:200px;
-    
     min-height:400px;
 
 }
@@ -597,7 +596,6 @@ section {
 
 
 
-
 }
 
 
@@ -691,7 +689,11 @@ section {
         font-size: 30px;
     }
         
-        
+        .first_new {
+    padding-top:100px;
+    
+
+}
         
       .number-heading {
         font-size: 30px;
