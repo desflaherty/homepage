@@ -606,14 +606,24 @@ section {
      @media screen and (min-device-width: 768px) and (max-device-width: 1023px) { 
          
         .process-number-heading {
-        font-size: 40px;
+        font-size: 35px;
     } 
          
          
          
       .number-heading {
-        font-size: 30px;
+        font-size: 35px;
     }
+    
+    
+    
+      
+      
+      
+         .number-subheading {
+        font-size: 25px;
+    }
+      
     
     .retro-heading {
         font-size:25px;
@@ -636,7 +646,7 @@ section {
      @media screen and (min-device-width: 1024px) and (max-device-width: 1366px) { 
          
            .process-number-heading {
-        font-size: 45px;
+        font-size: 35px;
     } 
          
          
@@ -646,7 +656,13 @@ section {
     }
          
          
-         
+          
+      
+      
+         .number-subheading {
+        font-size: 28px;
+    }
+      
          
       .retro-heading {
         font-size: 30px;
@@ -672,14 +688,21 @@ section {
     @media screen and (min-device-width: 320px) and (max-device-width: 414px) { 
         
         .process-number-heading {
-        font-size: 35px;
+        font-size: 30px;
     }
         
         
         
       .number-heading {
-        font-size: 25px;
+        font-size: 30px;
     }
+      
+      
+      
+         .number-subheading {
+        font-size: 20px;
+    }
+      
       
       .retro-heading {
         font-size:20px;
