@@ -215,22 +215,37 @@ section {
 }
 
 .name {
-    font-size: 4em;
+    font-size: 3.5em;
+}
 
-   
+.indext1 {
+     font-size: 3.5em;
+    color:#FFFFFF;
+    
+}
+
+.indext2 {
+     font-size: 2.5em;
+    color:#FFFFFF;
+}
+
+.indext3 {
+     font-size: 1.4em;
+   color:#FFFFFF;
 }
 
 
 .description {
-    font-size: 2.5em;
+    font-size: 1.7em;
     color:#525252;
 
 }
 
 .script_analytics {
-    font-size: 1.8em;
+    font-size: 1.5em;
      color:#525252;
      font-weight: normal;
+   
 }
 
 
@@ -239,6 +254,7 @@ section {
     font-size: 1.4em;
      color:#525252;
      font-weight: normal;
+   
 }
 
 
@@ -778,6 +794,15 @@ section {
     
     .solace-div-color{
     background-color:#3D9AE2;
+}
+
+ .solaceindex-div-color{
+    background-color:#96bad9;
+}
+
+.index-padding {
+    padding-top: 150px;
+    padding-bottom:150px;
 }
 
      .righttrack-div-color{
@@ -1421,10 +1446,12 @@ label  {
 }
 .name {
     font-size: 3em;
+   
 }
 .description {
-    font-size: 2em;
+    font-size: 1.5em;
       color:#525252;
+      
     
 }
 
@@ -1987,23 +2014,24 @@ color:#0373A2;
     -o-transition: all .7s ease-in-out;
 }
 
-.scrollToPortfolio{
+.solacebutton{
    color: #FFF;
    text-decoration: none;
    font-weight: bold;
    opacity: 1;
    display: inline-block;
-   padding: 10px 10px;
+   padding: 10px 20px;
      background-color:#0373A2;
-   border-radius: 5px;
+   border-radius: 20px;
+   box-shadow: .5px .5px .5px .5px #888888;
 }
 
-.scrollToPortfolio:focus {
+.solacebutton:focus {
    text-decoration: none;
    color:  #fff;
   
 }
-.scrollToPortfolio:hover{
+.solacebutton:hover{
 
      background-color:#4d9ad8;
    opacity: 1;
