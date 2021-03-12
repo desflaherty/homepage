@@ -220,20 +220,26 @@ section {
 
 .indext1 {
      font-size: 3.5em;
-    color:#FFFFFF;
     
 }
 
 .indext2 {
      font-size: 2.5em;
-    color:#FFFFFF;
+   
 }
 
 .indext3 {
      font-size: 1.4em;
-   color:#FFFFFF;
+  
 }
 
+.white {
+    color:#FFFFFF;
+}
+
+.grey {
+    color:#525252;
+}
 
 .description {
     font-size: 1.7em;
@@ -797,7 +803,20 @@ section {
 }
 
  .solaceindex-div-color{
-    background-color:#96bad9;
+   background-color:#a6cdee;
+   
+}
+
+.bikeindex-div-color {
+    background-color:#aaa6a6;
+}
+
+.rightindex-div-color {
+    background-color:#39acac;
+}
+
+.saveindex-div-color {
+    background-color:#3EA4D4;
 }
 
 .index-padding {
