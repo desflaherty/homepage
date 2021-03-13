@@ -808,7 +808,7 @@ section {
 }
 
 .bikeindex-div-color {
-    background-color:#aaa6a6;
+    background-color:#e2e0e0;
 }
 
 .rightindex-div-color {
@@ -816,7 +816,7 @@ section {
 }
 
 .saveindex-div-color {
-    background-color:#3EA4D4;
+    background-color:#b6e4f9;
 }
 
 .index-padding {
@@ -2063,12 +2063,96 @@ color:#0373A2;
     -o-transition: all .7s ease-in-out;
 }
 
+.bikebutton{
+   color: #FFF;
+   text-decoration: none;
+   font-weight: bold;
+   opacity: 1;
+   display: inline-block;
+   padding: 10px 20px;
+   background-color:#FF0000;
+   border-radius: 20px;
+   box-shadow: .5px .5px .5px .5px #888888;
+   font-size: 1.2em;
+}
+
+.bikebutton:focus {
+   text-decoration: none;
+   color:  #fff;
+  
+}
+.bikebutton:hover{
+
+     background-color:#b70303;
+   opacity: 1;
+   color: #fff;
+   text-decoration: none;
+   transition: all .7s ease-in-out;
+    -moz-transition: all .7s ease-in-out;
+    -webkit-transition: all .7s ease-in-out;
+    -o-transition: all .7s ease-in-out;
+}
+
+.rightbutton{
+   color: #FFF;
+   text-decoration: none;
+   font-weight: bold;
+   opacity: 1;
+   display: inline-block;
+   padding: 10px 20px;
+   background-color:#FAB041;
+   border-radius: 20px;
+   box-shadow: .5px .5px .5px .5px #888888;
+   font-size: 1.2em;
+}
+
+.rightbutton:focus {
+   text-decoration: none;
+   color:  #fff;
+  
+}
+.rightbutton:hover{
+
+     background-color:#f19e21;
+   opacity: 1;
+   color: #fff;
+   text-decoration: none;
+   transition: all .7s ease-in-out;
+    -moz-transition: all .7s ease-in-out;
+    -webkit-transition: all .7s ease-in-out;
+    -o-transition: all .7s ease-in-out;
+}
 
 
+.savebutton{
+   color: #FFF;
+   text-decoration: none;
+   font-weight: bold;
+   opacity: 1;
+   display: inline-block;
+   padding: 10px 20px;
+   background-color:#225F7B;
+   border-radius: 20px;
+   box-shadow: .5px .5px .5px .5px #888888;
+   font-size: 1.2em;
+}
 
+.savebutton:focus {
+   text-decoration: none;
+   color:  #fff;
+  
+}
+.savebutton:hover{
 
-
-
+     background-color:#17485f;
+   opacity: 1;
+   color: #fff;
+   text-decoration: none;
+   transition: all .7s ease-in-out;
+    -moz-transition: all .7s ease-in-out;
+    -webkit-transition: all .7s ease-in-out;
+    -o-transition: all .7s ease-in-out;
+}
 
 
 
