@@ -803,7 +803,7 @@ section {
 }
 
  .solaceindex-div-color{
-   background-color:#a6cdee;
+   background-color:#6480B0;
    
 }
 
@@ -2040,9 +2040,10 @@ color:#0373A2;
    opacity: 1;
    display: inline-block;
    padding: 10px 20px;
-     background-color:#0373A2;
+   background-color:#36393a;
    border-radius: 20px;
    box-shadow: .5px .5px .5px .5px #888888;
+   font-size: 1.2em;
 }
 
 .solacebutton:focus {
@@ -2052,7 +2053,7 @@ color:#0373A2;
 }
 .solacebutton:hover{
 
-     background-color:#4d9ad8;
+     background-color:#626667;
    opacity: 1;
    color: #fff;
    text-decoration: none;
