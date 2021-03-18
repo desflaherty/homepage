@@ -645,16 +645,7 @@ section {
 
 
 
-@media screen and (min-device-width: 375px) and (max-device-width: 812px) { 
-.formcontainer {
-     padding-top: 175px;
-      padding-bottom:175px;
-    
-}
 
-
-
-}
 
 
 
@@ -979,13 +970,23 @@ section {
 }
 
 
+
+
+
 .about-header {
     color:#222;
-   
     padding-top: 150px;
     padding-bottom:10px;
    
 }
+
+
+@media screen and (min-device-width: 375px) and (max-device-width: 812px) { 
+.about-header {
+    padding-top:100px;
+}
+}
+
 
 
 .form-header {
@@ -1863,6 +1864,15 @@ color:  #525252;
 
 }
 
+@media screen and (min-device-width: 375px) and (max-device-width: 812px) { 
+.formcontainer {
+     padding-top:100px;
+      padding-bottom:175px;
+}
+
+
+
+}
 
 
 .aboutcontainer {
