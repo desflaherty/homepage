@@ -8,6 +8,7 @@ body {
 
  
      letter-spacing: 1px;
+     
     position: relative;
     color:#525252;
     overflow-x:hidden ;
@@ -738,8 +739,10 @@ section {
         
         .first_new {
     padding-top:100px;
-    
+}
 
+.first_new_scroll {
+    padding-top:160px;
 }
         
       .number-heading {
@@ -2080,9 +2083,13 @@ color:#0373A2;
 }
 
 
+/*
 .portfolio_scroll {
     padding-top: 100px;
 }
+*/
+
+
 
 .scrollToTop:focus {
    text-decoration: none;
