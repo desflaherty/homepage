@@ -111,6 +111,12 @@ td:nth-child(odd)  {
 
 }
 
+
+.nav-padding {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
 .first_lg {
   padding-top:150px;
   height: 80%;
@@ -741,9 +747,7 @@ section {
     padding-top:100px;
 }
 
-.first_new_scroll {
-    padding-top:160px;
-}
+
         
       .number-heading {
         font-size: 30px;
