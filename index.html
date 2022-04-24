@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Abel" type="text/css" />
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/underline.css">
 	</head>
 	
 <body data-spy="scroll" data-target="#navbar">
@@ -62,12 +63,27 @@
     <div class="navbar-collapse collapse" id="navbar">
       <ul class="nav navbar-right navbar-nav">
          
-        <li><a href="#home">HOME</a></li>
-         <li><a href="#portfolio">PORTFOLIO</a></li>
-        <li><a href="about.html">ABOUT</a></li>
-        <li><a href="contactForm.html">CONTACT</a></li>
+        <li class="underline"><a href="#home">HOME</a></li>
+         <li class="underline"><a href="#portfolio">PORTFOLIO</a></li>
+        <li class="underline"><a href="about.html">ABOUT</a></li>
+        <li class="underline"><a href="contactForm.html">CONTACT</a></li>
       </ul>
      
+      <!-- https://stackoverflow.com/questions/22518099/bootstrap-menu-change-li-active-class-on-click
+                ***change status of navbar links on click to 'active' so that the user will know the relevant section***
+                -->
+                <script>
+                  /* global $*/
+                  (".nav li").on("click", function() {
+                      $(".nav li").removeClass("active");
+                      $(this).addClass("active");
+                  });
+
+                  //https://v4-alpha.getbootstrap.com/components/scrollspy/#mdo.
+                  //Scroll spy used to update navbar links on scroll so they will be on the relevant section
+
+                  $('body').scrollspy({ target: '#navbar' })
+              </script>
      
     </div>
      
@@ -83,9 +99,10 @@
       <div class="container ">
      <div class="row">
      <div class="col-xs-12 col-sm-12 col-md-7 col-lg-8 no-gutter">
+       <Div>
       <div class="rectangle"></div>
-       <p class="name white">
-        Hello, I'm Des!</p>
+       <span class="name white"> Hello, I'm Des!</span>
+       </Div>
        <p class="description white">A UX Product Designer based in Dublin.</p>
        <p class="script white"> I talk to customers, analyse what they say and design based on what they need...</p>
       </div>

@@ -11,16 +11,16 @@ https://stackoverflow.com/questions/45164065/thick-underline-when-hover-and-when
 
  .navbar a {
   position: relative;
-  color: #fff;
+  color: #6480B0;
   text-decoration: none;
 }
 
 .navbar a:visited {
-  color: #fff;
+  color:#6480B0;
   text-decoration:none;
 }
  .navbar a:hover {
-  color: #fff;
+  color: #6480B0;
   text-decoration:none;
 }
 
@@ -31,7 +31,7 @@ https://stackoverflow.com/questions/45164065/thick-underline-when-hover-and-when
   height: 2px;
   bottom: 8px;
   left: 0;
-  background-color: #fff;
+  background-color:#6480B0;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
