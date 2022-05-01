@@ -14,7 +14,9 @@ body {
     overflow-x:hidden ;
 }
 
-
+.work-history-text {
+    color:#202020;
+}
 
 .portfolio-bg {
   background-color:#FAFAFA;   
