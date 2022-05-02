@@ -607,6 +607,9 @@ section {
         font-size: 40px;
     }
     
+    .education-padding {
+        padding-bottom:20px;
+    }
     
     .retro-heading {
         font-size:35px;
@@ -1028,7 +1031,6 @@ section {
 
 
 .about-header {
-    color:#222;
     padding-top: 150px;
     padding-bottom:40px;
    
