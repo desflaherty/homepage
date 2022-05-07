@@ -1492,7 +1492,7 @@ footer .cv-pdf i:hover {
     font-size: 20px;
     line-height: 7px;
     text-align: center;
-    color: #353333;
+    color: #252525;
     background: #fafafa;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
@@ -1509,7 +1509,7 @@ footer .cv-pdf i:hover {
 
 .social-links li a i:hover {
     /*background: #e84610;*/
-    background:#6480B0;
+    background:#3d3d3d;
 }
 
 #footer-details {
@@ -1653,7 +1653,7 @@ label {
     line-height: 7px;
     text-align: center;
     color: #fafafa;
-    background: #353333;
+    background: #525252;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -1668,7 +1668,7 @@ label {
     font-size: 16px;
     line-height: 7px;
     text-align: center;
-    color: #353333;
+    color: #525252;
     background:#fafafa;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
