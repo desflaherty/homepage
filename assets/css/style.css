@@ -2186,7 +2186,8 @@ color:#6480B0;
     display: inline-block;
     padding: 10px 20px;
     background-color:#36393a;
-    margin-top: 10px;;
+    margin-top: 10px;
+    margin-bottom: 10px;
     border-radius: 20px;
     box-shadow: .5px .5px .5px .5px #888888;
     font-size: 1.2em;
@@ -2218,7 +2219,8 @@ color:#6480B0;
    display: inline-block;
    padding: 10px 20px;
    background-color:#fafafa;
-   margin-top: 10px;;
+   margin-top: 10px;
+   margin-bottom: 10px;
    border-radius: 20px;
    box-shadow: .5px .5px .5px .5px #888888;
    font-size: 1.2em;
@@ -2247,7 +2249,8 @@ color:#6480B0;
     opacity: 1;
     display: inline-block;
     padding: 10px 20px;
-    margin-top: 10px;;
+    margin-top: 10px;
+    margin-bottom: 10px;
     background-color:#40ACEF;
     border-radius: 20px;
     box-shadow: .5px .5px .5px .5px #888888;
@@ -2271,7 +2274,37 @@ color:#6480B0;
  }
 
 
-
+ .uxbutton{
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    opacity: 1;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:#F88A3B;
+    border-radius: 20px;
+    box-shadow: .5px .5px .5px .5px #888888;
+    font-size: 1.2em;
+ }
+ 
+ .uxbutton:focus {
+    text-decoration: none;
+    color:  #fff;
+   
+ }
+ .uxbutton:hover{
+ 
+      background-color:#e6823b;
+    opacity: 1;
+    color: #fff;
+    text-decoration: none;
+    transition: all .7s ease-in-out;
+     -moz-transition: all .7s ease-in-out;
+     -webkit-transition: all .7s ease-in-out;
+     -o-transition: all .7s ease-in-out;
+ }
 
 
 
@@ -2283,7 +2316,8 @@ color:#6480B0;
    opacity: 1;
    display: inline-block;
    padding: 10px 20px;
-   margin-top: 10px;;
+   margin-top: 10px;
+   margin-bottom: 10px;
    background-color:#FF0000;
    border-radius: 20px;
    box-shadow: .5px .5px .5px .5px #888888;
