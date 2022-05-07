@@ -864,6 +864,12 @@ section {
    
 }
 
+.nce-div-color{
+    background-color:#262D47;
+    
+ }
+
+
 .bikeindex-div-color {
     background-color:#e2e0e0;
 }
@@ -2190,8 +2196,7 @@ color:#6480B0;
   
 }
 .solacebutton:hover{
-
-    background-color:#4a4d4f;
+    background-color:#696b6d;
    opacity: 1;
    color: #fff;
    text-decoration: none;
@@ -2200,6 +2205,41 @@ color:#6480B0;
     -webkit-transition: all .7s ease-in-out;
     -o-transition: all .7s ease-in-out;
 }
+
+.ncebutton{
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    opacity: 1;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:#40ACEF;
+    border-radius: 20px;
+    box-shadow: .5px .5px .5px .5px #888888;
+    font-size: 1.2em;
+ }
+ 
+ .ncebutton:focus {
+    text-decoration: none;
+    color:  #fff;
+   
+ }
+ .ncebutton:hover{
+    background-color:#169aec;
+    opacity: 1;
+    color: #fff;
+    text-decoration: none;
+    transition: all .7s ease-in-out;
+     -moz-transition: all .7s ease-in-out;
+     -webkit-transition: all .7s ease-in-out;
+     -o-transition: all .7s ease-in-out;
+ }
+
+
+
+
+
+
 
 .bikebutton{
    color: #FFF;
