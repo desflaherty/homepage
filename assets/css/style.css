@@ -2177,14 +2177,48 @@ color:#6480B0;
     -o-transition: all .7s ease-in-out;
 }
 
+
+.oneclubbutton{
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    opacity: 1;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:#36393a;
+    margin-top: 10px;;
+    border-radius: 20px;
+    box-shadow: .5px .5px .5px .5px #888888;
+    font-size: 1.2em;
+ }
+ 
+ .oneclubbutton:focus {
+    text-decoration: none;
+    color:  #fff;
+   
+ }
+ .oneclubbutton:hover{
+     background-color:#696b6d;
+    opacity: 1;
+    color: #fff;
+    text-decoration: none;
+    transition: all .7s ease-in-out;
+     -moz-transition: all .7s ease-in-out;
+     -webkit-transition: all .7s ease-in-out;
+     -o-transition: all .7s ease-in-out;
+ }
+
+
+
 .solacebutton{
-   color: #FFF;
+   color: #525252;
    text-decoration: none;
    font-weight: bold;
    opacity: 1;
    display: inline-block;
    padding: 10px 20px;
-   background-color:#36393a;
+   background-color:#fafafa;
+   margin-top: 10px;;
    border-radius: 20px;
    box-shadow: .5px .5px .5px .5px #888888;
    font-size: 1.2em;
@@ -2192,13 +2226,13 @@ color:#6480B0;
 
 .solacebutton:focus {
    text-decoration: none;
-   color:  #fff;
+   color:  #525252;
   
 }
 .solacebutton:hover{
-    background-color:#696b6d;
+    background-color:#e7e5e5;
    opacity: 1;
-   color: #fff;
+   color: #525252;
    text-decoration: none;
    transition: all .7s ease-in-out;
     -moz-transition: all .7s ease-in-out;
@@ -2213,6 +2247,7 @@ color:#6480B0;
     opacity: 1;
     display: inline-block;
     padding: 10px 20px;
+    margin-top: 10px;;
     background-color:#40ACEF;
     border-radius: 20px;
     box-shadow: .5px .5px .5px .5px #888888;
@@ -2248,6 +2283,7 @@ color:#6480B0;
    opacity: 1;
    display: inline-block;
    padding: 10px 20px;
+   margin-top: 10px;;
    background-color:#FF0000;
    border-radius: 20px;
    box-shadow: .5px .5px .5px .5px #888888;
@@ -2261,7 +2297,7 @@ color:#6480B0;
 }
 .bikebutton:hover{
 
-     background-color:#b70303;
+     background-color:#d60d0d;
    opacity: 1;
    color: #fff;
    text-decoration: none;
