@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="4px" viewBox="0 0 40 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>oneclub_redline</title>
+    <defs>
+        <linearGradient x1="0.000169849535%" y1="50.0075426%" x2="99.999469%" y2="50.0075426%" id="linearGradient-1">
+            <stop stop-color="#D21036" offset="0%"></stop>
+            <stop stop-color="#D01135" offset="53%"></stop>
+            <stop stop-color="#C81334" offset="73%"></stop>
+            <stop stop-color="#BC1631" offset="86%"></stop>
+            <stop stop-color="#AB182C" offset="97%"></stop>
+            <stop stop-color="#A5182B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1.000000, 0.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M40.4488659,1.73098856 C41.2033128,2.0118673 41.1945402,2.49927453 40.3523669,2.8710258 C39.4926484,3.25103821 38.0013,2.90407036 36.8959476,2.73058643 C32.7289446,2.06969528 27.6759052,1.67316059 21.0350183,1.98708388 C13.7449562,2.3257906 8.17433119,2.92885377 2.23525535,3.93671278 C0.726361638,4.1928081 0.682498449,3.6062672 1.65626125,3.34191074 C7.63920028,1.70620514 13.6133667,0.599212464 21.3683786,0.169633215 C28.9567103,-0.268207173 36.0450017,0.1035441 40.4488659,1.73098856 Z" id="oneclub_redline"></path>
+        </g>
+    </g>
+</svg>

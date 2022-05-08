@@ -1399,8 +1399,11 @@ color: #525252;
     color:#f05f40;
 }
 
+ul {
+    list-style-image: url('../images/oneclub_redline.svg');
+  }
 
-
+ 
 
 
 
@@ -1954,7 +1957,7 @@ color:  #525252;
 
 .formcontainer {
      padding-top: 175px;
-      padding-bottom:175px;
+      padding-bottom:100px;
     
 }
 
@@ -1963,7 +1966,7 @@ color:  #525252;
 @media screen and (min-device-width: 375px) and (max-device-width: 812px) { 
 .formcontainer {
      padding-top:100px;
-      padding-bottom:175px;
+      padding-bottom:100px;
 }
 
 
