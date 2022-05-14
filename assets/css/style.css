@@ -1396,12 +1396,16 @@ color: #525252;
     color:#f05f40;
 }
 
+/*
 ul {
     list-style-image: url('../images/oneclub_redline.svg');
   }
+*/
 
  
-  
+  ul {
+    list-style-image: url('../images/blueline.svg');
+  }
 
 
 
