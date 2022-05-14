@@ -34,13 +34,14 @@
     
    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
    <link rel="stylesheet" href="assets/css/style.css">
+   <link rel="stylesheet" href="assets/css/underline.css">
 	</head>
 	
 <body data-spy="scroll" data-target="#navbar">
     
    
     
-<div class="navbar navbar-default navbar-default-dark navbar-fixed-top">
+<div class="navbar navbar-default navbar-default-dark navbar-fixed-top"  data-spy="affix" data-offset-top="80">
 
 
   <div class="container-fluid">
@@ -70,6 +71,27 @@
        <li class="underline"><a href="contactForm.html">CONTACT</a></li>
       </ul>
      
+<!-- https://stackoverflow.com/questions/22518099/bootstrap-menu-change-li-active-class-on-click
+                ***change status of navbar links on click to 'active' so that the user will know the relevant section***
+                -->
+                <script>
+                  /* global $*/
+                  (".nav li").on("click", function() {
+                      $(".nav li").removeClass("active");
+                      $(this).addClass("active");
+                  });
+
+                  //https://v4-alpha.getbootstrap.com/components/scrollspy/#mdo.
+                  //Scroll spy used to update navbar links on scroll so they will be on the relevant section
+
+                  $('body').scrollspy({ target: '#navbar' })
+              </script>
+
+
+
+
+
+      
       </div>
     </div>		
   </div> <!-- close container -->
@@ -1024,7 +1046,7 @@ decided on at this stage, considering appropriate branding colour, logo and typo
 
 	
 	
-  <script type="text/javascript" src="assets/js/javascript.js"></script>	
+  
 	
 	<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
@@ -1034,7 +1056,7 @@ decided on at this stage, considering appropriate branding colour, logo and typo
 
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
+  <script type="text/javascript" src="assets/js/javascript.js"></script>	
 
   
    <script>

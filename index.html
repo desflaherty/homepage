@@ -29,7 +29,7 @@
     <link rel="stylesheet" href="assets/css/underline.css">
 	</head>
 	
-
+<body data-spy="scroll" data-target="#navbar">
     
 <div class="navbar navbar-default navbar-fixed-top" data-spy="affix" data-offset-top="80">
 
@@ -69,7 +69,21 @@
         <li class="underline"><a href="contactForm.html">CONTACT</a></li>
       </ul>
      
-    
+      <!-- https://stackoverflow.com/questions/22518099/bootstrap-menu-change-li-active-class-on-click
+                ***change status of navbar links on click to 'active' so that the user will know the relevant section***
+                -->
+                <script>
+                  /* global $*/
+                  (".nav li").on("click", function() {
+                      $(".nav li").removeClass("active");
+                      $(this).addClass("active");
+                  });
+
+                  //https://v4-alpha.getbootstrap.com/components/scrollspy/#mdo.
+                  //Scroll spy used to update navbar links on scroll so they will be on the relevant section
+
+                  $('body').scrollspy({ target: '#navbar' })
+              </script>
      
     </div>
      
@@ -126,7 +140,18 @@
           </div>
           </div>
           </div>
-        
+          
+
+
+
+
+
+
+
+
+
+
+
      
 <div class="container-fluid solaceindex-div-color index-padding"> 
  <div class="container ">
@@ -163,8 +188,40 @@
      </div>
       
       
+      	   
+            
+            	   
+ 		
+ 		
+ 		
+        
+       
+         
+
+ 		
+ 		
+ 
+       
+   
+   
+    
+    
+    
+    
     
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
