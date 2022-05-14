@@ -124,10 +124,7 @@ td:nth-child(odd)  {
 }
 
 
-.nav-padding {
-    padding-left: 50px;
-    padding-right: 50px;
-}
+
 
 .first_lg {
   padding-top:150px;
@@ -1608,7 +1605,7 @@ label  {
 }
 .description {
     font-size: 1.5em;
-      color:#525252;
+      color:#fff;
       
     
 }
