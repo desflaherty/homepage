@@ -13,14 +13,14 @@ body {
    /* font-family: 'Abel', sans-serif; */
    /* font-family: 'Open Sans', sans-serif;*/
     font-family: 'Avenir', sans-serif;
-   
+    overflow-x:hidden !important; 
 
  
      letter-spacing: 1px;
      
     position: relative;
     color:#525252;
-    overflow-x:hidden ;
+   
 }
 
 .work-history-text {
