@@ -999,6 +999,14 @@ section {
     
  }
 
+ .ux-div-color{
+    background-color:#fff;
+    
+ }
+
+ .uxfooter-padding {
+     margin-top: 20px;
+ }
 
 .oneclub2-div-color{
     background-color:#252424;
@@ -1022,6 +1030,12 @@ section {
 .index-padding {
     padding-top: 150px;
     padding-bottom:150px;
+}
+
+
+.ux-padding {
+    padding-top: 150px;
+    padding-bottom:20px;
 }
 
 .oneclub-padding {
@@ -1200,6 +1214,7 @@ section {
 .footer {
      padding-top: 150px;
 }
+
 
 .contact-footer {
     padding-bottom:150px;
@@ -1610,7 +1625,6 @@ footer .cv-pdf i:hover {
 .grey-footer {
     /*background-color: #353333;*/
     background-color:#fafafa;
-    margin-top: 0;
     padding-top: 10px;
 }
 
