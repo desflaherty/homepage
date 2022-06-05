@@ -952,7 +952,7 @@
                     </g>
                 </g>
             </g>
-            <circle id="Oval" stroke="url(#linearGradient-1)" stroke-width="20" cx="274" cy="118" r="14"></circle>
+            <circle id="Oval" stroke="url(#linearGradient-1)" stroke-width="15" cx="274" cy="118" r="16.5"></circle>
             <circle id="Oval" fill="url(#linearGradient-2)" cx="331.5" cy="129.5" r="9.5"></circle>
             <path d="M267.578451,150.567911 L267.578451,327.94706 L90.1993028,327.94706 L90.1993028,150.567911 L267.578451,150.567911 Z" id="Rectangle" stroke="url(#linearGradient-3)" stroke-width="42" transform="translate(178.888877, 239.257486) rotate(45.000000) translate(-178.888877, -239.257486) "></path>
             <path d="M581.646403,312.848675 L581.646403,461.385146 L440.102096,461.385146 L440.102096,312.848675 L581.646403,312.848675 Z" id="Rectangle-Copy-2" stroke="url(#linearGradient-4)" stroke-width="42" transform="translate(510.874250, 387.116910) rotate(45.000000) translate(-510.874250, -387.116910) "></path>
