@@ -1141,8 +1141,13 @@ ul.breadcrumb {
     }
 
   .imagetopmargin {
-margin-top: 32px;
+margin-top: 40px;
   }
+
+
+  .imagebottompmargin {
+    margin-bottom: 40px;
+      }
    
     .samsung-padding {
         padding-top:50px;
