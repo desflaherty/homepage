@@ -387,6 +387,13 @@ section {
     width: 100%;
 }
 
+.fullbanner-IA {
+    background-color:#5352A5;
+    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+}
 
 
 .fullbanner-bikelab {
@@ -1133,7 +1140,9 @@ ul.breadcrumb {
         padding-top:40px;
     }
 
-  
+  .imagetopmargin {
+margin-top: 32px;
+  }
    
     .samsung-padding {
         padding-top:50px;
