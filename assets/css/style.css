@@ -1231,7 +1231,7 @@ ul.breadcrumb {
 
 
 .about-header {
-    padding-top: 150px;
+    padding-top: 120px;
     padding-bottom:40px;
    
 }
@@ -2125,8 +2125,8 @@ color:  #525252;
  @media screen and (min-device-width: 768px)  { 
 
 .formcontainer {
-     padding-top: 175px;
-      padding-bottom:100px;
+     padding-top: 125px;
+      padding-bottom:50px;
     
 }
 
