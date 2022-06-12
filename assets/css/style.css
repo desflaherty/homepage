@@ -388,8 +388,9 @@ section {
 }
 
 .fullbanner-IA {
+    background-image:
+    url('../images/IA_card.svg');
     background-color:#5352A5;
-    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
