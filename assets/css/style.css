@@ -396,6 +396,15 @@ section {
     width: 100%;
 }
 
+.fullbanner-renewals {
+    background-image:
+    url('../images/Sub_renewals_card.svg');
+    background-color:#5352A5;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+}
+
 
 .fullbanner-bikelab {
     background-image:
