@@ -390,7 +390,7 @@ section {
 .fullbanner-IA {
     background-image:
     url('../images/IA_card.svg');
-    background-color:#5352A5;
+
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
@@ -399,7 +399,40 @@ section {
 .fullbanner-renewals {
     background-image:
     url('../images/Sub_renewals_card.svg');
-    background-color:#5352A5;
+
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+}
+
+.fullbanner-announcements {
+    background-image:
+    url('../images/Bus_Announcements_card.svg');
+
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+}
+
+.fullbanner-dashboard {
+    background-image:
+    url('../images/Dashboard_card.svg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+}
+
+.fullbanner-custsubs {
+    background-image:
+    url('../images/Cust_subs_card.svg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+}
+
+.fullbanner-learningcenter {
+    background-image:
+    url('../images/Learning_center_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
@@ -439,7 +472,7 @@ section {
 }
 
 
-.banner-text, .banner-text-grey {
+.banner-text, .banner-text-grey ,.banner-text-subs{
     padding: 80px 0;
     text-align: center;
 }
@@ -448,6 +481,18 @@ section {
     font-size: 30px;
     
     color: #f5f5f5;
+    text-transform: none;
+  font-style: bold;
+    font-weight: 400;
+    line-height: 30px;
+    width: 100%;
+    margin: 20px auto 20px!important;
+}
+
+.banner-text-subs h3 {
+    font-size: 30px;
+    
+    color: #706f6f;
     text-transform: none;
   font-style: bold;
     font-weight: 400;
@@ -591,6 +636,21 @@ section {
         color: #e6e2e2;
         font-size: 30px;
     }
+
+
+    .subs-banner-heading{
+        font-size: 45px;
+        color: #525252;
+        padding-top:50px;
+    }
+
+
+
+    .subs-banner-subheading {
+        color: #525252;
+        font-size: 30px;
+    }
+
     
     .healthy-banner-smalltext {
         font-size:20px;
