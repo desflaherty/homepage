@@ -394,33 +394,95 @@ section {
     width: 100%;
 }
 
+
+
+
+@media screen and (min-device-width: 1025px)  { 
+.intro-div-color{
+    background-image:
+    url('../images/personal_design_top.svg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    
+ }
+}
+
+@media screen and (min-device-width: 280px)  { 
+    .intro-div-color {
+         background-color:#252424;
+         background-repeat: no-repeat;
+         background-size:cover;
+         width: 100%;
+    }
+    }
+
+@media screen and (min-device-width: 1025px)  { 
 .fullbanner-IA {
     background-image:
     url('../images/IA_card.svg');
-
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
 }
+}
 
+@media screen and (min-device-width: 280px)  { 
+    .fullbanner-IA {
+        background-color:#5352A5;
+        background-repeat: no-repeat;
+        background-size:cover;
+        width: 100%;
+    }
+    }
+
+
+
+@media screen and (min-device-width: 1025px)  { 
 .fullbanner-renewals {
     background-image:
     url('../images/Sub_renewals_card.svg');
-
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
 }
+}
 
+@media screen and (min-device-width: 280px)  { 
+    .fullbanner-renewals {
+        background-color:#2E60A7;
+        background-repeat: no-repeat;
+        background-size:cover;
+        width: 100%;
+    }
+    }
+
+
+
+    @media screen and (min-device-width: 1025px)  { 
 .fullbanner-announcements {
     background-image:
     url('../images/Bus_Announcements_card.svg');
-
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
 }
+    }
 
+
+    @media screen and (min-device-width: 280px)  { 
+        .fullbanner-announcements {
+            background-color:#37BAAB;
+            background-repeat: no-repeat;
+            background-size:cover;
+            width: 100%;
+        }
+            }
+
+
+
+
+  @media screen and (min-device-width: 1025px)  { 
 .fullbanner-dashboard {
     background-image:
     url('../images/Dashboard_card.svg');
@@ -428,7 +490,19 @@ section {
     background-size:cover;
     width: 100%;
 }
+  }
 
+  @media screen and (min-device-width: 280px)  { 
+    .fullbanner-dashboard {
+        background-color:#F6AA40;
+        background-repeat: no-repeat;
+        background-size:cover;
+        width: 100%;
+    }
+      }
+
+
+      @media screen and (min-device-width: 1025px)  { 
 .fullbanner-custsubs {
     background-image:
     url('../images/Cust_subs_card.svg');
@@ -436,7 +510,19 @@ section {
     background-size:cover;
     width: 100%;
 }
+      }
 
+      @media screen and (min-device-width: 280px)  { 
+        .fullbanner-custsubs {
+            background-color:#D2E5F9;
+            background-repeat: no-repeat;
+            background-size:cover;
+            width: 100%;
+        }
+              }
+
+
+              @media screen and (min-device-width: 1025px)  { 
 .fullbanner-learningcenter {
     background-image:
     url('../images/Learning_center_card.svg');
@@ -444,6 +530,16 @@ section {
     background-size:cover;
     width: 100%;
 }
+              }
+
+              @media screen and (min-device-width: 280px)  { 
+                .fullbanner-learningcenter {
+                    background-color:#DA705C;
+                    background-repeat: no-repeat;
+                    background-size:cover;
+                    width: 100%;
+                }
+                              }
 
 
 .fullbanner-bikelab {
@@ -487,7 +583,7 @@ section {
 .banner-text h3 {
     font-size: 30px;
     
-    color: #f5f5f5;
+    color: #f8f8f8;
     text-transform: none;
   font-style: bold;
     font-weight: 400;
@@ -1018,27 +1114,7 @@ section {
     background-color:#e2e0e0;
 }
 
-@media screen and (min-device-width: 360px)  { 
-    .intro-div-color {
-         background-color:#252424;
-         background-repeat: no-repeat;
-         background-size:cover;
-         width: 100%;
-    }
-    }
 
-@media screen and (min-device-width: 800px)  { 
-.intro-div-color{
-    background-color:#252424;
-    background-image:
-    url('../images/personal_design_top.svg');
-
-    background-repeat: no-repeat;
-    background-size:cover;
-    width: 100%;
-    
- }
-}
 
 .rectangle {
 
