@@ -361,6 +361,13 @@ section {
 }
 
 
+
+
+
+
+
+
+
 .fullbanner-righttrack {
     background-image:
     linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
@@ -1011,12 +1018,27 @@ section {
     background-color:#e2e0e0;
 }
 
+@media screen and (min-device-width: 360px)  { 
+    .intro-div-color {
+         background-color:#252424;
+         background-repeat: no-repeat;
+         background-size:cover;
+         width: 100%;
+    }
+    }
 
-
+@media screen and (min-device-width: 800px)  { 
 .intro-div-color{
     background-color:#252424;
-   
+    background-image:
+    url('../images/personal_design_top.svg');
+
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    
  }
+}
 
 .rectangle {
 
