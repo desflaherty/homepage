@@ -387,8 +387,7 @@ section {
 }
 
 .fullbanner-oneclub {
-    background-color:#262D47,
-    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    background-color:#262D47;
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
@@ -431,7 +430,7 @@ section {
 
 @media screen and (min-device-width: 280px)  { 
     .fullbanner-IA {
-        background-color:#5352A5;
+        background-color:#44438d;
         background-repeat: no-repeat;
         background-size:cover;
         width: 100%;
@@ -453,7 +452,7 @@ section {
 
 @media screen and (min-device-width: 280px)  { 
     .fullbanner-renewals {
-        background-color:#2E60A7;
+        background-color:#133a70;
         background-repeat: no-repeat;
         background-size:cover;
         width: 100%;
@@ -475,8 +474,8 @@ section {
 
     @media screen and (min-device-width: 280px)  { 
         .fullbanner-announcements {
-            background-color:#37BAAB,
-            linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+            background-color:#288a7e;
+         
             background-repeat: no-repeat;
             background-size:cover;
             width: 100%;
@@ -499,7 +498,7 @@ section {
 
   @media screen and (min-device-width: 280px)  { 
     .fullbanner-dashboard {
-        background-color:#F6AA40;
+        background-color:#c4924b;
         background-repeat: no-repeat;
         background-size:cover;
         width: 100%;
@@ -520,7 +519,8 @@ section {
 
       @media screen and (min-device-width: 280px)  { 
         .fullbanner-custsubs {
-            background-color:#D2E5F9;
+            background-color:#859cb4;
+            
             background-repeat: no-repeat;
             background-size:cover;
             width: 100%;
@@ -541,7 +541,7 @@ section {
 
               @media screen and (min-device-width: 280px)  { 
                 .fullbanner-learningcenter {
-                    background-color:#DA705C;
+                    background-color:#8d3928;
                     background-repeat: no-repeat;
                     background-size:cover;
                     width: 100%;
