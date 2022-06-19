@@ -387,7 +387,7 @@ section {
 }
 
 .fullbanner-oneclub {
-    background-color:#262D47;
+    background-color:#262D47,
     linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
     background-repeat: no-repeat;
     background-size:cover;
@@ -400,6 +400,7 @@ section {
 @media screen and (min-device-width: 1025px)  { 
 .intro-div-color{
     background-image:
+    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url('../images/personal_design_top.svg');
     background-repeat: no-repeat;
     background-size:cover;
@@ -420,6 +421,7 @@ section {
 @media screen and (min-device-width: 1025px)  { 
 .fullbanner-IA {
     background-image:
+    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url('../images/IA_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
@@ -441,6 +443,7 @@ section {
 @media screen and (min-device-width: 1025px)  { 
 .fullbanner-renewals {
     background-image:
+    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url('../images/Sub_renewals_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
@@ -460,8 +463,9 @@ section {
 
 
     @media screen and (min-device-width: 1025px)  { 
-.fullbanner-announcements {
+    .fullbanner-announcements {
     background-image:
+    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url('../images/Bus_Announcements_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
@@ -469,10 +473,10 @@ section {
 }
     }
 
-
     @media screen and (min-device-width: 280px)  { 
         .fullbanner-announcements {
-            background-color:#37BAAB;
+            background-color:#37BAAB,
+            linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
             background-repeat: no-repeat;
             background-size:cover;
             width: 100%;
@@ -485,6 +489,7 @@ section {
   @media screen and (min-device-width: 1025px)  { 
 .fullbanner-dashboard {
     background-image:
+    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url('../images/Dashboard_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
@@ -505,6 +510,7 @@ section {
       @media screen and (min-device-width: 1025px)  { 
 .fullbanner-custsubs {
     background-image:
+    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url('../images/Cust_subs_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
@@ -525,6 +531,7 @@ section {
               @media screen and (min-device-width: 1025px)  { 
 .fullbanner-learningcenter {
     background-image:
+    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url('../images/Learning_center_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
