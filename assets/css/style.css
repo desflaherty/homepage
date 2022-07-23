@@ -2389,7 +2389,7 @@ color:  #525252;
     font-size:45px;
 }
 
-.portfolio-detail-body-card {
+.grey-card {
     font-size: 18px;
     color:#575757;
     font-weight: 300;
@@ -2400,7 +2400,7 @@ color:  #525252;
 
 
 .portfolio-detail-body {
-    font-size: 18px;
+    font-size: 20px;
     color:#575757;
     /* color:#6d6a6a;*/
       
