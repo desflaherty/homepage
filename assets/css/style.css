@@ -789,6 +789,10 @@ section {
         font-size: 60px;
     }
 
+    .designframework2 {
+        font-size: 40px;
+    }
+
     .designframework-center{
         text-align: center;
     }
@@ -1117,6 +1121,10 @@ section {
 
 .NCE-div-color{
     background-color:#262D47;
+}
+
+.NCE-div-color2{
+    background-color:#E0E5E8;
 }
 
  .solaceindex-div-color{
@@ -2878,6 +2886,10 @@ color:#6480B0;
     padding-bottom:100px;
 }
 
+.designprocess-padding2 {
+    padding-top:50px;
+    padding-bottom:50px;
+}
 
 
 .story-padding {
