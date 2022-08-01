@@ -780,6 +780,11 @@ section {
      
     }
 
+    .centerimage {
+        display: flex;
+        justify-content: center;
+      }
+
     .designframework {
         font-size: 60px;
     }
