@@ -2445,6 +2445,11 @@ color:  #525252;
       
 }
 
+.portfolio-screenshot-title {
+    font-size: 18px;
+    color:#525252;  
+}
+
 .annotations {
      font-weight: 300;
     font-style: normal;
