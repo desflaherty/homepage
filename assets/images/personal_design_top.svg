@@ -635,15 +635,5 @@
             <polygon id="Rectangle" opacity="0.794874645" transform="translate(20.541840, 20.267278) rotate(45.000000) translate(-20.541840, -20.267278) " points="-3.34115395 15.4924576 44.4255747 15.4887532 44.4248338 25.042099 -3.34189482 25.0458033"></polygon>
             <polygon id="Rectangle-Copy-3" opacity="0.79860215" transform="translate(20.500000, 20.341749) rotate(-44.000000) translate(-20.500000, -20.341749) " points="-3.38379918 15.563238 44.3830588 15.5669401 44.3837992 25.12026 -3.38305876 25.1165579"></polygon>
         </g>
-        <g id="Group-Copy-3" opacity="0.5" transform="translate(-65.000000, -14.000000)" stroke="#FFFFFF">
-            <circle id="Oval" cx="64.5" cy="64.5" r="11"></circle>
-            <circle id="Oval-Copy" stroke-width="2" cx="64" cy="64" r="18"></circle>
-            <circle id="Oval-Copy-2" stroke-width="2" cx="65" cy="65" r="25"></circle>
-            <circle id="Oval-Copy-3" stroke-width="2" cx="64" cy="65" r="31"></circle>
-            <circle id="Oval-Copy-4" stroke-width="2" cx="63.5" cy="65.5" r="39.5"></circle>
-            <circle id="Oval-Copy-5" stroke-width="2" cx="64.5" cy="65.5" r="46.5"></circle>
-            <circle id="Oval-Copy-6" stroke-width="2" cx="64.5" cy="64.5" r="56.5"></circle>
-            <circle id="Oval-Copy-7" stroke-width="2" cx="64.5" cy="64.5" r="63.5"></circle>
-        </g>
     </g>
 </svg>
