@@ -9,6 +9,10 @@
 
 a:hover { text-decoration: none; }
 
+a {
+    color: #525252;
+    text-decoration: none;
+}
 
 
 body {
