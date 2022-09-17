@@ -403,7 +403,7 @@ section {
 @media screen and (min-device-width: 1025px)  { 
 .intro-div-color{
     background-image:
-    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url('../images/personal_design_top.svg');
     background-repeat: no-repeat;
     background-size:cover;
