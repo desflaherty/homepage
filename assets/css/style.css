@@ -1,14 +1,53 @@
-/*--------------------BODY TEXT----------------------------------------------------------------*/
-
 .imgscale {
     transition:transform 0.25s ease;
 }
 
 .imgscale:hover {
     -webkit-transform:scale(1.5); /* or some other value */
-    transform:scale(1.5);
+    transform:scale(1.6);
    
 }
+
+
+.imgscalelegacylist:hover {
+    z-index:99
+}
+
+.imgscalepaper:hover {
+    z-index:98
+   
+}
+
+.imgscalencelist:hover {
+    z-index:97
+   
+}
+
+.imgscalencelist2:hover {
+    z-index:96
+}
+
+.imgscalelegacydetail:hover {
+    z-index:95
+}
+
+.imgscalencedetail1:hover {
+    z-index:94
+}
+
+.imgscalencedetail2:hover {
+    z-index:93
+}
+
+
+/*--------------------BODY TEXT----------------------------------------------------------------*/
+
+
+
+
+
+
+
 
 .container-fluid {
     padding-left: 35px;
@@ -1396,9 +1435,10 @@ margin-top: 40px;
         padding-top: 20px;
     }
     
-    
-    .image-padding {
-        padding-bottom: 50px;}
+    .bottom-padding {
+        padding-bottom:40px;
+    }
+
         
           .aboutimage-padding {
         padding-bottom: 150px;}
@@ -1410,9 +1450,9 @@ margin-top: 40px;
          
         }
         
-        .problemimage-padding {
-            padding-bottom: 50px;
-            padding-top: 50px;
+        .image-padding {
+            padding-bottom: 20px;
+            padding-top: 20px;
         }
         
         .txtimg{
@@ -2926,6 +2966,7 @@ color:#6480B0;
 }
 
 .designprocess-padding2 {
+    margin-top:50px;
     padding-top:50px;
     padding-bottom:50px;
 }
