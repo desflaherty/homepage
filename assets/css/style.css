@@ -867,8 +867,19 @@ section {
     font-size:35px;
 }
 
+.NCE-buying-h1 {
+    font-size: 80px;
+}
 
+.NCE-buying-h2 {
+    font-size: 25px;
+    color: #888686;
+}
 
+.adoption-metrics {
+    font-size: 30px;
+   
+}
 
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) { 
 .savebutton {
@@ -985,6 +996,9 @@ section {
     
     
      @media screen and (min-device-width: 1024px) and (max-device-width: 1366px) { 
+
+
+       
          
            .process-number-heading {
         font-size: 35px;
