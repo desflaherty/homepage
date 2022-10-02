@@ -1,6 +1,14 @@
 /*--------------------BODY TEXT----------------------------------------------------------------*/
 
+.imgscale {
+    transition:transform 0.25s ease;
+}
 
+.imgscale:hover {
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+   
+}
 
 .container-fluid {
     padding-left: 35px;
