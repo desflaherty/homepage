@@ -103,6 +103,14 @@
     z-index:77
 }
 
+.imgscalencedevtest1:hover {
+    z-index:76
+}
+
+.imgscalencedevtest2:hover {
+    z-index:75
+}
+
 /*--------------------BODY TEXT----------------------------------------------------------------*/
 
 
@@ -1226,6 +1234,10 @@ section {
     .solace-padding {
           padding-top:50px;
     }
+
+    .solace-padding2 {
+        padding-top:70px;
+  }
 
     .nce-padding {
         padding-top:100px;
@@ -3029,7 +3041,7 @@ color:#6480B0;
 }
 
 .designprocess-padding2 {
-    margin-top:50px;
+    margin-top:5px;
     padding-top:50px;
     padding-bottom:50px;
 }
