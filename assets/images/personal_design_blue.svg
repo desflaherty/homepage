@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="520px" viewBox="0 0 800 520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>personal_design_blue</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.3771853%" id="linearGradient-1">
+            <stop stop-color="#65D79C" stop-opacity="0.980885326" offset="0%"></stop>
+            <stop stop-color="#35AE63" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#E26A41" offset="0%"></stop>
+            <stop stop-color="#DCAC26" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.4157698%" id="linearGradient-3">
+            <stop stop-color="#E5E51E" offset="0%"></stop>
+            <stop stop-color="#EA9119" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.2931873%" id="linearGradient-4">
+            <stop stop-color="#F95B46" offset="0%"></stop>
+            <stop stop-color="#F6AA40" offset="61.6368754%"></stop>
+            <stop stop-color="#F4DC3C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.7012265%" id="linearGradient-5">
+            <stop stop-color="#ED885E" offset="0%"></stop>
+            <stop stop-color="#FF65F1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#B542A4" stop-opacity="0.991485809" offset="0%"></stop>
+            <stop stop-color="#E89696" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#39EA2A" offset="0%"></stop>
+            <stop stop-color="#26A29D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#39EA2A" offset="0%"></stop>
+            <stop stop-color="#26A29D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#DF1E94" offset="0%"></stop>
+            <stop stop-color="#E6864B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#DF1E94" offset="0%"></stop>
+            <stop stop-color="#E6864B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="personal_design_blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" fill="#B6C4DB" x="0" y="0" width="800" height="519"></rect>
+            <g id="ovals" opacity="0.401516869" transform="translate(252.378807, 102.824654) rotate(43.000000) translate(-252.378807, -102.824654) translate(189.886340, 72.233936)" fill="#FFFFFF">
+                <g id="Group-4" transform="translate(0.000000, 0.000000)">
+                    <g id="White-oval" transform="translate(0.000000, 0.000000)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928340)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856680)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785020)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713359)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.641699)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-2" transform="translate(8.740205, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928456)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856912)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785368)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713824)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.642280)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-3" transform="translate(17.480410, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928456)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856912)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785368)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713824)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.642280)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-4" transform="translate(26.220615, 0.000000)">
+                    <g id="White-oval" transform="translate(0.000000, 0.000000)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928340)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856680)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785020)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713359)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.641699)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-5" transform="translate(35.834841, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928340)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856680)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785020)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713359)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.641699)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-6" transform="translate(44.575046, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(-0.000000, 11.928340)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856680)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785020)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713359)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.641699)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-7" transform="translate(53.315251, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(-0.000000, 11.928456)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(-0.000000, 23.856912)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785368)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(-0.000000, 47.713824)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.642280)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-8" transform="translate(62.929477, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928340)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856680)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785020)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713359)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.641699)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-9" transform="translate(70.795662, 0.000000)">
+                    <g id="White-oval" transform="translate(0.000000, 0.000000)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928340)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856680)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785020)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713359)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.641699)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-10" transform="translate(80.409887, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928340)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856680)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785020)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713359)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.641699)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.769868326" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-11" transform="translate(87.402051, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928456)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856912)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785368)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713824)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.642280)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-12" transform="translate(97.016277, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928456)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856912)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785368)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713824)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.642280)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-13" transform="translate(105.756482, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928456)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856912)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785368)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713824)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.642280)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-14" transform="translate(115.370708, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928456)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856912)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785368)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713824)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.642280)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-15" transform="translate(123.236892, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 11.928456)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 23.856912)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 35.785368)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 47.713824)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 59.642280)">
+                        <ellipse id="Oval" cx="0.874020513" cy="0.76957781" rx="1" ry="1"></ellipse>
+                    </g>
+                </g>
+            </g>
+            <g id="ovals-copy" opacity="0.404170445" transform="translate(688.500000, 371.500000) rotate(90.000000) translate(-688.500000, -371.500000) translate(605.000000, 320.000000)" fill="#FFFFFF">
+                <g id="Group-4" transform="translate(-0.000000, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.996833)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.993666)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.990499)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.987332)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.984165)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-2" transform="translate(12.678010, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.87434555" cy="1.29013083" rx="1" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.997028)">
+                        <ellipse id="Oval" cx="0.87434555" cy="1.29013083" rx="1" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.994056)">
+                        <ellipse id="Oval" cx="0.87434555" cy="1.29013083" rx="1" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.991084)">
+                        <ellipse id="Oval" cx="0.87434555" cy="1.29013083" rx="1" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.988111)">
+                        <ellipse id="Oval" cx="0.87434555" cy="1.29013083" rx="1" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.985139)">
+                        <ellipse id="Oval" cx="0.87434555" cy="1.29013083" rx="1" ry="1.29013083"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-3" transform="translate(23.607330, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.997028)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.994056)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.991084)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.988111)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.985139)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-4" transform="translate(34.099476, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.996833)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.993666)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.990499)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.987332)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.984165)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-5" transform="translate(47.214660, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.996833)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.993666)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.990499)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.987332)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.984165)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-6" transform="translate(60.329843, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.996833)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.993666)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.990499)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.987332)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.984165)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-7" transform="translate(71.259162, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="0.87434555" cy="1.29013083" rx="1" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.997028)">
+                        <ellipse id="Oval" cx="0.87434555" cy="1.29013083" rx="1" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.994056)">
+                        <ellipse id="Oval" cx="0.87434555" cy="1.29013083" rx="1" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.991084)">
+                        <ellipse id="Oval" cx="0.87434555" cy="1.29013083" rx="1" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.988111)">
+                        <ellipse id="Oval" cx="0.87434555" cy="1.29013083" rx="1" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.985139)">
+                        <ellipse id="Oval" cx="0.87434555" cy="1.29013083" rx="1" ry="1.29013083"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-8" transform="translate(83.937173, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.996833)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.993666)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.990499)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.987332)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.984165)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-9" transform="translate(94.429319, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.996833)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.993666)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.990499)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.987332)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.984165)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-10" transform="translate(107.544503, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.996833)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.993666)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.990499)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.987332)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.984165)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29061785" rx="1.31151832" ry="1.29061785"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-11" transform="translate(117.162304, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.997028)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.994056)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.991084)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.988111)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.985139)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-12" transform="translate(129.403141, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.997028)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.994056)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.991084)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.988111)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.985139)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-13" transform="translate(140.769634, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.997028)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.994056)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.991084)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.988111)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.985139)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-14" transform="translate(153.010471, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.997028)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.994056)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.991084)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.988111)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.985139)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-15" transform="translate(164.376963, 0.434599)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 19.997028)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 39.994056)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 59.991084)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 79.988111)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 99.985139)">
+                        <ellipse id="Oval" cx="1.31151832" cy="1.29013083" rx="1.31151832" ry="1.29013083"></ellipse>
+                    </g>
+                </g>
+            </g>
+            <g id="ovals-copy-2" opacity="0.404170445" transform="translate(358.250000, 387.500000) rotate(90.000000) translate(-358.250000, -387.500000) translate(229.750000, 308.250000)" fill="#FFFFFF">
+                <g id="Group-4" transform="translate(0.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.804731)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.609463)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.414194)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.218925)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.023657)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-2" transform="translate(19.500000, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.5" cy="1.98742138" rx="1.5" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.805031)">
+                        <ellipse id="Oval" cx="1.5" cy="1.98742138" rx="1.5" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.610063)">
+                        <ellipse id="Oval" cx="1.5" cy="1.98742138" rx="1.5" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.415094)">
+                        <ellipse id="Oval" cx="1.5" cy="1.98742138" rx="1.5" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.220126)">
+                        <ellipse id="Oval" cx="1.5" cy="1.98742138" rx="1.5" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.025157)">
+                        <ellipse id="Oval" cx="1.5" cy="1.98742138" rx="1.5" ry="1.98742138"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-3" transform="translate(36.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.805031)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.610063)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.415094)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.220126)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.025157)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-4" transform="translate(52.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.804731)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.609463)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.414194)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.218925)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.023657)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-5" transform="translate(73.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.804731)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.609463)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.414194)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.218925)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.023657)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-6" transform="translate(93.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.804731)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.609463)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.414194)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.218925)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.023657)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-7" transform="translate(109.500000, 0.000000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="1.5" cy="1.98742138" rx="1.5" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.805031)">
+                        <ellipse id="Oval" cx="1.5" cy="1.98742138" rx="1.5" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.610063)">
+                        <ellipse id="Oval" cx="1.5" cy="1.98742138" rx="1.5" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.415094)">
+                        <ellipse id="Oval" cx="1.5" cy="1.98742138" rx="1.5" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.220126)">
+                        <ellipse id="Oval" cx="1.5" cy="1.98742138" rx="1.5" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.025157)">
+                        <ellipse id="Oval" cx="1.5" cy="1.98742138" rx="1.5" ry="1.98742138"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-8" transform="translate(129.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.804731)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.609463)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.414194)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.218925)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.023657)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-9" transform="translate(145.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.804731)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.609463)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.414194)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.218925)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.023657)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-10" transform="translate(166.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.804731)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.609463)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.414194)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.218925)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.023657)">
+                        <ellipse id="Oval" cx="2" cy="1.98817164" rx="2" ry="1.98817164"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-11" transform="translate(180.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.805031)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.610063)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.415094)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.220126)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.025157)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-12" transform="translate(199.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.805031)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.610063)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.415094)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.220126)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.025157)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-13" transform="translate(217.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.805031)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.610063)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.415094)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.220126)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.025157)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-14" transform="translate(236.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.805031)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.610063)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.415094)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.220126)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.025157)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-4-Copy-15" transform="translate(253.000000, 0.500000)">
+                    <g id="White-oval">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy" transform="translate(0.000000, 30.805031)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-2" transform="translate(0.000000, 61.610063)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-3" transform="translate(0.000000, 92.415094)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-4" transform="translate(0.000000, 123.220126)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                    <g id="White-oval-Copy-5" transform="translate(0.000000, 154.025157)">
+                        <ellipse id="Oval" cx="2" cy="1.98742138" rx="2" ry="1.98742138"></ellipse>
+                    </g>
+                </g>
+            </g>
+            <circle id="Oval" stroke="url(#linearGradient-1)" stroke-width="15" cx="274" cy="118" r="16.5"></circle>
+            <circle id="Oval" fill="url(#linearGradient-2)" cx="331.5" cy="129.5" r="9.5"></circle>
+            <path d="M267.578451,150.567911 L267.578451,327.94706 L90.1993028,327.94706 L90.1993028,150.567911 L267.578451,150.567911 Z" id="Rectangle" stroke="url(#linearGradient-3)" stroke-width="42" transform="translate(178.888877, 239.257486) rotate(45.000000) translate(-178.888877, -239.257486) "></path>
+            <path d="M581.646403,312.848675 L581.646403,461.385146 L440.102096,461.385146 L440.102096,312.848675 L581.646403,312.848675 Z" id="Rectangle-Copy-2" stroke="url(#linearGradient-4)" stroke-width="42" transform="translate(510.874250, 387.116910) rotate(45.000000) translate(-510.874250, -387.116910) "></path>
+            <path d="M377.539882,186.06566 L377.539882,293.806471 L268.925051,293.806471 L268.925051,186.06566 L377.539882,186.06566 Z" id="Rectangle-Copy" stroke="#D2E5F9" stroke-width="12" opacity="0.199747431" transform="translate(323.232466, 239.936065) rotate(45.000000) translate(-323.232466, -239.936065) "></path>
+            <path d="M445.561316,297.547197 L445.561316,476.083669 L271.394947,476.083669 L271.394947,297.547197 L445.561316,297.547197 Z" id="Rectangle-Copy-4" stroke="#D2E5F9" stroke-width="12" opacity="0.2" transform="translate(358.478132, 386.815433) rotate(45.000000) translate(-358.478132, -386.815433) "></path>
+            <polygon id="Path-2" fill="url(#linearGradient-5)" opacity="0.8" points="77.2190082 93 110.118834 93 235 234 176.472611 234 77 117.051995"></polygon>
+            <polygon id="Path-2-Copy" fill="#35AE63" opacity="0.8" transform="translate(155.500000, 315.500000) scale(-1, 1) rotate(-180.000000) translate(-155.500000, -315.500000) " points="76.2203943 244 109.328447 244 235 387 176.102184 387 76 268.393158"></polygon>
+            <polygon id="Path-3" fill="url(#linearGradient-6)" opacity="0.8" points="510.547775 395 557 395 454.319092 511.958679 408.211018 511.958679"></polygon>
+            <polygon id="Path-4" fill="#35AE63" opacity="0.8" points="408 269 458.374642 269 558 384 511.2824 384"></polygon>
+            <g id="Group" transform="translate(241.000000, 343.232722)">
+                <polygon id="Rectangle" fill="url(#linearGradient-7)" transform="translate(20.541840, 20.267278) rotate(45.000000) translate(-20.541840, -20.267278) " points="-3.34115395 15.4924576 44.4255747 15.4887532 44.4248338 25.042099 -3.34189482 25.0458033"></polygon>
+                <polygon id="Rectangle-Copy-3" fill="url(#linearGradient-8)" transform="translate(20.500000, 20.341749) rotate(-44.000000) translate(-20.500000, -20.341749) " points="-3.38379918 15.563238 44.3830588 15.5669401 44.3837992 25.12026 -3.38305876 25.1165579"></polygon>
+            </g>
+            <g id="Group-Copy" transform="translate(571.912400, 280.000000)">
+                <polygon id="Rectangle" fill="url(#linearGradient-9)" transform="translate(8.103746, 8.000000) rotate(45.000000) translate(-8.103746, -8.000000) " points="-1.24019359 6.03023154 17.4056113 6.24060748 17.4476865 9.96976846 -1.1981184 9.75939252"></polygon>
+                <polygon id="Rectangle-Copy-3" fill="url(#linearGradient-10)" transform="translate(8.087600, 8.029400) rotate(-44.000000) translate(-8.087600, -8.029400) " points="-1.21060696 6.26920921 17.4278559 6.05896142 17.3858064 9.78959081 -1.25265652 9.99983859"></polygon>
+            </g>
+            <path d="M672.697492,347.06645 L672.697492,429.460666 L587.681215,429.460666 L587.681215,347.06645 L672.697492,347.06645 Z" id="Rectangle-Copy-5" stroke="#F9E563" stroke-width="12" opacity="0.208868118" transform="translate(630.189353, 388.263558) rotate(45.000000) translate(-630.189353, -388.263558) "></path>
+        </g>
+    </g>
+</svg>
