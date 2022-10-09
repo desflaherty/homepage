@@ -996,7 +996,7 @@ section {
 
 .adoption-metrics {
     font-size: 30px;
-   
+  
 }
 
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) { 
@@ -1236,7 +1236,7 @@ section {
     }
 
     .solace-padding2 {
-        padding-top:120px;
+        padding-top:80px;
   }
 
     .nce-padding {
@@ -1518,6 +1518,8 @@ margin-top: 40px;
           .aboutimage-padding {
         padding-bottom: 150px;}
         
+        .buyingstats-padding {
+            padding-bottom: 50px;}
         
         .left-image-padding
         {
@@ -2493,7 +2495,7 @@ color:  #525252;
 
 .formcontainer {
      padding-top: 150px;
-      padding-bottom:100px;
+      padding-bottom:150px;
     
 }
 
