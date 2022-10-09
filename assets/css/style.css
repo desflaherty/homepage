@@ -542,7 +542,7 @@ section {
 @media screen and (min-device-width: 1025px)  { 
 .fullbanner-IA {
     background-image:
-    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    linear-gradient(to top, rgba(0, 0, 0, 0.1), rgba(249, 116, 116, 0.1)),
     url('../images/IA_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
