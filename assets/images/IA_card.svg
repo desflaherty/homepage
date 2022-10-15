@@ -3,7 +3,7 @@
     <title>IA_card</title>
     <g id="IA_card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="personal_design_card1" transform="translate(-77.000000, -299.000000)">
-            <path d="M84,299 L868,299 C872.418278,299 876,302.581722 876,307 L876,699 L876,699 L76,699 L76,307 C76,302.581722 79.581722,299 84,299 Z" id="Rectangle-Copy-11" fill="#F6AA40"></path>
+            <rect id="Rectangle-Copy-11" fill="#F6AA40" x="77" y="299" width="800" height="400"></rect>
             <path d="M658.847329,532.85967 L658.847329,560.85967 L630.847329,560.85967 L630.847329,532.85967 L658.847329,532.85967 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="4" transform="translate(644.847329, 546.859670) rotate(46.000000) translate(-644.847329, -546.859670) "></path>
             <rect id="Rectangle-Copy-2" stroke="#FFFFFF" stroke-width="4" transform="translate(269.911734, 576.045727) rotate(46.000000) translate(-269.911734, -576.045727) " x="233.911734" y="540.045727" width="72" height="72"></rect>
             <rect id="Rectangle-Copy-7" fill="#FFFFFF" transform="translate(845.844387, 630.273831) rotate(45.000000) translate(-845.844387, -630.273831) " x="801.344387" y="627.273831" width="89" height="6" rx="3"></rect>
@@ -70,7 +70,6 @@
                     <circle id="Oval-Copy-34" cx="81" cy="82" r="2"></circle>
                 </g>
                 <g id="Group-3">
-                    <circle id="Oval-Copy-28" cx="41" cy="42" r="2"></circle>
                     <circle id="Oval-Copy-29" cx="48" cy="49" r="2"></circle>
                     <circle id="Oval-Copy-30" cx="55" cy="55" r="2"></circle>
                     <circle id="Oval-Copy-31" cx="61" cy="62" r="2"></circle>
