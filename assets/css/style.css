@@ -111,6 +111,15 @@
     z-index:75
 }
 
+
+.imgscalefeedback1:hover {
+    z-index:74
+}
+
+.imgscalefeedback2:hover {
+    z-index:73
+}
+
 /*--------------------BODY TEXT----------------------------------------------------------------*/
 
 
@@ -3043,7 +3052,7 @@ color:#6480B0;
 }
 
 .designprocess-padding2 {
-    margin-top:5px;
+    margin-top:0px;
     padding-top:50px;
     padding-bottom:50px;
 }
