@@ -619,8 +619,8 @@ section {
   @media screen and (min-device-width: 1025px)  { 
 .fullbanner-dashboard {
     background-image:
-    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url('../images/Dashboard_card.svg');
+    linear-gradient(to top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    url('../images/Learning_center_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
