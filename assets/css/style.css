@@ -593,9 +593,9 @@ section {
 
 
     @media screen and (min-device-width: 1025px)  { 
-    .fullbanner-announcements {
+    .fullbanner-catalogue {
     background-image:
-    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url('../images/Bus_Announcements_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
@@ -604,7 +604,7 @@ section {
     }
 
     @media screen and (min-device-width: 280px)  { 
-        .fullbanner-announcements {
+        .fullbanner-catalogue {
             background-color:#288a7e;
          
             background-repeat: no-repeat;
