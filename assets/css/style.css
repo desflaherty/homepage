@@ -551,7 +551,7 @@ section {
 @media screen and (min-device-width: 1025px)  { 
 .fullbanner-IA {
     background-image:
-    linear-gradient(to top, rgba(0, 0, 0, 0.1), rgba(249, 116, 116, 0.1)),
+    linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(249, 116, 116, 0.2)),
     url('../images/IA_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
@@ -619,7 +619,7 @@ section {
   @media screen and (min-device-width: 1025px)  { 
 .fullbanner-dashboard {
     background-image:
-    linear-gradient(to top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url('../images/Learning_center_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
@@ -1321,12 +1321,11 @@ section {
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
- 
     border-radius: 5px;
   }
   
   .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 12px 24px 0 rgba(104, 103, 103, 0.3);
   }
   
 
