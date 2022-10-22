@@ -596,7 +596,7 @@ section {
     .fullbanner-catalogue {
     background-image:
     linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url('../images/Bus_Announcements_card.svg');
+    url('../images/Product_Catalogue.svg');
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
@@ -620,7 +620,7 @@ section {
 .fullbanner-dashboard {
     background-image:
     linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url('../images/Learning_center_card.svg');
+    url('../images/Bus_Announcements_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
