@@ -1301,7 +1301,7 @@ section {
 }
 
 .NCE-div-color3{
-    background-color:#7f8080;
+    background-color:#636abb;
 }
 
  .solaceindex-div-color{
@@ -2114,9 +2114,6 @@ footer .cv-pdf i:hover {
 /**********************CONTACT FORM **********************************************************************/
 
 
-h1 {
-    margin-bottom: 40px;
-}
 
 label  {
     color: #525252;
@@ -3086,7 +3083,7 @@ color:#6480B0;
 }
 
 .designprocess-padding2 {
-    margin-top:0px;
+   
     padding-top:50px;
     padding-bottom:50px;
 }
