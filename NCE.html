@@ -1124,26 +1124,97 @@ This project involved numerous meetings and discussions with key stakeholders an
                                  <div class="container">
 
 
-
                                   <div class="row">
-                                    <div class="col-lg-6 image-padding">
+                                    <div class="col-lg-12 image-padding">
                                       <h3 class="number-subheading ">
-                                        Scheduling Renewals - User Testing </h3>
+                                     User Testing </h3>
                                       <p class="portfolio-detail-body">
                                     As part of the defined Release Management process
-                                  I completed the UAT (user acceptance testing) for the tool to Schedule Renewals.
-                                  I booked UAT's with 6 internal users and asked each participant to complete some simple tasks.
+                                  I completed the UAT (user acceptance testing) for the Upgrades, Schedule Renewals and License Reduction tools.
+                              
+                                  I scheduled UAT's with 5 internal users and asked each participant to complete some simple tasks.
                                 The users had a mix of Low, Mid and High expertise levels.
                                  I graded each test with a fail (did not complete the task) or success (completed the task).
+                                 The feedback from these UAT's was recorded in a dataset and an R script was run to complile the data and create the charts 
+                                 displayed here in this section.
                                  The graph shows the rate of pass and failure for all users for the latest iteration of the design.
                                  </p>
 
-                                 
+                                
+                                    </div>
+                                    </div>
+
+
+
+
+                                  <div class="row">
+                                    <div class="col-lg-12 image-padding">
+                                      <h3 class="number-subheading ">
+                                       Upgrades Tool </h3>
+                                      <p class="portfolio-detail-body">
+                                        All users were able to complete all tasks successfully, resulting in a 100% task completion rate.
+                                        They were able to locate the upgrade button on the interface and were able to choose a subscription, 
+                                        quantity to upgrade, commitment term and billing cycle. They were able to locate the new subscription that was
+                                        upgraded and validate the details were correct. Some feedback from users were that the performance was a bit slow
+                                        when the side panel was being opened - they had to wait and view a 'spinner wheel' as an API was being called from the database. I brought this to the attention of 
+                                        the backend database team to try to improve the performance here to reduce any user frustration.
+                                     
+                               
+                                 </p>
 
                                  </div>
+                                </div>
+
+
+                                <div class="row">
                                  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 image-padding imgscale imgscalencedevtest1">
-                                  <img src="assets/images/scheduling_UAT-min.png" style="background-color:#FFF; " class="img-responsive" alt="Testing with the development team">
+                                  <img src="assets/images/upgrades_UAT_chart-min.png" style="background-color:#FFF; " class="img-responsive" alt="Upgrades Chart">
                                     </div>
+
+                                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 image-padding imgscale imgscalencedevtest2">
+                                      <img src="assets/images/upgrades_comments-min.png" style="background-color:#FFF; " class="img-responsive" alt="Upgrades Comments">
+                                        </div>
+                                    </div>
+                                 
+                                  
+                                
+                           
+                          
+                       
+
+
+
+
+
+
+                                  <div class="row">
+                                    <div class="col-lg-12 image-padding">
+                                      <h3 class="number-subheading ">
+                                        Scheduling Renewals Tool</h3>
+                                      <p class="portfolio-detail-body">
+                                        There was one minor fail (16.67%) recorded during the tests on one task only  - the discoverability of the tool.
+                                        One user was not able to locate the correct button when asked to perform the task to schedule a change. 
+                                        This task still passed as all other participants (83.33%) were able to find this tool correctly. 
+                                        Some feedback was also recorded about possible future enhancements to the tool that would make it more usable.
+                                        This related to beign able to modify a saved change where there was a backend restriction.
+                                        I brought this feedback to the database team to look for improvements in this area. 
+                                     
+                                 </p>
+
+                                 </div>
+                                  </div>
+
+
+                                  <div class="row">
+                                 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 image-padding imgscale imgscalencedevtest1">
+                                  <img src="assets/images/scheduling_UAT-min.png" style="background-color:#FFF; " class="img-responsive" alt="Scheduling Renewals">
+                                    </div>
+
+                                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 image-padding imgscale imgscalencedevtest1">
+                                      <img src="assets/images/scheduling_comments-min.png" style="background-color:#FFF; " class="img-responsive" alt="Scheduling Renewals Comments">
+                                        </div>
+
+
 
                                     </div>
                                  
@@ -1152,9 +1223,7 @@ This project involved numerous meetings and discussions with key stakeholders an
                            
 
                                     <p class="portfolio-detail-body">
-                                      There was one minor fail (16.67%) recorded during the tests on one task only the discoverability of the tool.
-                                       One user was not able to locate the correct tool when asked to perform the task to schedule a change. 
-                                       This task still passed as all other participants (83.33%) were able to find this tool correctly. 
+                                     
                                        A proposal that was suggested to improve discoverability of the button for scheduling was to change the label 
                                        from 'Schedule Renewal Changes' to 'Change at Renewal Date'.
                                     </p>
@@ -1170,43 +1239,30 @@ This project involved numerous meetings and discussions with key stakeholders an
 
 
                                   <div class="row">
-                                    <div class="col-lg-6 image-padding">
+                                    <div class="col-lg-12 image-padding">
                                       <h3 class="number-subheading ">
-                                        License Reductions - User Testing </h3>
+                                        License Reductions Tool </h3>
                                       <p class="portfolio-detail-body">
-                                    As part of the defined Release Management process
-                                  I completed the UAT (user acceptance testing) for the License Reduction tool.
-                                  I scheduled UAT's with 6 internal users and asked each participant to complete some simple tasks.
-                                The users had a mix of Low, Mid and High expertise levels.
-                                 I graded each test with a fail (did not complete the task) or success (completed the task).
-                                 The graph shows the rate of pass and failure for all users for the latest iteration of the design.
+                                        All users were able to complete all tasks successfully, resulting in a 100% task completion rate.
+                                        They were abe to understand what was happening and were able to view the number of quantities that were available to 
+                                        reduce immediately and the time allowed for each, and were 
+                                        able to make the needed change. I asked them to rate the usability of the tool and also collected 
+                                        some of their feedback for future improvements to the design.
                                  </p>
 
                                  </div>
+                                 </div>
+
+                                 <div class="row">
                                  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 image-padding imgscale imgscalencedevtest1">
                                   <img src="assets/images/license_reduction_UAT-min.png" style="background-color:#FFF; " class="img-responsive" alt="Testing with the development team">
                                     </div>
-
+                                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 image-padding imgscale imgscalencedevtest2">
+                                      <img src="assets/images/nce_license_reduction_qual-min.png" style="background-color:#FFF; " class="img-responsive" alt="Testing with the development team">
+                                        </div>
                                     </div>
                                  
-                                    <div class="row">
-                                      <div class="col-lg-6 ">
-                           
-                                  <p class="portfolio-detail-body">
-                                    All users were able to complete all tasks successfully, resulting in a 100% task completion rate.
-                                    They were abe to understand what was happening and were able to view the number of quantities that were available to 
-                                    reduce immediately and the time allowed for each, and were 
-                                    able to make the needed change. I asked them to rate the usability of the tool and also collected 
-                                    some of their feedback for future improvements to the design.
-                                  </p>
-                      
-                                   </p>
-                                   </div>
-                                   <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 image-padding imgscale imgscalencedevtest2">
-                                    <img src="assets/images/nce_license_reduction_qual-min.png" style="background-color:#FFF; " class="img-responsive" alt="Testing with the development team">
-                                      </div>
-                                 </div>
-
+                                   
                                  
                                
                                  <div class="row">
