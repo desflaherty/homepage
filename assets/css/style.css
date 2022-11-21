@@ -120,7 +120,25 @@
     z-index:73
 }
 
-/*--------------------BODY TEXT----------------------------------------------------------------*/
+.imgscalefeedback3:hover {
+    z-index:72
+}
+
+.imgscalefeedback4:hover {
+    z-index:71
+}
+
+.imgscalefeedback5:hover {
+    z-index:70
+}
+
+.imgscalefeedback6:hover {
+    z-index:69
+}
+
+/*
+only have to use two z scales - once they're beside each other 
+--------------------BODY TEXT----------------------------------------------------------------*/
 
 
 
