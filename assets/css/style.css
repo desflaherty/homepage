@@ -65,6 +65,10 @@
 }
 
 .imgscalenceupgrade3:hover {
+    transition:transform 0.2s ease;
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+
     z-index:86
 }
 
