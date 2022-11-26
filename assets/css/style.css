@@ -536,7 +536,10 @@ section {
 }
 
 .fullbanner-oneclub {
-    background-color:#262D47;
+    background-image:
+    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
+    url('../images/ms_blue-min.png');
+   /* background-color:#262D47;*/
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
