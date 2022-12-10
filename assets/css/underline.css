@@ -24,6 +24,29 @@ https://stackoverflow.com/questions/45164065/thick-underline-when-hover-and-when
   text-decoration:none;
 }
 
+
+@media screen and (min-device-width: 290px)  and (max-device-width: 667px) { 
+  .navbar a:before {
+   content: "";
+   position: absolute;
+   width: 0%;
+   height: 4px;
+   bottom: 8px;
+   left: 0;
+   background-color:#525252;
+   visibility: hidden;
+   -webkit-transform: scaleX(0);
+   transform: scaleX(0);
+   -webkit-transition: all 0.5s ease-in-out 0s;
+   transition: all 0.5s ease-in-out 0s;
+ }
+ }
+
+
+
+
+
+
 @media screen and (min-device-width: 768px)  { 
  .navbar a:before {
   content: "";
@@ -41,22 +64,7 @@ https://stackoverflow.com/questions/45164065/thick-underline-when-hover-and-when
 }
 }
 
-@media screen and (max-device-width: 767px)  { 
-  .navbar a:before {
-   content: "";
-   position: absolute;
-   width: 40%;
-   height: 4px;
-   bottom: 8px;
-   left: 0;
-   background-color:#525252;
-   visibility: hidden;
-   -webkit-transform: scaleX(0);
-   transform: scaleX(0);
-   -webkit-transition: all 0.5s ease-in-out 0s;
-   transition: all 0.5s ease-in-out 0s;
- }
- }
+
 
 
 
