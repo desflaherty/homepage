@@ -2787,7 +2787,7 @@ color:#0049B4;
 
 
 .logo:hover {
-  opacity: 0.5;
+  opacity: 0.7;
   -webkit-transition:all 0.5s ease;
   -moz-transition:all 0.5s ease; 
   -o-transition:all 0.5s ease;         
@@ -2843,7 +2843,7 @@ color:#0049B4;
 }
 .scrollToTop:hover{
 
-     background-color:#4d9ad4;
+     background-color:#2e6dcd;
    opacity: 1;
    color: #fff;
    text-decoration: none;
@@ -2875,7 +2875,7 @@ color:#0049B4;
    
  }
  .oneclubbutton:hover{
-     background-color:#696b6d;
+     background-color:#797a7b;
     opacity: 1;
     color: #fff;
     text-decoration: none;
