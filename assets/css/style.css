@@ -1470,7 +1470,7 @@ section {
 
 @media screen and (min-device-width: 360px) and (max-device-width: 667px) { 
     .index-padding {
-        padding-top:120px;
+        padding-top:150px;
         padding-bottom:50px;
     }
     }
