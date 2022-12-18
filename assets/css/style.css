@@ -587,7 +587,7 @@ section {
 
 @media screen and (min-device-width: 280px)  { 
     .fullbanner-IA {
-        background-color:#37BAAB;
+        background-color:#F6AA40;
         background-repeat: no-repeat;
         background-size:cover;
         width: 100%;
@@ -652,7 +652,7 @@ section {
             
                 @media screen and (min-device-width: 280px)  { 
                     .fullbanner-minicart {
-                        background-color:#0049B4;
+                        background-color:#2E60A7;
                      
                         background-repeat: no-repeat;
                         background-size:cover;
@@ -1470,7 +1470,7 @@ section {
 
 @media screen and (min-device-width: 360px) and (max-device-width: 667px) { 
     .index-padding {
-        padding-top:100px;
+        padding-top:120px;
         padding-bottom:50px;
     }
     }
