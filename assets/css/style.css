@@ -1467,6 +1467,10 @@ section {
     padding-bottom:150px;
 }
 
+.index-padding1 {
+    padding-top: 150px;
+    padding-bottom:150px;
+}
 
 
 @media screen and (min-device-width: 360px) and (max-device-width: 667px) { 
