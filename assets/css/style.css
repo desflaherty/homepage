@@ -622,7 +622,7 @@ section {
     .fullbanner-minicart {
     background-image:
     linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url('../images/Product_Catalogue.svg');
+    url('../images/Cust_subs_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
@@ -631,7 +631,7 @@ section {
 
     @media screen and (min-device-width: 280px)  { 
         .fullbanner-minicart {
-            background-color:#2FA8C1;
+            background-color:#9DBFE2;
          
             background-repeat: no-repeat;
             background-size:cover;
