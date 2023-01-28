@@ -1,0 +1,1801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="2864px" viewBox="0 0 1440 2864" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Summary_Dashboard_Skeleton</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1285" height="102" rx="4"></rect>
+        <filter x="-0.4%" y="-3.9%" width="100.8%" height="109.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-3" points="0 0 5 5 10 0"></polygon>
+        <rect id="path-5" x="0" y="0" width="50" height="50"></rect>
+        <path d="M13.64,2.35 C12.19,0.9 10.2,0 7.99,0 C3.57,0 -1.97215226e-31,3.58 -1.97215226e-31,8 C-1.97215226e-31,12.42 3.57,16 7.99,16 C11.72,16 14.83,13.45 15.72,10 L13.64,10 C12.82,12.33 10.6,14 7.99,14 C4.68,14 1.99,11.31 1.99,8 C1.99,4.69 4.68,2 7.99,2 C9.65,2 11.13,2.69 12.21,3.78 L8.99,7 L15.99,7 L15.99,0 L13.64,2.35 L13.64,2.35 Z" id="path-7"></path>
+        <polygon id="path-9" points="0 0 5 5 10 0"></polygon>
+        <rect id="path-11" x="0" y="0" width="50" height="50"></rect>
+        <rect id="path-13" x="-8.52651283e-14" y="0" width="300" height="353" rx="4"></rect>
+        <filter x="-1.7%" y="-1.1%" width="103.3%" height="102.8%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="300" height="353" rx="4"></rect>
+        <filter x="-1.7%" y="-1.1%" width="103.3%" height="102.8%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-17" x="0" y="0" width="300" height="353" rx="4"></rect>
+        <filter x="-1.7%" y="-1.1%" width="103.3%" height="102.8%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-19" x="0" y="0" width="300" height="353" rx="4"></rect>
+        <filter x="-1.7%" y="-1.1%" width="103.3%" height="102.8%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-21" x="0" y="0" width="1285" height="415" rx="4"></rect>
+        <filter x="-0.4%" y="-1.0%" width="100.8%" height="102.4%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-23" x="0" y="0" width="1190" height="299"></rect>
+        <rect id="path-25" x="0" y="0" width="407" height="614"></rect>
+        <filter x="-1.2%" y="-0.7%" width="102.5%" height="101.6%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-27" x="0" y="0" width="407" height="614"></rect>
+        <filter x="-1.2%" y="-0.7%" width="102.5%" height="101.6%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-29" x="0" y="0" width="407" height="614"></rect>
+        <filter x="-1.2%" y="-0.7%" width="102.5%" height="101.6%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-31" x="0" y="0" width="407" height="614"></rect>
+        <filter x="-1.2%" y="-0.7%" width="102.5%" height="101.6%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-33" x="0" y="0" width="407" height="614"></rect>
+        <filter x="-1.2%" y="-0.7%" width="102.5%" height="101.6%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-35" x="0" y="0" width="407" height="614"></rect>
+        <filter x="-1.2%" y="-0.7%" width="102.5%" height="101.6%" filterUnits="objectBoundingBox" id="filter-36">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-37" x="0" y="0" width="1285" height="415" rx="4"></rect>
+        <filter x="-0.4%" y="-1.0%" width="100.8%" height="102.4%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter3" result="shadowBlurOuter3"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" type="matrix" in="shadowBlurOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M12.5,0 C5.6,0 0,5.6 0,12.5 C0,19.4 5.6,25 12.5,25 C19.4,25 25,19.4 25,12.5 C25,5.6 19.4,0 12.5,0 L12.5,0 Z M12.5,3.75 C14.575,3.75 16.25,5.425 16.25,7.5 C16.25,9.575 14.575,11.25 12.5,11.25 C10.425,11.25 8.75,9.575 8.75,7.5 C8.75,5.425 10.425,3.75 12.5,3.75 L12.5,3.75 Z M12.5,21.5 C9.375,21.5 6.6125,19.9 5,17.475 C5.0375,14.9875 10,13.625 12.5,13.625 C14.9875,13.625 19.9625,14.9875 20,17.475 C18.3875,19.9 15.625,21.5 12.5,21.5 L12.5,21.5 Z" id="path-39"></path>
+    </defs>
+    <g id="Summary_Dashboard_Skeleton" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F6F8FA" x="0" y="0" width="1440" height="2864"></rect>
+        <text id="67" font-family="FiraSans-Regular, Fira Sans" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.25" fill="#333840">
+            <tspan x="230" y="484">67</tspan>
+        </text>
+        <g id="Divider/_Light" transform="translate(520.000000, 765.000000)" fill="#E0E5E8">
+            <rect id="➖Divider" x="0" y="0" width="200" height="1"></rect>
+        </g>
+        <g id="Divider/_Light-Copy-7" transform="translate(520.000000, 811.000000)" fill="#E0E5E8">
+            <rect id="➖Divider" x="0" y="0" width="200" height="1"></rect>
+        </g>
+        <g id="Divider/_Light-Copy-8" transform="translate(522.000000, 857.000000)" fill="#E0E5E8">
+            <rect id="➖Divider" x="0" y="0" width="200" height="1"></rect>
+        </g>
+        <g id="Divider/_Light-Copy-9" transform="translate(520.000000, 903.000000)" fill="#E0E5E8">
+            <rect id="➖Divider" x="0" y="0" width="200" height="1"></rect>
+        </g>
+        <g id="Group-40" transform="translate(77.000000, 152.000000)">
+            <g id="Group-34">
+                <g id="Filter-Bar">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Button/Outlined/Enabled" transform="translate(1114.000000, 27.000000)">
+                        <rect id="↳-🎨-Color-l-Container" stroke="#BAC4CA" fill-opacity="0.87" fill="#FFFFFF" x="0" y="0" width="139" height="48" rx="4"></rect>
+                        <g id="Button/label-only" transform="translate(20.503623, 13.000000)" fill="#0271E0" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22">
+                            <text id="↳-✏️-Label">
+                                <tspan x="0" y="17">Export report</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Text-Field/input/Inline/Activated" transform="translate(33.000000, 28.000000)">
+                        <rect id="surface" stroke="#E0E5E8" fill="#F6F8FA" x="-0.5" y="-0.5" width="199" height="47" rx="3.5"></rect>
+                        <g id="📍Trailing-Icon" transform="translate(170.000000, 21.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="🎨-Color" mask="url(#mask-4)">
+                                <g transform="translate(-20.000000, -23.000000)">
+                                    <mask id="mask-6" fill="white">
+                                        <use xlink:href="#path-5"></use>
+                                    </mask>
+                                    <use id="Black" stroke="none" fill="#333840" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="✏️-Input-text" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                            <tspan x="14" y="29">Current Year</tspan>
+                        </text>
+                    </g>
+                    <g id="refresh" transform="translate(625.000000, 37.000000)">
+                        <g id="ic_refresh" transform="translate(4.010000, 7.500000)">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="🎨-Color" mask="url(#mask-8)" fill="#0271E0">
+                                <g transform="translate(-17.010000, -17.000000)" id="Colors/Your_color_1">
+                                    <rect x="0" y="0" width="50" height="50"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Refresh" font-family="FiraSans-Medium, Fira Sans" font-size="18" font-weight="400" fill="#333840">
+                            <tspan x="32" y="19">Refresh</tspan>
+                        </text>
+                    </g>
+                    <g id="Text-Field/input/Inline/Active" transform="translate(265.000000, 28.000000)">
+                        <rect id="surface" stroke="#E0E5E8" fill="#F6F8FA" x="-0.5" y="-0.5" width="327" height="47" rx="3.5"></rect>
+                        <g id="📍Trailing-Icon" transform="translate(298.000000, 21.000000)">
+                            <mask id="mask-10" fill="white">
+                                <use xlink:href="#path-9"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="🎨-Color" mask="url(#mask-10)">
+                                <g transform="translate(-20.000000, -23.000000)">
+                                    <mask id="mask-12" fill="white">
+                                        <use xlink:href="#path-11"></use>
+                                    </mask>
+                                    <use id="Black" stroke="none" fill="#333840" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="✏️-Input-text" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                            <tspan x="14" y="29">All Global Countries</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Dashboar/box" transform="translate(0.000000, 581.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    </g>
+                    <g id="Group-23" transform="translate(32.000000, 32.000000)">
+                        <text id="Total-Customers" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                            <tspan x="50.128" y="15.1999512">Total Revenue USD</tspan>
+                        </text>
+                        <text id="300.00" font-family="FiraSans-Medium, Fira Sans" font-size="30" font-weight="400" letter-spacing="-0.25" fill="#333840">
+                            <tspan x="0" y="49">$1,171,302,739</tspan>
+                        </text>
+                        <g id="Divider/_Light" transform="translate(0.000000, 68.000000)" fill="#E0E5E8">
+                            <rect id="➖Divider" x="0" y="0" width="236" height="1"></rect>
+                        </g>
+                    </g>
+                    <g id="Group-28" transform="translate(32.000000, 194.000000)">
+                        <g id="Group-15" transform="translate(-0.000000, 0.000000)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                            <text id="Last-Month" font-size="14" line-spacing="20" letter-spacing="0.25">
+                                <tspan x="18.771" y="14.2999573">Gross Profit</tspan>
+                            </text>
+                            <text id="30,000" font-size="18">
+                                <tspan x="-5.68434189e-14" y="44">$1,134,585</tspan>
+                            </text>
+                        </g>
+                        <g id="Divider/_Light-Copy-2" transform="translate(0.000000, 59.000000)" fill="#E0E5E8">
+                            <rect id="➖Divider" x="0" y="0" width="236" height="1"></rect>
+                        </g>
+                    </g>
+                    <g id="Group-16" transform="translate(32.000000, 270.000000)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                        <text id="This-Month" font-size="14" line-spacing="20" letter-spacing="0.25">
+                            <tspan x="25.734" y="14.2999573">Net Profit</tspan>
+                        </text>
+                        <text id="99,888" font-size="18">
+                            <tspan x="-5.68434189e-14" y="44">$99,888</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-24" transform="translate(32.000000, 117.000000)">
+                        <g id="Divider/_Light-Copy" transform="translate(0.000000, 60.000000)" fill="#E0E5E8">
+                            <rect id="➖Divider" x="0" y="0" width="236" height="1"></rect>
+                        </g>
+                        <g id="Group-20" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22">
+                            <text id="Global-Revenue">
+                                <tspan x="0" y="17">Global Revenue </tspan>
+                            </text>
+                            <text id="(+2.12%)-Since-May">
+                                <tspan x="0" y="47">(+2.12%) Since May</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-25" transform="translate(657.000000, 581.000000)">
+                    <g id="AOV">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                        </g>
+                        <g id="Group-35" transform="translate(32.000000, 32.000000)">
+                            <text id="Average-Order-Value" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                <tspan x="27.6856738" y="15.1999512">Average Order Value USD</tspan>
+                            </text>
+                            <text id="300.00" font-family="FiraSans-Medium, Fira Sans" font-size="30" font-weight="400" letter-spacing="-0.25" fill="#333840">
+                                <tspan x="-4.26325641e-14" y="49">$2,071.8</tspan>
+                                <tspan x="-4.26325641e-14" y="96">0</tspan>
+                            </text>
+                            <g id="Divider/_Light" transform="translate(0.000000, 68.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="236" height="1"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-37" transform="translate(32.000000, 194.000000)">
+                            <g id="Group-21" transform="translate(0.000000, 0.000000)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                                <text id="Total-Revenue-USD" font-size="14" line-spacing="20" letter-spacing="0.25">
+                                    <tspan x="20.3426673" y="14.2999573">Total Revenue USD</tspan>
+                                </text>
+                                <text id="30,000" font-size="18">
+                                    <tspan x="0" y="44">$1,171,302,739</tspan>
+                                </text>
+                            </g>
+                            <g id="Divider/_Light-Copy-13" transform="translate(0.000000, 59.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="236" height="1"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-22" transform="translate(32.000000, 270.000000)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                            <text id="This-Month" font-size="14" line-spacing="20" letter-spacing="0.25">
+                                <tspan x="17.4201583" y="14.2999573">Total Orders</tspan>
+                            </text>
+                            <text id="99,888" font-size="18">
+                                <tspan x="0" y="44">$1,348,346</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-36" transform="translate(32.000000, 117.000000)">
+                            <g id="Divider/_Light-Copy-5" transform="translate(0.000000, 60.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="236" height="1"></rect>
+                            </g>
+                            <g id="Group-33" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22">
+                                <text id="Global-Average-order">
+                                    <tspan x="0" y="17">Global Average order Value</tspan>
+                                </text>
+                                <text id="(+4.22%)-Since-May">
+                                    <tspan x="0" y="47">(+4.22%) Since May</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-39-Copy-2" transform="translate(32.000000, 27.000000)" fill="#E0E5E8">
+                        <g id="Skeleton">
+                            <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+                        </g>
+                        <g id="Skeleton-Copy" transform="translate(0.000000, 79.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+                        </g>
+                        <g id="Skeleton-Copy-2" transform="translate(0.000000, 158.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+                        </g>
+                        <g id="Skeleton-Copy-3" transform="translate(0.000000, 237.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-25-Copy" transform="translate(985.000000, 581.000000)">
+                    <g id="AOV">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                        </g>
+                        <g id="Group-35" transform="translate(32.000000, 32.000000)">
+                            <text id="Average-Order-Value" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                <tspan x="27.6856738" y="15.1999512">Average Order Value USD</tspan>
+                            </text>
+                            <text id="300.00" font-family="FiraSans-Medium, Fira Sans" font-size="30" font-weight="400" letter-spacing="-0.25" fill="#333840">
+                                <tspan x="-4.26325641e-14" y="49">$2,071.8</tspan>
+                                <tspan x="-4.26325641e-14" y="96">0</tspan>
+                            </text>
+                            <g id="Divider/_Light" transform="translate(0.000000, 68.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="236" height="1"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-37" transform="translate(32.000000, 194.000000)">
+                            <g id="Group-21" transform="translate(0.000000, 0.000000)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                                <text id="Total-Revenue-USD" font-size="14" line-spacing="20" letter-spacing="0.25">
+                                    <tspan x="20.3426673" y="14.2999573">Total Revenue USD</tspan>
+                                </text>
+                                <text id="30,000" font-size="18">
+                                    <tspan x="0" y="44">$1,171,302,739</tspan>
+                                </text>
+                            </g>
+                            <g id="Divider/_Light-Copy-13" transform="translate(0.000000, 59.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="236" height="1"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-22" transform="translate(32.000000, 270.000000)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                            <text id="This-Month" font-size="14" line-spacing="20" letter-spacing="0.25">
+                                <tspan x="17.4201583" y="14.2999573">Total Orders</tspan>
+                            </text>
+                            <text id="99,888" font-size="18">
+                                <tspan x="0" y="44">$1,348,346</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-36" transform="translate(32.000000, 117.000000)">
+                            <g id="Divider/_Light-Copy-5" transform="translate(0.000000, 60.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="236" height="1"></rect>
+                            </g>
+                            <g id="Group-33" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22">
+                                <text id="Global-Average-order">
+                                    <tspan x="0" y="17">Global Average order Value</tspan>
+                                </text>
+                                <text id="(+4.22%)-Since-May">
+                                    <tspan x="0" y="47">(+4.22%) Since May</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-39-Copy-2" transform="translate(32.000000, 27.000000)" fill="#E0E5E8">
+                        <g id="Skeleton">
+                            <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+                        </g>
+                        <g id="Skeleton-Copy" transform="translate(0.000000, 79.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+                        </g>
+                        <g id="Skeleton-Copy-2" transform="translate(0.000000, 158.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+                        </g>
+                        <g id="Skeleton-Copy-3" transform="translate(0.000000, 237.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-32" transform="translate(329.000000, 581.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-19"></use>
+                    </g>
+                    <g id="Group-29" transform="translate(32.000000, 32.000000)">
+                        <text id="Number-of-Subscripti" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                            <tspan x="27.472" y="15.1999512">Number of Subscriptions</tspan>
+                        </text>
+                        <text id="300.00" font-family="FiraSans-Medium, Fira Sans" font-size="30" font-weight="400" letter-spacing="-0.25" fill="#333840">
+                            <tspan x="0" y="49">1,348,346</tspan>
+                        </text>
+                        <g id="Divider/_Light" transform="translate(0.000000, 68.000000)" fill="#E0E5E8">
+                            <rect id="➖Divider" x="0" y="0" width="236" height="1"></rect>
+                        </g>
+                    </g>
+                    <g id="Group-31" transform="translate(32.000000, 194.000000)">
+                        <g id="Group-18" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                            <text id="Last-Month" font-size="14" line-spacing="20" letter-spacing="0.25">
+                                <tspan x="26.411" y="14.2999573">Approved</tspan>
+                            </text>
+                            <text id="30,000" font-size="18">
+                                <tspan x="0" y="44">1,111,243</tspan>
+                            </text>
+                        </g>
+                        <g id="Divider/_Light-Copy-4" transform="translate(0.000000, 59.000000)" fill="#E0E5E8">
+                            <rect id="➖Divider" x="0" y="0" width="236" height="1"></rect>
+                        </g>
+                    </g>
+                    <g id="Group-19" transform="translate(32.000000, 270.000000)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                        <text id="This-Month" font-size="14" line-spacing="20" letter-spacing="0.25">
+                            <tspan x="29.218" y="14.2999573">Rejected</tspan>
+                        </text>
+                        <text id="99,888" font-size="18">
+                            <tspan x="0" y="44">232,345</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-30" transform="translate(32.000000, 117.000000)">
+                        <g id="Divider/_Light-Copy-3" transform="translate(0.000000, 60.000000)" fill="#E0E5E8">
+                            <rect id="➖Divider" x="0" y="0" width="236" height="1"></rect>
+                        </g>
+                        <g id="Group-20-Copy" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22">
+                            <text id="Global-Subscriptions">
+                                <tspan x="0" y="17">Global Subscriptions</tspan>
+                            </text>
+                            <text id="(+6.22%)-Since-May">
+                                <tspan x="0" y="47">(+6.22%) Since May</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Total-Revenue-Chart" transform="translate(0.000000, 134.000000)">
+                    <g transform="translate(0.000000, -0.000000)" id="card">
+                        <g transform="translate(0.000000, -0.000000)" id="Layout-Cards/card">
+                            <g id="Rectangle">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+                            </g>
+                            <text id="Title" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                <tspan x="30" y="47">Total Revenue</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-5" transform="translate(29.000000, 36.000000)">
+                        <g id="area-chart-spline">
+                            <g id="series" transform="translate(533.359375, 0.000000)">
+                                <text id="Revenue" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#333840">
+                                    <tspan x="16" y="15">Revenue</tspan>
+                                </text>
+                                <circle id="SvgjsCircle1099" stroke="#FFFFFF" fill="#0271E0" fill-rule="nonzero" cx="6" cy="10" r="6"></circle>
+                                <text id="Gross-Profit" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#333840">
+                                    <tspan x="92" y="15">Gross Profit</tspan>
+                                </text>
+                                <circle id="SvgjsCircle1102" stroke="#FFFFFF" fill="#35AE63" fill-rule="nonzero" cx="82.125" cy="10" r="6"></circle>
+                            </g>
+                            <g id="SvgjsG1095" transform="translate(33.000000, 38.388889)">
+                                <g id="lines" transform="translate(0.000000, 19.000000)" fill="#000000" fill-rule="nonzero" stroke-dasharray="0">
+                                    <line x1="171.143599" y1="278.996798" x2="171.143599" y2="285" id="SvgjsLine1149" stroke="#78909C"></line>
+                                    <line x1="341.286333" y1="278.996798" x2="341.286333" y2="285" id="SvgjsLine1150" stroke="#78909C"></line>
+                                    <line x1="511.429066" y1="278.996798" x2="511.429066" y2="285" id="SvgjsLine1151" stroke="#78909C"></line>
+                                    <line x1="681.5718" y1="278.996798" x2="681.5718" y2="285" id="SvgjsLine1152" stroke="#78909C"></line>
+                                    <line x1="851.714533" y1="278.996798" x2="851.714533" y2="285" id="SvgjsLine1153" stroke="#78909C"></line>
+                                    <line x1="1021.85727" y1="278.996798" x2="1021.85727" y2="285" id="SvgjsLine1154" stroke="#78909C"></line>
+                                    <line x1="1.00086589" y1="0.500266809" x2="1192" y2="0.500266809" id="SvgjsLine1155" stroke="#E0E0E0"></line>
+                                    <line x1="1.00086589" y1="46.7495998" x2="1192" y2="46.7495998" id="SvgjsLine1156" stroke="#E0E0E0"></line>
+                                    <line x1="1.00086589" y1="92.9989328" x2="1192" y2="92.9989328" id="SvgjsLine1157" stroke="#E0E0E0"></line>
+                                    <line x1="1.00086589" y1="139.248266" x2="1192" y2="139.248266" id="SvgjsLine1158" stroke="#E0E0E0"></line>
+                                    <line x1="1.00086589" y1="185.497599" x2="1192" y2="185.497599" id="SvgjsLine1159" stroke="#E0E0E0"></line>
+                                    <line x1="1.00086589" y1="231.746932" x2="1192" y2="231.746932" id="SvgjsLine1160" stroke="#E0E0E0"></line>
+                                    <line x1="1.00086589" y1="277.996265" x2="1192" y2="277.996265" id="SvgjsLine1161" stroke="#E0E0E0"></line>
+                                    <line x1="1.00086589" y1="277.996265" x2="1192" y2="277.996265" id="SvgjsLine1163" stroke="#000000"></line>
+                                    <line x1="1.00086589" y1="1.50080043" x2="1.00086589" y2="277.996265" id="SvgjsLine1162" stroke="#000000"></line>
+                                </g>
+                                <g id="chart-lines" transform="translate(2.000000, 0.000000)">
+                                    <mask id="mask-24" fill="white">
+                                        <use xlink:href="#path-23"></use>
+                                    </mask>
+                                    <g id="SvgjsRect1107"></g>
+                                    <g id="area-chart" mask="url(#mask-24)">
+                                        <g transform="translate(-102.000000, 19.976749)">
+                                            <g id="green" transform="translate(0.000000, 0.023251)">
+                                                <path d="M99,260 C168.533333,260 228.133333,231.317073 297.666667,231.317073 C367.2,231.317073 426.8,213.560976 496.333333,213.560976 C565.866667,213.560976 625.466667,231.317073 695,231.317073 C764.533333,231.317073 824.133333,228.585366 893.666667,228.585366 C963.2,228.585366 1022.8,204 1092.33333,204 C1161.86667,204 1221.46667,219.02439 1291,219.02439" id="apexcharts-line-1" stroke="#35AE63" stroke-width="4" stroke-dasharray="0"></path>
+                                                <g id="SvgjsG1120" fill="#00E396" fill-rule="nonzero" stroke="#FFFFFF" stroke-opacity="0.9" stroke-width="2">
+                                                    <ellipse id="SvgjsCircle1169" cx="0.5" cy="0.4" rx="1" ry="1"></ellipse>
+                                                </g>
+                                            </g>
+                                            <g id="blue" transform="translate(102.000000, 0.000000)">
+                                                <path d="M0,205.460635 C69.3583333,205.460635 128.808333,184.683717 198.166667,184.683717 C267.525,184.683717 326.975,212.386275 396.333333,212.386275 C465.691667,212.386275 525.141667,159.289706 594.5,159.289706 C663.858333,159.289706 723.308333,180.066624 792.666667,180.066624 C862.025,180.066624 921.475,25.3940111 990.833333,25.3940111 C1060.19167,25.3940111 1119.64167,46.1709293 1189,46.1709293" id="apexcharts-line-0" stroke="#0271E0" stroke-width="4" stroke-dasharray="0"></path>
+                                                <g id="SvgjsG1110" fill="#008FFB" fill-rule="nonzero" stroke="#FFFFFF" stroke-opacity="0.9" stroke-width="2">
+                                                    <ellipse id="SvgjsCircle1170" cx="0.132776596" cy="0.1" rx="1" ry="1"></ellipse>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <line x1="2" y1="19.5" x2="1192" y2="19.5" id="SvgjsLine1165" fill="#000000" fill-rule="nonzero"></line>
+                            </g>
+                            <g id="SvgjsG1140" transform="translate(0.000000, 43.488889)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" letter-spacing="0.25" line-spacing="20">
+                                <text id="SvgjsText1141">
+                                    <tspan x="0" y="15">120</tspan>
+                                </text>
+                                <text id="SvgjsText1142">
+                                    <tspan x="0" y="61.3246667">100</tspan>
+                                </text>
+                                <text id="SvgjsText1143">
+                                    <tspan x="7" y="107.649333">80</tspan>
+                                </text>
+                                <text id="SvgjsText1144">
+                                    <tspan x="7" y="153.974">60</tspan>
+                                </text>
+                                <text id="SvgjsText1145">
+                                    <tspan x="7" y="200.298667">40</tspan>
+                                </text>
+                                <text id="SvgjsText1146">
+                                    <tspan x="7" y="246.623333">20</tspan>
+                                </text>
+                                <text id="SvgjsText1147">
+                                    <tspan x="14" y="292.948">0</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="SvgjsG1130" transform="translate(109.997768, 342.584889)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" letter-spacing="0.25" line-spacing="20">
+                            <text id="Jan">
+                                <tspan x="0" y="15">Jan</tspan>
+                            </text>
+                            <text id="Feb">
+                                <tspan x="169.495536" y="15">Feb</tspan>
+                            </text>
+                            <text id="Mar">
+                                <tspan x="339.491071" y="15">Mar</tspan>
+                            </text>
+                            <text id="Apr">
+                                <tspan x="510.486607" y="15">Apr</tspan>
+                            </text>
+                            <text id="May">
+                                <tspan x="678.482143" y="15">May</tspan>
+                            </text>
+                            <text id="Jun">
+                                <tspan x="849.977679" y="15">Jun</tspan>
+                            </text>
+                            <text id="Jul">
+                                <tspan x="1021.97321" y="15">Jul</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Top-10-Row" transform="translate(0.000000, 966.000000)">
+                    <g id="Transactional-products">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-25"></use>
+                        </g>
+                        <text id="Top-10-Transactional" font-family="FiraSans-Medium, Fira Sans" font-size="18" font-weight="400" fill="#333840">
+                            <tspan x="32" y="51">Top 10 Transactional Products</tspan>
+                        </text>
+                        <text id="Product" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                            <tspan x="64" y="107">Product</tspan>
+                        </text>
+                        <text id="USD-(M)" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                            <tspan x="318" y="107">USD (M)</tspan>
+                        </text>
+                        <g id="product_line" transform="translate(32.000000, 128.000000)">
+                            <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="34" y="17">Office 365</tspan>
+                            </text>
+                            <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                            </g>
+                            <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="284" y="17">$120,100</tspan>
+                            </text>
+                            <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                <tspan x="0" y="17">1</tspan>
+                            </text>
+                        </g>
+                        <g id="product_line-copy" transform="translate(32.000000, 175.000000)">
+                            <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="34" y="17">Microsoft 365 E3</tspan>
+                            </text>
+                            <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                            </g>
+                            <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="284" y="17">11.8</tspan>
+                            </text>
+                            <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                <tspan x="0" y="17">2</tspan>
+                            </text>
+                        </g>
+                        <g id="product_line-copy-2" transform="translate(32.000000, 222.000000)">
+                            <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="34" y="17">Microsoft 365 Business Premium</tspan>
+                            </text>
+                            <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                            </g>
+                            <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="284" y="17">10.8</tspan>
+                            </text>
+                            <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                <tspan x="0" y="17">3</tspan>
+                            </text>
+                        </g>
+                        <g id="product_line-copy-3" transform="translate(32.000000, 269.000000)">
+                            <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="34" y="17">Exchange Online</tspan>
+                            </text>
+                            <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                            </g>
+                            <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="284" y="17">8.7</tspan>
+                            </text>
+                            <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                <tspan x="0" y="17">4</tspan>
+                            </text>
+                        </g>
+                        <g id="product_line-copy-4" transform="translate(32.000000, 316.000000)">
+                            <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="34" y="17">Power BI Pro</tspan>
+                            </text>
+                            <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                            </g>
+                            <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="284" y="17">7.4</tspan>
+                            </text>
+                            <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                <tspan x="0" y="17">5</tspan>
+                            </text>
+                        </g>
+                        <g id="product_line-copy-5" transform="translate(32.000000, 363.000000)">
+                            <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="34" y="17">Microsoft Defender</tspan>
+                            </text>
+                            <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                            </g>
+                            <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="284" y="17">5.6</tspan>
+                            </text>
+                            <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                <tspan x="0" y="17">6</tspan>
+                            </text>
+                        </g>
+                        <g id="product_line-copy-6" transform="translate(32.000000, 410.000000)">
+                            <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="34" y="17">Visio Plan 2</tspan>
+                            </text>
+                            <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                            </g>
+                            <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="284" y="17">4.5</tspan>
+                            </text>
+                            <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                <tspan x="0" y="17">7</tspan>
+                            </text>
+                        </g>
+                        <g id="product_line-copy-7" transform="translate(32.000000, 457.000000)">
+                            <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="34" y="17">Microsoft 365 Business Standard</tspan>
+                            </text>
+                            <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                            </g>
+                            <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="284" y="17">3.7</tspan>
+                            </text>
+                            <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                <tspan x="0" y="17">8</tspan>
+                            </text>
+                        </g>
+                        <g id="product_line-copy-8" transform="translate(32.000000, 504.000000)">
+                            <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="34" y="17">Windows Server Standard</tspan>
+                            </text>
+                            <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                            </g>
+                            <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                <tspan x="284" y="17">3.5</tspan>
+                            </text>
+                            <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                <tspan x="0" y="17">9</tspan>
+                            </text>
+                        </g>
+                        <g id="product_line-copy-9" transform="translate(32.000000, 551.000000)" fill="#333840" font-size="16" line-spacing="22">
+                            <text id="Sharepoint-Enterpris" font-family="FiraSans-Regular, Fira Sans" font-weight="normal">
+                                <tspan x="34" y="17">Sharepoint Enterprise</tspan>
+                            </text>
+                            <text id="2.9" font-family="FiraSans-Regular, Fira Sans" font-weight="normal">
+                                <tspan x="318" y="17">2.9</tspan>
+                            </text>
+                            <text id="1" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                                <tspan x="0" y="17">10</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group" transform="translate(439.000000, 0.000000)">
+                        <g id="Rectangle-Copy">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+                        </g>
+                        <g id="Top-10-transactional-products" transform="translate(32.000000, 32.000000)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                            <text id="Top-10-Transactional" font-size="18">
+                                <tspan x="0" y="19">Top 10 Transactional Countries</tspan>
+                            </text>
+                            <text id="Country" font-size="16" line-spacing="22">
+                                <tspan x="32" y="75">Country</tspan>
+                            </text>
+                            <text id="USD-(M)" font-size="16" line-spacing="22">
+                                <tspan x="286" y="75">USD (M)</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group" transform="translate(878.000000, 0.000000)">
+                        <g id="Rectangle-Copy">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-29"></use>
+                        </g>
+                        <g id="Top-10-transactional-products" transform="translate(32.000000, 32.000000)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                            <text id="Top-10-Azure-Countri" font-size="18">
+                                <tspan x="0" y="19">Top 10 Azure Countries</tspan>
+                            </text>
+                            <text id="Country" font-size="16" line-spacing="22">
+                                <tspan x="32" y="75">Country</tspan>
+                            </text>
+                            <text id="USD-(M)" font-size="16" line-spacing="22">
+                                <tspan x="286" y="75">USD (M)</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="Group-27" transform="translate(0.000000, 647.000000)">
+                        <g id="Group">
+                            <g id="Rectangle-Copy">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-31"></use>
+                            </g>
+                            <g id="Top-10-transactional-products" transform="translate(32.000000, 32.000000)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                                <text id="Top-10-Partners" font-size="18">
+                                    <tspan x="0" y="19">Top 10 Partners </tspan>
+                                </text>
+                                <text id="Partner" font-size="16" line-spacing="22">
+                                    <tspan x="32" y="75">Partner</tspan>
+                                </text>
+                                <text id="USD-(M)" font-size="16" line-spacing="22">
+                                    <tspan x="286" y="75">USD (M)</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line" transform="translate(32.000000, 128.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Adesso</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">22.1</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">1</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-10" transform="translate(32.000000, 175.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Actavo</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">17.8</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">2</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-11" transform="translate(32.000000, 222.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Catalyst IT Solutions</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">15.9</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">3</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-12" transform="translate(32.000000, 269.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Chanel</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">10.7</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">4</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-13" transform="translate(32.000000, 316.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">CSS</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">9.4</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">5</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-14" transform="translate(32.000000, 363.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Multicare</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">7.6</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">6</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-15" transform="translate(32.000000, 410.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">LS Retail</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">4.9</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">7</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-16" transform="translate(32.000000, 457.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">IOZ</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">4.2</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">8</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-17" transform="translate(32.000000, 504.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Nestlé</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">3.8</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">9</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-18" transform="translate(32.000000, 551.000000)" fill="#333840" font-size="16" line-spacing="22">
+                                <text id="Nutreco" font-family="FiraSans-Regular, Fira Sans" font-weight="normal">
+                                    <tspan x="34" y="17">Nutreco</tspan>
+                                </text>
+                                <text id="12.1" font-family="FiraSans-Regular, Fira Sans" font-weight="normal">
+                                    <tspan x="318" y="17">3.2</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                                    <tspan x="0" y="17">10</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-26-Copy-3" transform="translate(32.000000, 32.000000)" fill="#E0E5E8">
+                            <g id="Skeleton-Copy-4">
+                                <rect id="Rectangle" x="0" y="0" width="266" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-5" transform="translate(0.000000, 91.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-7" transform="translate(0.000000, 133.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-8" transform="translate(0.000000, 182.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-9" transform="translate(0.000000, 231.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-10" transform="translate(0.000000, 273.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-11" transform="translate(0.000000, 322.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-12" transform="translate(0.000000, 371.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-13" transform="translate(0.000000, 420.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-14" transform="translate(0.000000, 462.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-15" transform="translate(0.000000, 511.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-6" transform="translate(0.000000, 49.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-27-Copy" transform="translate(439.000000, 647.000000)">
+                        <g id="Group">
+                            <g id="Rectangle-Copy">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-33"></use>
+                            </g>
+                            <g id="Top-10-transactional-products" transform="translate(32.000000, 32.000000)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                                <text id="Top-10-Partners" font-size="18">
+                                    <tspan x="0" y="19">Top 10 Partners </tspan>
+                                </text>
+                                <text id="Partner" font-size="16" line-spacing="22">
+                                    <tspan x="32" y="75">Partner</tspan>
+                                </text>
+                                <text id="USD-(M)" font-size="16" line-spacing="22">
+                                    <tspan x="286" y="75">USD (M)</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line" transform="translate(32.000000, 128.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Adesso</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">22.1</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">1</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-10" transform="translate(32.000000, 175.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Actavo</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">17.8</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">2</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-11" transform="translate(32.000000, 222.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Catalyst IT Solutions</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">15.9</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">3</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-12" transform="translate(32.000000, 269.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Chanel</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">10.7</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">4</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-13" transform="translate(32.000000, 316.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">CSS</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">9.4</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">5</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-14" transform="translate(32.000000, 363.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Multicare</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">7.6</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">6</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-15" transform="translate(32.000000, 410.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">LS Retail</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">4.9</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">7</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-16" transform="translate(32.000000, 457.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">IOZ</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">4.2</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">8</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-17" transform="translate(32.000000, 504.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Nestlé</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">3.8</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">9</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-18" transform="translate(32.000000, 551.000000)" fill="#333840" font-size="16" line-spacing="22">
+                                <text id="Nutreco" font-family="FiraSans-Regular, Fira Sans" font-weight="normal">
+                                    <tspan x="34" y="17">Nutreco</tspan>
+                                </text>
+                                <text id="12.1" font-family="FiraSans-Regular, Fira Sans" font-weight="normal">
+                                    <tspan x="318" y="17">3.2</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                                    <tspan x="0" y="17">10</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-26-Copy-3" transform="translate(32.000000, 32.000000)" fill="#E0E5E8">
+                            <g id="Skeleton-Copy-4">
+                                <rect id="Rectangle" x="0" y="0" width="266" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-5" transform="translate(0.000000, 91.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-7" transform="translate(0.000000, 133.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-8" transform="translate(0.000000, 182.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-9" transform="translate(0.000000, 231.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-10" transform="translate(0.000000, 273.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-11" transform="translate(0.000000, 322.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-12" transform="translate(0.000000, 371.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-13" transform="translate(0.000000, 420.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-14" transform="translate(0.000000, 462.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-15" transform="translate(0.000000, 511.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-6" transform="translate(0.000000, 49.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-27-Copy-2" transform="translate(878.000000, 647.000000)">
+                        <g id="Group">
+                            <g id="Rectangle-Copy">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-36)" xlink:href="#path-35"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-35"></use>
+                            </g>
+                            <g id="Top-10-transactional-products" transform="translate(32.000000, 32.000000)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                                <text id="Top-10-Partners" font-size="18">
+                                    <tspan x="0" y="19">Top 10 Partners </tspan>
+                                </text>
+                                <text id="Partner" font-size="16" line-spacing="22">
+                                    <tspan x="32" y="75">Partner</tspan>
+                                </text>
+                                <text id="USD-(M)" font-size="16" line-spacing="22">
+                                    <tspan x="286" y="75">USD (M)</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line" transform="translate(32.000000, 128.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Adesso</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">22.1</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">1</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-10" transform="translate(32.000000, 175.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Actavo</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">17.8</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">2</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-11" transform="translate(32.000000, 222.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Catalyst IT Solutions</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">15.9</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">3</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-12" transform="translate(32.000000, 269.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Chanel</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">10.7</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">4</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-13" transform="translate(32.000000, 316.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">CSS</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">9.4</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">5</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-14" transform="translate(32.000000, 363.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Multicare</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">7.6</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">6</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-15" transform="translate(32.000000, 410.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">LS Retail</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">4.9</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">7</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-16" transform="translate(32.000000, 457.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">IOZ</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">4.2</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">8</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-17" transform="translate(32.000000, 504.000000)">
+                                <text id="Office-365" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="34" y="17">Nestlé</tspan>
+                                </text>
+                                <g id="Divider/_Light" transform="translate(0.000000, 30.000000)" fill="#E0E5E8">
+                                    <rect id="➖Divider" x="0" y="0" width="343" height="1"></rect>
+                                </g>
+                                <text id="$120,100" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
+                                    <tspan x="284" y="17">3.8</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                    <tspan x="0" y="17">9</tspan>
+                                </text>
+                            </g>
+                            <g id="product_line-copy-18" transform="translate(32.000000, 551.000000)" fill="#333840" font-size="16" line-spacing="22">
+                                <text id="Nutreco" font-family="FiraSans-Regular, Fira Sans" font-weight="normal">
+                                    <tspan x="34" y="17">Nutreco</tspan>
+                                </text>
+                                <text id="12.1" font-family="FiraSans-Regular, Fira Sans" font-weight="normal">
+                                    <tspan x="318" y="17">3.2</tspan>
+                                </text>
+                                <text id="1" font-family="FiraSans-Medium, Fira Sans" font-weight="400">
+                                    <tspan x="0" y="17">10</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-26-Copy-3" transform="translate(32.000000, 32.000000)" fill="#E0E5E8">
+                            <g id="Skeleton-Copy-4">
+                                <rect id="Rectangle" x="0" y="0" width="266" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-5" transform="translate(0.000000, 91.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-7" transform="translate(0.000000, 133.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-8" transform="translate(0.000000, 182.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-9" transform="translate(0.000000, 231.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-10" transform="translate(0.000000, 273.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-11" transform="translate(0.000000, 322.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-12" transform="translate(0.000000, 371.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-13" transform="translate(0.000000, 420.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-14" transform="translate(0.000000, 462.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-15" transform="translate(0.000000, 511.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                            <g id="Skeleton-Copy-6" transform="translate(0.000000, 49.000000)">
+                                <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Support-Tickets-Chart-Copy" transform="translate(0.000000, 2259.000000)">
+                    <g id="Group-14" transform="translate(0.000000, 0.000000)">
+                        <g id="Error-Messages-chart-Copy" transform="translate(0.000000, -0.000000)">
+                            <g id="Group-2" transform="translate(29.906905, 40.002356)"></g>
+                            <g id="Error-messages-area-chart-svg" transform="translate(0.000000, -0.000000)">
+                                <g id="area-chart" transform="translate(0.000000, -0.000000)">
+                                    <g id="basic-area-chart" transform="translate(0.000000, -0.000000)">
+                                        <g id="SvgjsG1003">
+                                            <g id="Layout-Cards/card">
+                                                <g id="Rectangle">
+                                                    <use fill="black" fill-opacity="1" filter="url(#filter-38)" xlink:href="#path-37"></use>
+                                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-37"></use>
+                                                </g>
+                                                <text id="Title" font-family="FiraSans-Medium, Fira Sans" font-size="16" font-weight="400" line-spacing="22" fill="#333840">
+                                                    <tspan x="30" y="47">Support Tickets</tspan>
+                                                </text>
+                                            </g>
+                                            <g id="SvgjsG1072" transform="translate(65.000000, 115.000000)" fill="#000000" fill-rule="nonzero" stroke-dasharray="0">
+                                                <line x1="46" y1="262" x2="46" y2="268" id="SvgjsLine1073" stroke="#78909C"></line>
+                                                <line x1="182" y1="262" x2="182" y2="268" id="SvgjsLine1074" stroke="#78909C"></line>
+                                                <line x1="317" y1="262" x2="317" y2="268" id="SvgjsLine1075" stroke="#78909C"></line>
+                                                <line x1="453" y1="262" x2="453" y2="268" id="SvgjsLine1076" stroke="#78909C"></line>
+                                                <line x1="588" y1="262" x2="588" y2="268" id="SvgjsLine1077" stroke="#78909C"></line>
+                                                <line x1="723" y1="262" x2="723" y2="268" id="SvgjsLine1078" stroke="#78909C"></line>
+                                                <line x1="859" y1="262" x2="859" y2="268" id="SvgjsLine1079" stroke="#78909C"></line>
+                                                <line x1="995" y1="262" x2="995" y2="268" id="SvgjsLine1080" stroke="#78909C"></line>
+                                                <line x1="1" y1="0.5" x2="1130" y2="0.5" id="SvgjsLine1081" stroke="#E0E0E0"></line>
+                                                <line x1="1" y1="43.5" x2="1130" y2="43.5" id="SvgjsLine1082" stroke="#E0E0E0"></line>
+                                                <line x1="1" y1="87.5" x2="1130" y2="87.5" id="SvgjsLine1083" stroke="#E0E0E0"></line>
+                                                <line x1="1" y1="130.5" x2="1130" y2="130.5" id="SvgjsLine1084" stroke="#E0E0E0"></line>
+                                                <line x1="1" y1="173.5" x2="1130" y2="173.5" id="SvgjsLine1085" stroke="#E0E0E0"></line>
+                                                <line x1="1" y1="217.5" x2="1130" y2="217.5" id="SvgjsLine1086" stroke="#E0E0E0"></line>
+                                                <line x1="1" y1="261.5" x2="1130" y2="261.5" id="SvgjsLine1087" stroke="#E0E0E0"></line>
+                                                <line x1="1" y1="261.5" x2="1130" y2="261.5" id="SvgjsLine1089" stroke="#000000"></line>
+                                                <line x1="1" y1="1" x2="1" y2="261" id="SvgjsLine1088" stroke="#000000"></line>
+                                            </g>
+                                            <line x1="20.9977709" y1="197.905339" x2="1195" y2="197.905339" id="SvgjsLine1091" fill="#000000" fill-rule="nonzero"></line>
+                                        </g>
+                                        <rect id="SvgjsRect1004" fill="#000000" fill-rule="nonzero" x="11.9002515" y="42.95" width="1" height="1"></rect>
+                                        <g id="SvgjsG1064" transform="translate(29.000000, 107.000575)" fill="#333840" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" letter-spacing="0.25" line-spacing="20">
+                                            <text id="600">
+                                                <tspan x="0" y="15">600</tspan>
+                                            </text>
+                                            <text id="500">
+                                                <tspan x="0" y="56.83">500</tspan>
+                                            </text>
+                                            <text id="400">
+                                                <tspan x="0" y="98.66">400</tspan>
+                                            </text>
+                                            <text id="300">
+                                                <tspan x="0" y="140.49">300</tspan>
+                                            </text>
+                                            <text id="200">
+                                                <tspan x="0" y="182.32">200</tspan>
+                                            </text>
+                                            <text id="100">
+                                                <tspan x="0" y="224.15">100</tspan>
+                                            </text>
+                                            <text id="0">
+                                                <tspan x="0" y="265.98">0</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <text id="Current-Year-2021" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#333840">
+                                        <tspan x="582.15" y="400.47725">Current Year 2021</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-13" transform="translate(189.000000, 225.000000)">
+                            <g id="bar-chart-svgrepo-com-copy-6" transform="translate(0.000000, 0.000000)">
+                                <polygon id="Path" fill="#D2E5F9" points="700 4.22915036e-11 700 25.1654465 700 151 900 151 900 4.22915036e-11"></polygon>
+                                <polygon id="Path" fill="#F88A3B" points="350 24 350 49.4022167 350 151 550 151 550 24"></polygon>
+                                <polygon id="Path" fill="#35AE63" points="0 50 0 75.2490818 0 151 200 151 200 50"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-10" transform="translate(375.000000, 67.000000)">
+                        <g id="Group-3">
+                            <text id="Closed" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#333840">
+                                <tspan x="79" y="15">Closed</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#35AE63" x="0" y="2" width="63" height="14"></rect>
+                        </g>
+                        <g id="Group-4" transform="translate(421.000000, 0.000000)">
+                            <text id="Open" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#333840">
+                                <tspan x="79" y="15">Open</tspan>
+                            </text>
+                            <rect id="Rectangle-Copy-2" fill="#D2E5F9" x="0" y="2" width="63" height="14"></rect>
+                        </g>
+                        <g id="Group-38" transform="translate(196.000000, 0.000000)">
+                            <text id="In-Progress" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#333840">
+                                <tspan x="79" y="15">In Progress</tspan>
+                            </text>
+                            <rect id="Rectangle-Copy-3" fill="#F88A3B" x="0" y="2" width="63" height="14"></rect>
+                        </g>
+                    </g>
+                </g>
+                <rect id="Rectangle" fill="#E0E5E8" x="29" y="213" width="1225" height="298" rx="4"></rect>
+                <rect id="Rectangle" fill="#E0E5E8" x="132" y="518" width="1054" height="19" rx="4"></rect>
+                <rect id="Rectangle" fill="#E0E5E8" x="550" y="168" width="215" height="21" rx="4"></rect>
+                <rect id="Rectangle-Copy-4" fill="#E0E5E8" x="28" y="166" width="215" height="21" rx="4"></rect>
+                <g id="Skeleton" transform="translate(371.000000, 2324.503769)" fill="#E0E5E8">
+                    <rect id="Rectangle" x="0" y="0" width="539" height="21" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-17" transform="translate(19.000000, 2360.503769)" fill="#E0E5E8">
+                    <rect id="Rectangle" x="0" y="0" width="1248" height="304" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-16" transform="translate(19.000000, 2288.503769)" fill="#E0E5E8">
+                    <rect id="Rectangle" x="0" y="0" width="144" height="21" rx="4"></rect>
+                </g>
+                <g id="Skeleton" transform="translate(26.000000, 18.500000)" fill="#E0E5E8">
+                    <rect id="Rectangle" x="-1.42108547e-14" y="0" width="217" height="65" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-19" transform="translate(1037.000000, 18.500000)" fill="#E0E5E8">
+                    <rect id="Rectangle" x="0" y="0" width="217" height="65" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-18" transform="translate(262.000000, 18.500000)" fill="#E0E5E8">
+                    <rect id="Rectangle" x="0" y="0" width="480" height="65" rx="4"></rect>
+                </g>
+            </g>
+            <g id="Skeleton" transform="translate(32.000000, 608.000000)" fill="#E0E5E8">
+                <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+            </g>
+            <g id="Skeleton-Copy" transform="translate(32.000000, 687.000000)" fill="#E0E5E8">
+                <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+            </g>
+            <g id="Skeleton-Copy-2" transform="translate(32.000000, 766.000000)" fill="#E0E5E8">
+                <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+            </g>
+            <g id="Skeleton-Copy-3" transform="translate(32.000000, 845.000000)" fill="#E0E5E8">
+                <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+            </g>
+            <g id="Group-26" transform="translate(32.000000, 998.000000)" fill="#E0E5E8">
+                <g id="Skeleton-Copy-4">
+                    <rect id="Rectangle" x="0" y="0" width="266" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-5" transform="translate(0.000000, 91.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-7" transform="translate(0.000000, 133.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-8" transform="translate(0.000000, 182.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-9" transform="translate(0.000000, 231.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-10" transform="translate(0.000000, 273.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-11" transform="translate(0.000000, 322.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-12" transform="translate(0.000000, 371.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-13" transform="translate(0.000000, 420.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-14" transform="translate(0.000000, 462.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-15" transform="translate(0.000000, 511.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-6" transform="translate(0.000000, 49.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+            </g>
+            <g id="Group-26-Copy" transform="translate(468.000000, 998.000000)" fill="#E0E5E8">
+                <g id="Skeleton-Copy-4">
+                    <rect id="Rectangle" x="0" y="0" width="266" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-5" transform="translate(0.000000, 91.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-7" transform="translate(0.000000, 133.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-8" transform="translate(0.000000, 182.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-9" transform="translate(0.000000, 231.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-10" transform="translate(0.000000, 273.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-11" transform="translate(0.000000, 322.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-12" transform="translate(0.000000, 371.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-13" transform="translate(0.000000, 420.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-14" transform="translate(0.000000, 462.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-15" transform="translate(0.000000, 511.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-6" transform="translate(0.000000, 49.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+            </g>
+            <g id="Group-26-Copy-2" transform="translate(904.000000, 998.000000)" fill="#E0E5E8">
+                <g id="Skeleton-Copy-4">
+                    <rect id="Rectangle" x="0" y="0" width="266" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-5" transform="translate(0.000000, 91.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-7" transform="translate(0.000000, 133.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-8" transform="translate(0.000000, 182.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-9" transform="translate(0.000000, 231.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-10" transform="translate(0.000000, 273.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-11" transform="translate(0.000000, 322.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-12" transform="translate(0.000000, 371.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-13" transform="translate(0.000000, 420.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-14" transform="translate(0.000000, 462.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-15" transform="translate(0.000000, 511.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-6" transform="translate(0.000000, 49.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="350" height="28" rx="4"></rect>
+                </g>
+            </g>
+            <g id="Group-39-Copy" transform="translate(361.000000, 608.000000)" fill="#E0E5E8">
+                <g id="Skeleton">
+                    <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy" transform="translate(0.000000, 79.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-2" transform="translate(0.000000, 158.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+                </g>
+                <g id="Skeleton-Copy-3" transform="translate(0.000000, 237.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="239" height="65" rx="4"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="Group-39" transform="translate(155.000000, 766.000000)"></g>
+        <g id="Group-43" transform="translate(1.931643, 0.000000)">
+            <g id="Group-42">
+                <g id="Admin_top_nav">
+                    <g id="Top-Navigation/Desktop/Top-Navigation-Dark" transform="translate(0.000000, 65.000000)">
+                        <rect id="Rectangle" fill="#333840" x="0" y="0" width="1440" height="55"></rect>
+                        <g id="Group" transform="translate(32.000000, 7.000000)">
+                            <g id="Button/Outlined/Active">
+                                <path d="M2,0 L103,0 C104.104569,-2.02906125e-16 105,0.8954305 105,2 L105,48 L105,48 L0,48 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="↳-🎨-Color-l-Container" fill="#333840"></path>
+                                <rect id="Rectangle" fill="#333840" x="0" y="42" width="105" height="6"></rect>
+                                <g id="Button/label-only" transform="translate(20.000000, 13.000000)" fill="#FFFFFF" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22">
+                                    <text id="↳-✏️-Label">
+                                        <tspan x="0" y="17">Accounts</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Button/Outlined/Active-Copy" transform="translate(239.000000, 0.000000)">
+                                <path d="M2,0 L110,0 C111.104569,-2.02906125e-16 112,0.8954305 112,2 L112,48 L112,48 L0,48 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="↳-🎨-Color-l-Container"></path>
+                                <rect id="Rectangle" fill="#333840" x="0" y="42" width="112" height="6"></rect>
+                                <g id="Button/label-only" transform="translate(20.000000, 13.000000)" fill="#FFFFFF" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22">
+                                    <text id="↳-✏️-Label">
+                                        <tspan x="0" y="17">Catalogue</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Button/Outlined/Active" transform="translate(113.000000, 0.000000)">
+                                <path d="M2,0 L116,0 C117.104569,-2.02906125e-16 118,0.8954305 118,2 L118,48 L118,48 L0,48 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="↳-🎨-Color-l-Container" fill="#333840"></path>
+                                <rect id="Rectangle" fill="#333840" x="0" y="42" width="118" height="6"></rect>
+                                <g id="Button/label-only" transform="translate(20.000000, 13.000000)" fill="#FFFFFF" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22">
+                                    <text id="↳-✏️-Label">
+                                        <tspan x="0" y="17">Dashboard</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Button/Outlined/Active" transform="translate(358.000000, 0.000000)">
+                                <path d="M2,0 L167,0 C168.104569,-2.02906125e-16 169,0.8954305 169,2 L169,48 L169,48 L0,48 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="↳-🎨-Color-l-Container"></path>
+                                <g id="Button/label-only" transform="translate(20.000000, 13.000000)" fill="#FFFFFF" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22">
+                                    <text id="↳-✏️-Label">
+                                        <tspan x="0" y="17">Support Requests</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Lists/divider" fill="#E0E5E8">
+                            <rect id="➖Divider" x="0" y="0" width="1440" height="1"></rect>
+                        </g>
+                    </g>
+                    <g id="Navbar/Desktop/Navbar-simplified-dark">
+                        <g id="Group-9" fill="#333840">
+                            <rect id="Rectangle" x="0" y="0" width="1440" height="65"></rect>
+                        </g>
+                        <g id="Group-3" transform="translate(784.000000, 22.000000)" opacity="0.654831659">
+                            <g id="24px-(30)" transform="translate(0.301314, 0.000000)"></g>
+                        </g>
+                        <g id="SoftwareONE-Logo-NoClaim" transform="translate(30.000000, 17.000000)" fill-rule="nonzero">
+                            <path d="M51.4110762,14.3561049 C50.0807943,14.3561049 49.0007899,13.8720152 48.1707963,12.9046423 C47.3408028,11.9370005 46.925806,10.6667019 46.925806,9.0934776 C46.925806,7.52052213 47.3304079,6.25452414 48.1398781,5.2960212 C48.9490818,4.33724947 50.0042984,3.857998 51.3052613,3.857998 C52.6941812,3.857998 53.7891116,4.31493996 54.5897862,5.22936143 C55.3901942,6.14324534 55.7905315,7.4226828 55.7905315,9.06713624 C55.7905315,10.7527145 55.4019218,12.0558054 54.6252355,12.9758714 C53.8480161,13.8959375 52.7765408,14.3561049 51.4110762,14.3561049 M51.3052613,2.51351351 C49.5096074,2.51351351 48.0721779,3.11022594 46.991907,4.30338201 C45.9119025,5.49653808 45.3716338,7.04852798 45.3716338,8.96015806 C45.3716338,11.0139777 45.9220309,12.6525178 47.0228251,13.8749719 C48.1236194,15.0979636 49.6215525,15.7094595 51.516891,15.7094595 C53.2653681,15.7094595 54.6734786,15.1157037 55.742022,13.928461 C56.8102988,12.7412183 57.3447038,11.1889596 57.3447038,9.27168496 C57.3447038,7.18829845 56.7972385,5.54115712 55.7023081,4.32999216 C54.6073776,3.11909599 53.1416954,2.51351351 51.3052613,2.51351351 M70.1579892,2.72297297 L68.3238864,2.72297297 L61.7532074,12.9073687 C61.5865686,13.1626242 61.4503009,13.4299834 61.3433295,13.7094464 L61.2901126,13.7094464 C61.3374165,13.4359008 61.3613373,12.8506154 61.3613373,11.9538592 L61.3613373,2.72297297 L59.8653501,2.72297297 L59.8653501,15.5 L61.8064244,15.5 L68.199176,5.47618116 C68.466067,5.06034882 68.6383501,4.77496841 68.7154877,4.62084685 L68.7512345,4.62084685 C68.6918358,4.98907096 68.6622708,5.61550921 68.6622708,6.50069953 L68.6622708,15.5 L70.1579892,15.5 L70.1579892,2.72297297 Z M80.2405745,2.72297297 L73.518851,2.72297297 L73.518851,15.5 L79.9573101,15.5 L79.9573101,14.1457207 L75.0048546,14.1457207 L75.0048546,9.89567743 L79.5859427,9.89567743 L79.5859427,8.55027421 L75.0048546,8.55027421 L75.0048546,4.0772523 L80.2405745,4.0772523 L80.2405745,2.72297297 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(62.806104, 9.111486) scale(-1, 1) rotate(-180.000000) translate(-62.806104, -9.111486) "></path>
+                            <path d="M91.3734291,2.84262021 C90.4368538,2.34429484 89.2709348,2.09459459 87.8751389,2.09459459 C86.0729248,2.09459459 84.6299268,2.67919959 83.5464116,3.84867838 C82.4626297,5.01842594 81.9210054,6.55264449 81.9210054,8.45214036 C81.9210054,10.4940917 82.530366,12.1441561 83.749354,13.4026024 C84.9686087,14.6610486 86.5148113,15.2905405 88.3876953,15.2905405 C89.5888158,15.2905405 90.5840604,15.1150246 91.3734291,14.765068 L91.3734291,13.1714482 C90.4664551,13.6816001 89.4653436,13.9369448 88.3695611,13.9369448 C86.9150959,13.9369448 85.7355764,13.4472205 84.8318025,12.4680407 C83.927762,11.4883234 83.4760084,10.1796145 83.4760084,8.54110784 C83.4760084,6.98592415 83.8984274,5.74683033 84.7435319,4.82382639 C85.5883698,3.90082245 86.6972195,3.43932048 88.069281,3.43932048 C89.3416047,3.43932048 90.4429874,3.72423143 91.3734291,4.29405331 L91.3734291,2.84262021 Z M95.1543986,2.30405405 L93.6840215,2.30405405 L93.6840215,15.7094595 L95.1543986,15.7094595 L95.1543986,2.30405405 Z M105.447038,2.30564082 L103.988201,2.30564082 L103.988201,3.73040196 L103.952214,3.73040196 C103.347409,2.63986372 102.410392,2.09459459 101.140893,2.09459459 C98.9703633,2.09459459 97.8850987,3.37281797 97.8850987,5.9287338 L97.8850987,11.3108108 L99.3348038,11.3108108 L99.3348038,6.15730085 C99.3348038,4.2578848 100.07013,3.30804404 101.541321,3.30804404 C102.252745,3.30804404 102.83875,3.56740525 103.298531,4.08639314 C103.758043,4.60538104 103.988201,5.2836491 103.988201,6.12225921 L103.988201,11.3108108 L105.447038,11.3108108 L105.447038,2.30564082 Z M109.850663,7.26655653 L109.850663,6.00232289 C109.850663,5.25371083 110.095956,4.61879171 110.586542,4.09703179 C111.077127,3.57527186 111.699918,3.31452534 112.455183,3.31452534 C113.341307,3.31452534 114.035181,3.6505334 114.537883,4.32228262 C115.040316,4.99429873 115.291533,5.92839578 115.291533,7.12484066 C115.291533,8.13313171 115.056472,8.92284405 114.586888,9.49451144 C114.117304,10.0661788 113.480782,10.3522794 112.678128,10.3522794 C111.827546,10.3522794 111.144172,10.0589729 110.626661,9.47236 C110.10915,8.88574705 109.850663,8.15074611 109.850663,7.26655653 M109.886474,3.61503771 L109.850663,3.61503771 L109.850663,2.30676807 L108.387792,2.30676807 L108.387792,15.7094595 L109.850663,15.7094595 L109.850663,9.76860221 L109.886474,9.76860221 C110.605928,10.9709186 111.658453,11.5722102 113.043778,11.5722102 C114.215045,11.5722102 115.132402,11.1668121 115.795581,10.3565496 C116.458491,9.54602022 116.789946,8.46006568 116.789946,7.09868595 C116.789946,5.58358053 116.418641,4.37112255 115.675224,3.46051137 C114.931806,2.55016707 113.915093,2.09459459 112.624815,2.09459459 C111.417468,2.09459459 110.504957,2.60167585 109.886474,3.61503771" id="Combined-Shape" fill="#FFFFFF" transform="translate(99.355476, 8.902027) scale(-1, 1) rotate(-180.000000) translate(-99.355476, -8.902027) "></path>
+                            <path d="M51.1077469,24.8787995 L51.1077469,24.2761205 C51.1077469,23.9191247 51.2241273,23.61593 51.4571545,23.3673315 C51.690448,23.118468 51.9860596,22.9941688 52.3450547,22.9941688 C52.7658352,22.9941688 53.0955354,23.1545121 53.3341552,23.4749338 C53.572775,23.7953555 53.6923513,24.2408715 53.6923513,24.8114818 C53.6923513,25.2922468 53.5807645,25.6688549 53.3575911,25.9415712 C53.1344176,26.2140223 52.8321481,26.350513 52.4507824,26.350513 C52.0467799,26.350513 51.7221397,26.2105769 51.4763293,25.9309699 C51.2305189,25.6510979 51.1077469,25.3007278 51.1077469,24.8787995 M51.1247912,23.1375502 L51.1077469,23.1375502 L51.1077469,22.5134038 L50.4129264,22.5134038 L50.4129264,28.9054054 L51.1077469,28.9054054 L51.1077469,26.0722311 L51.1247912,26.0722311 C51.4664756,26.6454917 51.9663522,26.9322546 52.6246873,26.9322546 C53.1810231,26.9322546 53.616451,26.7390474 53.9317701,26.3526332 C54.2465565,25.966219 54.4039497,25.4480847 54.4039497,24.7987603 C54.4039497,24.0762876 54.2273817,23.4979915 53.874512,23.0636067 C53.5213759,22.629487 53.0382773,22.4121622 52.4254823,22.4121622 C51.851836,22.4121622 51.4185386,22.6541349 51.1247912,23.1375502 M59.0251346,27.0202703 L56.9789392,21.8983618 C56.6138299,20.984229 56.101257,20.527027 55.4409473,20.527027 C55.2555253,20.527027 55.1004154,20.545727 54.9758905,20.5831271 L54.9758905,21.2170307 C55.1293619,21.1652668 55.2699986,21.1392494 55.3975274,21.1392494 C55.7566289,21.1392494 56.0258867,21.351996 56.2055739,21.7772182 L56.5616715,22.6138409 L54.8240575,27.0202703 L55.6146268,27.0202703 L56.8180945,23.6228289 C56.8325678,23.5797376 56.8628798,23.4675374 56.9093035,23.2864996 L56.9355193,23.2864996 C56.9497195,23.3556083 56.9789392,23.4648273 57.022359,23.6141564 L58.2864507,27.0202703 L59.0251346,27.0202703 Z M61.9658887,22.7599731 L61.9658887,23.5995166 C62.0643443,23.5147627 62.1827646,23.4385375 62.3206024,23.3705744 C62.4581668,23.3026114 62.6033889,23.2453092 62.7557216,23.1986679 C62.9077808,23.1522931 63.060934,23.1163127 63.2146342,23.0907266 C63.3683344,23.065407 63.5102746,23.052614 63.6410017,23.052614 C64.0906158,23.052614 64.4264588,23.1336366 64.648531,23.2964814 C64.8700561,23.4590597 64.9810922,23.6927993 64.9810922,23.9982332 C64.9810922,24.1621441 64.9441713,24.3049998 64.8700561,24.4262672 C64.7962144,24.5478011 64.6942034,24.6589407 64.5634763,24.7591529 C64.4330226,24.8593651 64.2785019,24.9558459 64.1001878,25.0475294 C63.9216003,25.1394794 63.7293383,25.2362268 63.523402,25.3380382 C63.3059791,25.4454464 63.1027777,25.5541873 62.914618,25.6642608 C62.7256379,25.7748673 62.5620922,25.8964013 62.4228869,26.0291291 C62.2834081,26.1621235 62.1740129,26.3127083 62.094428,26.480617 C62.0145695,26.6487922 61.9746403,26.8460183 61.9746403,27.0722953 C61.9746403,27.349478 62.0369955,27.5901471 62.161706,27.7953689 C62.2864164,28.0000576 62.4502357,28.1690324 62.6534371,28.3017602 C62.8563651,28.4347546 63.0877358,28.5336342 63.3475493,28.5986655 C63.6068158,28.6636968 63.8718255,28.6959459 64.1414845,28.6959459 C64.7562852,28.6959459 65.2045318,28.6242516 65.4859508,28.4800633 L65.4859508,27.6786323 C65.1172891,27.9272972 64.6447021,28.0514963 64.0676428,28.0514963 C63.9079259,28.0514963 63.7484825,28.0352385 63.5890391,28.0029893 C63.4293222,27.9704737 63.2871085,27.9177024 63.162398,27.8438758 C63.0376876,27.7703158 62.9362236,27.6757006 62.858006,27.5597636 C62.7797885,27.4438267 62.7404063,27.3028367 62.7404063,27.1357275 C62.7404063,26.9803453 62.769943,26.8460183 62.8295633,26.7330131 C62.8889102,26.6200079 62.9766998,26.516864 63.0929321,26.4235813 C63.208891,26.3302987 63.3502842,26.2396813 63.5171118,26.1522622 C63.6836659,26.0645765 63.8759278,25.9683621 64.0933506,25.8638856 C64.3170637,25.7562108 64.5287433,25.6432056 64.7289364,25.5246034 C64.928856,25.4060012 65.1044352,25.274606 65.255127,25.1304177 C65.4060923,24.9862294 65.52588,24.8265829 65.6142166,24.6512116 C65.7025531,24.4755737 65.7468582,24.2754159 65.7468582,24.0491389 C65.7468582,23.7495684 65.6864174,23.4958397 65.5663562,23.2876862 C65.4460215,23.0800657 65.2835698,22.9110909 65.0790008,22.7812948 C64.8747054,22.6512322 64.6386854,22.55715 64.3720348,22.4990483 C64.1051106,22.4414796 63.8236916,22.4121622 63.5280513,22.4121622 C63.4293222,22.4121622 63.3073466,22.4204243 63.162398,22.4356161 C63.0174495,22.4510743 62.8694925,22.4739952 62.7188007,22.5035791 C62.5678354,22.533163 62.4250748,22.5696765 62.2902453,22.6136526 C62.1551423,22.6576287 62.0471146,22.7064022 61.9658887,22.7599731 M68.7126295,26.4271662 C68.27332,26.4271662 67.926221,26.2731483 67.6705465,25.9651124 C67.415134,25.6570766 67.2872968,25.2320411 67.2872968,24.6902764 C67.2872968,24.1687771 67.4164438,23.7575222 67.6747379,23.456782 C67.933032,23.1560417 68.2793451,23.0052663 68.7126295,23.0052663 C69.1545587,23.0052663 69.4937988,23.1530694 69.7316599,23.4481353 C69.969259,23.7432012 70.0879276,24.1633729 70.0879276,24.7078398 C70.0879276,25.257981 69.969259,25.6819356 69.7316599,25.980244 C69.4937988,26.2782822 69.1545587,26.4271662 68.7126295,26.4271662 M68.6625949,22.4121622 C68.0317915,22.4121622 67.5283014,22.6177896 67.1518627,23.0290445 C66.775162,23.4400291 66.5870736,23.9855768 66.5870736,24.6648769 C66.5870736,25.4041629 66.7830208,25.9818652 67.1746533,26.3971732 C67.5665478,26.8124812 68.0959721,27.0202703 68.7624022,27.0202703 C69.3987068,27.0202703 69.8956478,26.8184257 70.2524395,26.4141962 C70.609493,26.010237 70.7881508,25.4498279 70.7881508,24.7332392 C70.7881508,24.0312418 70.5953471,23.4692115 70.2107876,23.0460675 C69.8259661,22.6234639 69.3099018,22.4121622 68.6625949,22.4121622 M72.9092725,22.6216216 L72.9092725,26.3534652 L73.9682229,26.3534652 L73.9682229,26.9447009 L72.9092725,26.9447009 L72.9092725,27.6118312 C72.9092725,28.2224387 73.1621562,28.527875 73.6682008,28.527875 C73.847604,28.527875 74.0078746,28.4899277 74.1490126,28.4137676 L74.1490126,29.0387048 C74.0195206,29.0893897 73.8445539,29.1148649 73.6241125,29.1148649 C73.2153948,29.1148649 72.8740573,28.9832433 72.6006545,28.7200001 C72.3272518,28.4567569 72.1905504,28.098778 72.1905504,27.6452674 L72.1905504,26.9447009 L71.4183124,26.9447009 L71.4183124,26.3534652 L72.1905504,26.3534652 L72.1905504,22.6216216 L72.9092725,22.6216216 Z M76.0245282,22.6216216 C76.2915884,22.6216216 76.5067203,22.6661565 76.6696589,22.7557534 L76.6696589,23.3428762 C76.5430172,23.2477454 76.3927958,23.2003118 76.2184648,23.2003118 C75.9908807,23.2003118 75.8279421,23.261712 75.7296491,23.3847759 C75.6310911,23.5078398 75.582342,23.713122 75.582342,24.0011495 L75.582342,26.4197372 L76.6696589,26.4197372 L76.6696589,27.00686 L75.582342,27.00686 L75.582342,28.277027 L74.8908467,28.0548796 L74.8908467,27.00686 L74.1490126,27.00686 L74.1490126,26.4197372 L74.8908467,26.4197372 L74.8908467,23.8794032 C74.8908467,23.0408821 75.2686522,22.6216216 76.0245282,22.6216216 Z M83.1813285,27.0202703 L81.8753636,22.6216216 L81.1520558,22.6216216 L80.2546728,25.7704179 C80.2207134,25.8905701 80.1979847,26.0263825 80.186754,26.1783952 L80.1696406,26.1783952 C80.161084,26.0752534 80.1314029,25.942141 80.0803302,25.7787881 L79.1062044,22.6216216 L78.4082992,22.6216216 L77.0897666,27.0202703 L77.8213637,27.0202703 L78.7232924,23.7127111 C78.7516365,23.6125393 78.7716912,23.480777 78.7829219,23.3174241 L78.8168812,23.3174241 C78.8254379,23.4437863 78.8508406,23.5779787 78.8933567,23.7213513 L79.8974309,27.0202703 L80.5351718,27.0202703 L81.4373679,23.704341 C81.4654446,23.5982291 81.4865689,23.4664667 81.5010083,23.3090539 L81.5349677,23.3090539 C81.5408504,23.4205659 81.5649161,23.5523283 81.6071648,23.704341 L82.4922475,27.0202703 L83.1813285,27.0202703 Z M86.2810387,24.7420195 L85.2548413,24.5958461 C84.9391485,24.5501838 84.7010081,24.4691265 84.5404199,24.3532146 C84.3798318,24.2370324 84.2994072,24.0311468 84.2994072,23.7360982 C84.2994072,23.5210262 84.3735649,23.3456722 84.5218805,23.2094959 C84.6696738,23.0735898 84.8670797,23.0052315 85.113576,23.0052315 C85.451725,23.0052315 85.7306,23.1278982 85.9507233,23.3729615 C86.1708465,23.6180248 86.2810387,23.9279339 86.2810387,24.3034994 L86.2810387,24.7420195 Z M86.962298,22.5153751 L86.2810387,22.5153751 L86.2810387,23.2032815 L86.2645882,23.2032815 C85.9679571,22.6761388 85.5318885,22.4121622 84.9558602,22.4121622 C84.5320641,22.4121622 84.200182,22.5283443 83.9607359,22.7604384 C83.7212899,22.9925325 83.6014363,23.3005503 83.6014363,23.6844917 C83.6014363,24.5072235 84.0693614,24.9854616 85.0057339,25.1202869 L86.2810387,25.3050976 C86.2810387,26.0532566 85.9888467,26.4269308 85.4044625,26.4269308 C84.8921471,26.4269308 84.4297055,26.2464431 84.0168765,25.8851977 L84.0168765,26.6074184 C84.435189,26.882743 84.9169534,27.0202703 85.462692,27.0202703 C86.4622553,27.0202703 86.962298,26.472593 86.962298,25.3780492 L86.962298,22.5153751 Z M90.5332136,26.2436011 C90.4091988,26.3364724 90.2302475,26.382908 89.9966319,26.382908 C89.6936657,26.382908 89.4404688,26.2436011 89.2373129,25.9649873 C89.033885,25.6863735 88.9321711,25.3063973 88.9321711,24.8250588 L88.9321711,22.6216216 L88.2226212,22.6216216 L88.2226212,26.9443812 L88.9321711,26.9443812 L88.9321711,26.053613 L88.9495767,26.053613 C89.0507467,26.3577001 89.2049493,26.5943892 89.4127286,26.765007 C89.6202359,26.935094 89.8522198,27.0202703 90.1089523,27.0202703 C90.2936148,27.0202703 90.4353072,27.0009 90.5332136,26.961098 L90.5332136,26.2436011 Z M94.2329678,25.1375791 C94.2303065,25.5444868 94.1334336,25.8611507 93.9428815,26.0875708 C93.7523293,26.3139909 93.4877919,26.4269308 93.1492691,26.4269308 C92.8216578,26.4269308 92.5435475,26.3083169 92.3149382,26.0702786 C92.086595,25.8322403 91.9450116,25.5215206 91.8915186,25.1375791 L94.2329678,25.1375791 Z M94.9443447,24.5399166 L91.8832684,24.5399166 C91.894446,24.0500602 92.0243196,23.6717928 92.272889,23.4053844 C92.5209261,23.1387059 92.8629086,23.0052315 93.2972397,23.0052315 C93.7855961,23.0052315 94.2345646,23.1689673 94.643613,23.4956282 L94.643613,22.8336602 C94.2625087,22.5526615 93.7589827,22.4121622 93.1322365,22.4121622 C92.5198616,22.4121622 92.0384247,22.6121035 91.688192,23.0119863 C91.3384916,23.4115988 91.1633752,23.9741365 91.1633752,24.6990591 C91.1633752,25.3839934 91.3547258,25.9419378 91.7371607,26.3731627 C92.1198618,26.8046578 92.5946453,27.0202703 93.1620435,27.0202703 C93.7291757,27.0202703 94.1680311,26.8338385 94.4786097,26.461245 C94.7891884,26.0889218 94.9443447,25.5715059 94.9443447,24.9095379 L94.9443447,24.5399166 Z M98.5412968,28.0514963 C97.8880685,28.0514963 97.3572524,27.8212215 96.9496663,27.3604054 C96.5418076,26.8998557 96.3378782,26.2945848 96.3378782,25.5456586 C96.3378782,24.7967324 96.5369002,24.1935937 96.9341262,23.7373084 C97.3316249,23.2810231 97.8501725,23.0523475 98.4894965,23.0523475 C99.1718965,23.0523475 99.7095284,23.2703623 100.102938,23.7053258 C100.496074,24.1405558 100.692915,24.7498246 100.692915,25.5328656 C100.692915,26.3358957 100.501799,26.9560918 100.120113,27.3942536 C99.7387002,27.8326819 99.2122462,28.0514963 98.5412968,28.0514963 M98.4894965,22.4121622 C97.6072567,22.4121622 96.9011376,22.6962744 96.3705942,23.2644988 C95.839778,23.8327232 95.5745063,24.5717881 95.5745063,25.4819599 C95.5745063,26.4598283 95.8449581,27.240204 96.3858616,27.8228206 C96.9262199,28.4049042 97.6623285,28.6959459 98.5933696,28.6959459 C99.452163,28.6959459 100.144105,28.4134329 100.668923,27.8478737 C101.193742,27.282581 101.456014,26.5435161 101.456014,25.6304125 C101.456014,24.638152 101.187198,23.8537784 100.649294,23.2772918 C100.111662,22.7005387 99.3913659,22.4121622 98.4894965,22.4121622 M107.547576,22.6216216 L106.686722,22.6216216 L103.602411,27.4636673 C103.524653,27.5848183 103.460292,27.7118271 103.410117,27.8446938 L103.384898,27.8446938 C103.40749,27.7150223 103.418523,27.4365082 103.418523,27.0102164 L103.418523,22.6216216 L102.716338,22.6216216 L102.716338,28.6959459 L103.627367,28.6959459 L106.628141,23.9305849 C106.75371,23.7330156 106.834357,23.5974862 106.870609,23.5239968 L106.887159,23.5239968 C106.859576,23.6991998 106.84539,23.9968851 106.84539,24.4178515 L106.84539,28.6959459 L107.547576,28.6959459 L107.547576,22.6216216 Z M112.378815,22.6216216 L109.228007,22.6216216 L109.228007,28.6959459 L112.245914,28.6959459 L112.245914,28.0523812 L109.924307,28.0523812 L109.924307,26.0316892 L112.071839,26.0316892 L112.071839,25.3921185 L109.924307,25.3921185 L109.924307,23.2657189 L112.378815,23.2657189 L112.378815,22.6216216 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(81.395871, 24.820946) scale(-1, 1) rotate(-180.000000) translate(-81.395871, -24.820946) "></path>
+                            <path d="M24.9991052,19.2417275 C22.9969662,18.8073417 20.8950796,18.5263734 18.8623873,18.2545478 L18.6377308,18.2244441 L18.6377308,17.6089899 L18.7379276,17.6011852 C20.1910061,17.485899 20.8678962,16.8508216 20.8678962,15.60252 L20.8678962,7.48209221 C20.8678962,5.91156902 20.451383,4.91948359 18.3784771,4.8285034 L18.2746858,4.82404359 L18.2746858,4.18918919 L22.9996621,4.28507517 L27.7271095,4.18918919 L27.7248629,4.29934657 L27.7248629,4.82404359 L27.6210716,4.8285034 C25.5477165,4.91948359 25.1312033,5.91156902 25.1312033,7.48209221 L25.1312033,19.2702703 L24.9991052,19.2417275 Z" id="path22" fill="#FFFFFF" transform="translate(23.000898, 11.729730) scale(-1, 1) rotate(-180.000000) translate(-23.000898, -11.729730) "></path>
+                            <path d="M43.5046023,28.7917617 C44.3326755,28.4727418 44.3272984,27.9032682 43.4008692,27.4748952 C42.4527075,27.0363807 40.8044028,27.436754 39.5878344,27.6389248 C34.993328,28.4004277 29.4152607,28.8592255 22.0956857,28.500521 C14.0564757,28.1067619 7.90753982,27.4162503 1.36092271,26.255256 C-0.300600652,25.9602673 -0.350786903,26.6366688 0.723736563,26.9437833 C7.31829947,28.8303439 13.9171192,30.1068644 22.4684978,30.6051263 C30.8254047,31.0921442 38.6430334,30.6639918 43.5046023,28.7917617" id="path26" fill="#CF0C2C" transform="translate(22.055655, 28.486486) scale(-1, 1) rotate(-180.000000) translate(-22.055655, -28.486486) "></path>
+                            <path d="M22.6517409,0 C31.0319296,0 36.9694794,4.90338787 36.9694794,12.3925563 C36.9694794,20.4527392 29.7917278,23.8783784 22.7266,23.8783784 C14.9475181,23.8783784 8.82226212,19.2440584 8.82226212,11.8888648 C8.82226212,4.70164286 14.3464113,0 22.6517409,0 M33.2864153,12.1239357 C33.5498744,8.42967593 30.6936115,1.10803191 22.7643647,1.10803191 C17.1649095,1.10803191 12.5048793,4.66854058 12.5048793,11.4858221 C12.5048793,18.3033272 16.4882733,22.7701228 23.1026828,22.7701228 C26.1088872,22.7701228 29.0402326,21.628094 30.9193058,19.512679 C32.8732381,17.2623946 33.2864153,14.9114613 33.2864153,12.1239357" id="path30" fill="#FFFFFF" transform="translate(22.895871, 11.939189) scale(-1, 1) rotate(-180.000000) translate(-22.895871, -11.939189) "></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="SWO-admin" transform="translate(1271.068357, 16.000000)">
+                    <rect id="Rectangle" fill="#333840" x="0" y="0" width="45" height="37"></rect>
+                    <text id="SWO-Admin" font-family="FiraSans-Regular, Fira Sans" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.25" fill="#FFFFFF">
+                        <tspan x="54" y="24">SWO Admin</tspan>
+                    </text>
+                    <g id="ic_notifications" transform="translate(10.500000, 6.500000)">
+                        <mask id="mask-40" fill="white">
+                            <use xlink:href="#path-39"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" xlink:href="#path-39"></use>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#FFFFFF" x="149" y="114" width="109" height="6"></rect>
+        </g>
+    </g>
+</svg>

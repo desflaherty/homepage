@@ -666,7 +666,7 @@ section {
 .fullbanner-dashboard {
     background-image:
     linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url('../images/Bus_Announcements_card.svg');
+    url('../images/Product_Catalogue.svg');
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
@@ -675,7 +675,7 @@ section {
 
   @media screen and (min-device-width: 280px)  { 
     .fullbanner-dashboard {
-        background-color:#37BAAB;
+        background-color:#2FA8C1;
         background-repeat: no-repeat;
         background-size:cover;
         width: 100%;
