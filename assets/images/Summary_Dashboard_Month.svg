@@ -323,7 +323,7 @@
                             </text>
                         </g>
                         <g id="Button/button-toggle-end" transform="translate(118.989515, 0.000000)">
-                            <path d="M1.42108547e-14,0 L126.010485,0 C128.219624,7.44262609e-15 130.010485,1.790861 130.010485,4 L130.010485,44 C130.010485,46.209139 128.219624,48 126.010485,48 L1.42108547e-14,48 L1.42108547e-14,48 L1.42108547e-14,0 Z" id="↳-🎨-Color-l-Container" stroke="#BAC4CA" fill="#E0E5E8"></path>
+                            <path d="M-1.42108547e-14,0 L126.010485,0 C128.219624,7.44262609e-15 130.010485,1.790861 130.010485,4 L130.010485,44 C130.010485,46.209139 128.219624,48 126.010485,48 L-1.42108547e-14,48 L-1.42108547e-14,48 L-1.42108547e-14,0 Z" id="↳-🎨-Color-l-Container" stroke="#BAC4CA" fill="#E0E5E8"></path>
                             <text id="↳-✏️-Label" font-family="FiraSans-Regular, Fira Sans" font-size="16" font-weight="normal" line-spacing="22" fill="#333840">
                                 <tspan x="20.5052423" y="30">Last 30 days</tspan>
                             </text>
@@ -1927,25 +1927,25 @@
         <line x1="1094.00087" y1="657" x2="1094.00087" y2="663.003202" id="SvgjsLine1149-Copy-8" stroke="#78909C" fill="#000000" fill-rule="nonzero" stroke-dasharray="0"></line>
         <g id="Group" transform="translate(109.000000, 884.000000)">
             <rect id="Rectangle" fill="#EAFFF2" x="0" y="0" width="197" height="28" rx="2"></rect>
-            <text id="Autorenew" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#18793D">
+            <text id="Autorenew" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#114D28">
                 <tspan x="12.3125" y="19">(+0.72%) Since Last Month</tspan>
             </text>
         </g>
         <g id="Group" transform="translate(439.000000, 884.000000)">
             <rect id="Rectangle" fill="#EAFFF2" x="0" y="0" width="197" height="28" rx="2"></rect>
-            <text id="(+1.12%)-Since-Last" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#18793D">
+            <text id="(+1.12%)-Since-Last" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#114D28">
                 <tspan x="12.3125" y="19">(+1.12%) Since Last Month</tspan>
             </text>
         </g>
         <g id="Group" transform="translate(767.000000, 884.000000)">
             <rect id="Rectangle" fill="#EAFFF2" x="0" y="0" width="197" height="28" rx="2"></rect>
-            <text id="(+1.52%)-Since-Last" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#18793D">
+            <text id="(+1.52%)-Since-Last" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#114D28">
                 <tspan x="12.3125" y="19">(+1.52%) Since Last Month</tspan>
             </text>
         </g>
         <g id="Group" transform="translate(1094.000000, 884.000000)">
             <rect id="Rectangle" fill="#EAFFF2" x="0" y="0" width="197" height="28" rx="2"></rect>
-            <text id="(-1.01%)-Since-Last" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#18793D">
+            <text id="(-1.01%)-Since-Last" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.25" fill="#114D28">
                 <tspan x="12.3125" y="19">(-1.01%) Since Last Month</tspan>
             </text>
         </g>
