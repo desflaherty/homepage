@@ -643,7 +643,7 @@ section {
                 .fullbanner-catalogue {
                 background-image:
                 linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-                url('../images/Sub_renewals_card.svg');
+                url('../images/card_purple.svg');
                 background-repeat: no-repeat;
                 background-size:cover;
                 width: 100%;
@@ -675,7 +675,7 @@ section {
 
   @media screen and (min-device-width: 280px)  { 
     .fullbanner-dashboard {
-        background-color:#377CBA;
+        background-color:#2FA8C1;
         background-repeat: no-repeat;
         background-size:cover;
         width: 100%;
@@ -686,8 +686,8 @@ section {
       @media screen and (min-device-width: 1025px)  { 
 .fullbanner-custsubs {
     background-image:
-    linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url('../images/Cust_subs_card.svg');
+    linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url('../images/Bus_Announcements_card.svg');
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
@@ -696,7 +696,7 @@ section {
 
       @media screen and (min-device-width: 280px)  { 
         .fullbanner-custsubs {
-            background-color:#859cb4;
+            background-color:#377CBA;
             
             background-repeat: no-repeat;
             background-size:cover;
