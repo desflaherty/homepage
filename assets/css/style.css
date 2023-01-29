@@ -652,7 +652,7 @@ section {
             
                 @media screen and (min-device-width: 280px)  { 
                     .fullbanner-catalogue {
-                        background-color:#2E60A7;
+                        background-color:#5352A5;
                      
                         background-repeat: no-repeat;
                         background-size:cover;
@@ -675,7 +675,7 @@ section {
 
   @media screen and (min-device-width: 280px)  { 
     .fullbanner-dashboard {
-        background-color:#2FA8C1;
+        background-color:#377CBA;
         background-repeat: no-repeat;
         background-size:cover;
         width: 100%;
