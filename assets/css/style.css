@@ -8,7 +8,14 @@
    
 }
 
+.imgnceflowscale {
+    transition:transform 0.25s ease;
+}
 
+.imgnceflowscale:hover {
+    -webkit-transform:scale(1.5); /* or some other value */
+    transform:scale(1.5);
+}
 
 .imgscalelegacylist:hover {
     z-index:99
@@ -140,6 +147,12 @@
 .imgscalefeedback6:hover {
     z-index:69
 }
+
+
+.imgscalence:hover {
+    z-index:99
+}
+
 
 /*
 only have to use two z scales - once they're beside each other 
