@@ -697,6 +697,36 @@ section {
 
 
       @media screen and (min-device-width: 1025px)  { 
+        .fullbanner-rebrand {
+            background-image:
+            linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+            url('../images/ux_rebrand_header.svg');
+            background-repeat: no-repeat;
+            background-size:cover;
+            width: 100%;
+        }
+          }
+        
+          @media screen and (min-device-width: 280px)  { 
+            .fullbanner-rebrand {
+                background-color:#3E00FF;
+                background-repeat: no-repeat;
+                background-size:cover;
+                width: 100%;
+            }
+              }
+
+
+
+
+
+
+
+
+
+
+
+      @media screen and (min-device-width: 1025px)  { 
 .fullbanner-custsubs {
     background-image:
     linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
