@@ -1209,7 +1209,10 @@ section {
     }
     
     
-    
+    .font18
+    {
+      font-size: 18px;
+    }
       
       
       
@@ -1252,13 +1255,20 @@ section {
     }
          
          
-          
+          .font18
+          {
+            font-size: 18px;
+          }
       
       
          .number-subheading {
         font-size: 28px;
     }
       
+
+         .number-subheading2 {
+        font-size: 20px;
+    }
          
       .retro-heading {
         font-size: 30px;
