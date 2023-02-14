@@ -700,7 +700,7 @@ section {
         .fullbanner-rebrand {
             background-image:
             linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-            url('../images/ux_rebrand_header.svg');
+            url('../images/UX_rebrand_header.svg');
             background-repeat: no-repeat;
             background-size:cover;
             width: 100%;
