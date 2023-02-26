@@ -731,14 +731,73 @@ section {
 
 
 
+              @media screen and (min-device-width: 1025px)  { 
+                .fullbanner-custsubs2 {
+                    background-image:
+                    linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+                    url('../images/renewalscard.svg');
+                    background-repeat: no-repeat;
+                    background-size:cover;
+                    width: 100%;
+                }
+                      }
+                
+                      @media screen and (min-device-width: 280px)  { 
+                        .fullbanner-custsubs2 {
+                            background-color:#61A6FA;
+                            
+                            background-repeat: no-repeat;
+                            background-size:cover;
+                            width: 100%;
+                        }
+                              }
 
 
 
+                              @media screen and (min-device-width: 1025px)  { 
+                                .fullbanner-sync {
+                                    background-image:
+                                    linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+                                    url('../images/synccard.svg');
+                                    background-repeat: no-repeat;
+                                    background-size:cover;
+                                    width: 100%;
+                                }
+                                      }
+                                
+                                      @media screen and (min-device-width: 280px)  { 
+                                        .fullbanner-sync {
+                                            background-color:#37BAAB;
+                                            
+                                            background-repeat: no-repeat;
+                                            background-size:cover;
+                                            width: 100%;
+                                        }
+                                              }
+
+                                              @media screen and (min-device-width: 1025px)  { 
+                                                .fullbanner-accessibility {
+                                                    background-image:
+                                                    linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+                                                    url('../images/accessibilitycard.svg');
+                                                    background-repeat: no-repeat;
+                                                    background-size:cover;
+                                                    width: 100%;
+                                                }
+                                                      }
+                                                
+                                                      @media screen and (min-device-width: 280px)  { 
+                                                        .fullbanner-accessibility {
+                                                            background-color:#F88A3B;
+                                                            
+                                                            background-repeat: no-repeat;
+                                                            background-size:cover;
+                                                            width: 100%;
+                                                        }
+                                                              }
 
 
-
-
-      @media screen and (min-device-width: 1025px)  { 
+ @media screen and (min-device-width: 1025px)  { 
 .fullbanner-custsubs {
     background-image:
     linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
