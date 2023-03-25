@@ -603,7 +603,7 @@ section {
 .fullbanner-IA {
     background-image:
     linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(249, 116, 116, 0.2)),
-    url('../images/IA_card.svg');
+    url('../images/Dark_blue_large.svg');
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
@@ -612,7 +612,7 @@ section {
 
 @media screen and (min-device-width: 280px)  { 
     .fullbanner-IA {
-        background-color:#F6AA40;
+        background-color:#377CBA;
         background-repeat: no-repeat;
         background-size:cover;
         width: 100%;
@@ -647,7 +647,7 @@ section {
     .fullbanner-minicart {
     background-image:
     linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url('../images/Cust_subs_card.svg');
+    url('../images/Dark_green_large.svg');
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
@@ -656,8 +656,7 @@ section {
 
     @media screen and (min-device-width: 280px)  { 
         .fullbanner-minicart {
-            background-color:#9DBFE2;
-         
+            background-color:#37BAAB;
             background-repeat: no-repeat;
             background-size:cover;
             width: 100%;
@@ -668,7 +667,7 @@ section {
                 .fullbanner-catalogue {
                 background-image:
                 linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-                url('../images/Card_purple.svg');
+                url('../images/Light_blue_large.svg');
                 background-repeat: no-repeat;
                 background-size:cover;
                 width: 100%;
@@ -677,7 +676,7 @@ section {
             
                 @media screen and (min-device-width: 280px)  { 
                     .fullbanner-catalogue {
-                        background-color:#5352A5;
+                        background-color:#61A6FA;
                      
                         background-repeat: no-repeat;
                         background-size:cover;
@@ -691,7 +690,7 @@ section {
 .fullbanner-dashboard {
     background-image:
     linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url('../images/Product_Catalogue.svg');
+    url('../images/Teal_large.svg');
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
@@ -712,7 +711,7 @@ section {
         .fullbanner-rebrand {
             background-image:
             linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-            url('../images/UX_rebrand_header.svg');
+            url('../images/Purple_large.svg');
             background-repeat: no-repeat;
             background-size:cover;
             width: 100%;
@@ -721,7 +720,7 @@ section {
         
           @media screen and (min-device-width: 280px)  { 
             .fullbanner-rebrand {
-                background-color:#3E00FF;
+                background-color:#5352A5;
                 background-repeat: no-repeat;
                 background-size:cover;
                 width: 100%;
@@ -801,7 +800,7 @@ section {
 .fullbanner-custsubs {
     background-image:
     linear-gradient(to top, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url('../images/Bus_Announcements_card.svg');
+    url('../images/Light_green_large.svg');
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
@@ -810,7 +809,7 @@ section {
 
       @media screen and (min-device-width: 280px)  { 
         .fullbanner-custsubs {
-            background-color:#377CBA;
+            background-color:#37BA80;
             
             background-repeat: no-repeat;
             background-size:cover;
